@@ -1,0 +1,73 @@
+---
+title:
+  - type: main
+    content: Guidance on Crowdsourced Bathymetry
+    language: en
+  - type: main
+    content: Document d'orientation sur la bathymétrie participative
+    language: fr
+
+type: standard
+
+docid:
+  type: IHO
+  id: B-12
+docnumber: 12
+edition: 2
+
+docstatus:
+  stage: in-force
+
+language:
+  - en
+  - fr
+
+script: Latn
+
+version:
+  revision_date: 2020-01-20
+  draft: 2.0.3
+
+date:
+  type: published
+  from: 2020-01-20
+
+copyright:
+  - owner:
+      name: International Hydrographic Organization
+      abbreviation: IHO
+      url: www.iho.int
+    from: 2020
+
+link:
+  - type: pdf
+    content: https://iho.int/uploads/user/pubs/bathy/B_12_Ed2.0.3_2020.pdf
+
+place: Monaco
+
+validity:
+  begins: 2020-01-20
+
+contributor:
+  - organization:
+      name: International Hydrographic Organization
+      abbreviation: IHO
+      url: www.iho.int
+      role: publisher
+
+series:
+  number: B
+  type: main
+  title:
+    - type: original
+      content: Bathymetric Publications
+      language: en
+      script: Latn
+    - type: original
+      content: Publications bathymétriques
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
+
+fetched: 2020-03-29

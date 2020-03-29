@@ -2,4 +2,4 @@
 
 This repository is used by Relaton-IHO to represent known IHO publications.
 
-Data is stored in AsciiBib format.
+Data is stored in Relaton YAML (or AsciiBib) format.
