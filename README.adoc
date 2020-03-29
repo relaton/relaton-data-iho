@@ -1,0 +1,5 @@
+= IHO publications bibliographic data for Relaton-IHO
+
+This repository is used by Relaton-IHO to represent known IHO publications.
+
+Data is stored in AsciiBib format.
