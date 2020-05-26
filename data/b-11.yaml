@@ -13,7 +13,7 @@ docid:
   type: IHO
   id: B-11
 docnumber: 11
-edition: 1
+edition: 1.0.0
 
 docstatus:
   stage:

@@ -1,19 +1,19 @@
 ---
 title:
   - type: main
-    content: Guidance on Crowdsourced Bathymetry
+    content: REGULATIONS OF THE IHO FOR INTERNATIONAL (INT) CHARTS AND CHART SPECIFICATIONS OF THE IHO
     language: en
   - type: main
-    content: Document d'orientation sur la bathymétrie participative
+    content: RÈGLEMENT DE L’OHI POUR LES CARTES MARINES INTERNATIONALES (INT) ET SPÉCIFICATIONS DE L’OHI POUR LES CARTES MARINES
     language: fr
 
 type: standard
 
 docid:
   type: IHO
-  id: B-12
-docnumber: 12
-edition: 2.0.3
+  id: S-4
+docnumber: 4
+edition: 4.8.0
 
 docstatus:
   stage:
@@ -26,27 +26,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2020-01-20
+  revision_date: 2018-10-01
 
 date:
   type: published
-  from: 2020-01-20
+  from: 2018-11-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2020
+    from: 2018
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/bathy/B_12_Ed2.0.3_2020.pdf
+    content: https://iho.int/uploads/user/pubs/standards/s-4/S4_V4-8-0_Oct_2018_EN.pdf
 
 place: Monaco
 
 validity:
-  begins: 2020-01-20
+  begins: 2018-10-01
 
 contributor:
   - organization:
@@ -56,15 +56,15 @@ contributor:
       role: publisher
 
 series:
-  number: B
+  number: S
   type: main
   title:
     - type: original
-      content: Bathymetric Publications
+      content: Standards and Specifications
       language: en
       script: Latn
     - type: original
-      content: Publications bathymétriques
+      content: Normes et Spécifications
       language: fr
       script: Latn
   place: Monaco

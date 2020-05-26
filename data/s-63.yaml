@@ -13,7 +13,7 @@ docid:
   type: IHO
   id: S-63
 docnumber: 63
-edition: 2
+edition: 1.2.1
 
 docstatus:
   stage:
@@ -27,7 +27,6 @@ script: Latn
 
 version:
   revision_date: 2020-03-01
-  draft: 1.2.1
 
 date:
   type: published
