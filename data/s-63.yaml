@@ -16,7 +16,8 @@ docnumber: 63
 edition: 2
 
 docstatus:
-  stage: in-force
+  stage:
+    value: in-force
 
 language:
   - en
