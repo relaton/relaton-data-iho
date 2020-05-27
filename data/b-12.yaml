@@ -59,14 +59,14 @@ series:
   number: B
   type: main
   title:
-    - type: original
-      content: Bathymetric Publications
-      language: en
-      script: Latn
-    - type: original
-      content: Publications bathymétriques
-      language: fr
-      script: Latn
+    type: original
+    content:
+      - content: Bathymetric Publications
+        language: en
+        script: Latn
+      - content: Publications bathymétriques
+        language: fr
+        script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 

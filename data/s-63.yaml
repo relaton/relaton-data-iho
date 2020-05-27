@@ -59,14 +59,14 @@ series:
   number: S
   type: main
   title:
-    - type: original
-      content: Standards and Specifications
-      language: en
-      script: Latn
-    - type: original
-      content: Normes et Spécifications
-      language: fr
-      script: Latn
+    type: original
+    content:
+      - content: Standards and Specifications
+        language: en
+        script: Latn
+      - content: Normes et Spécifications
+        language: fr
+        script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 
