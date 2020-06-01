@@ -1,0 +1,73 @@
+---
+title:
+  - type: main
+    content: STANDARDS OF COMPETENCE FOR CATEGORY "A" HYDROGRAPHIC SURVEYORS 
+    language: en
+  - type: main
+    content: Normes de compétence pour les hydrographes catégorie "A" 
+    language: fr
+
+type: standard
+
+docid:
+  type: IHO
+  id: S-5
+docnumber: 5
+edition: 1.0.2
+
+docstatus:
+  stage:
+    value: in-force
+
+language:
+  - en
+  - fr
+
+script: Latn
+
+version:
+  revision_date: 2018-06-01
+
+date:
+  type: published
+  from: 2018-06-01
+
+copyright:
+  - owner:
+      name: International Hydrographic Organization
+      abbreviation: IHO
+      url: www.iho.int
+    from: 2018
+
+link:
+  - type: pdf
+    content: https://iho.int/uploads/user/pubs/standards/s-5/S-5A_Ed1.0.2.pdf
+
+place: Monaco
+
+validity:
+  begins: 2018-10-01
+
+contributor:
+  - organization:
+      name: International Hydrographic Organization
+      abbreviation: IHO
+      url: www.iho.int
+      role: publisher
+
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+      - content: Standards and Specifications
+        language: en
+        script: Latn
+      - content: Normes et Spécifications
+        language: fr
+        script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
+
+fetched: 2020-06-01
