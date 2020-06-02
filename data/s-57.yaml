@@ -1,19 +1,19 @@
 ---
 title:
   - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS 
+    content:  IHO Transfer Standard for Digital Hydrographic Data  
     language: en
   - type: main
-    content: Normes de compétence pour les cartographes catégorie "B" 
+    content: Normes de l'OHI pour le transfert de données hydrographiques numériques
     language: fr
 
 type: standard
 
 docid:
   type: IHO
-  id: S-8B
-docnumber: 8B
-edition: 1.0.0
+  id: S-57
+docnumber: 57
+edition: 3.1.0
 
 docstatus:
   stage:
@@ -26,27 +26,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2017-09-01
+  revision_date: 2000-11-01
 
 date:
   type: published
-  from: 2017-09-01
+  from: 2000-11-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2017
+    from: 2000
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
+    content: https://iho.int/uploads/user/pubs/standards/s-57/31Main.pdf
 
 place: Monaco
 
 validity:
-  begins: 2017-09-01
+  begins: 2000-11-01
 
 contributor:
   - organization:
