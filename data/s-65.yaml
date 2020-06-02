@@ -1,19 +1,19 @@
 ---
 title:
   - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS 
+    content:  ELECTRONIC NAVIGATIONAL CHARTS (ENCs) “PRODUCTION, MAINTENANCE AND DISTRIBUTION GUIDANCE”
     language: en
   - type: main
-    content: Normes de compétence pour les cartographes catégorie "B" 
+    content: Guide pour la production, la mise à jour et la diffusion des ENC
     language: fr
 
 type: standard
 
 docid:
   type: IHO
-  id: S-8B
-docnumber: 8B
-edition: 1.0.0
+  id: S-65
+docnumber: 65
+edition: 2.1.0
 
 docstatus:
   stage:
@@ -26,11 +26,11 @@ language:
 script: Latn
 
 version:
-  revision_date: 2017-09-01
+  revision_date: 2017-05-01
 
 date:
   type: published
-  from: 2017-09-01
+  from: 2017-05-01
 
 copyright:
   - owner:
@@ -41,12 +41,12 @@ copyright:
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
+    content: https://iho.int/uploads/user/pubs/standards/s-65/S-65_ed2%201%200_June17.pdf
 
 place: Monaco
 
 validity:
-  begins: 2017-09-01
+  begins: 2017-05-01
 
 contributor:
   - organization:

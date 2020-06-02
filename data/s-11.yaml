@@ -1,19 +1,19 @@
 ---
 title:
   - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS 
+    content: GUIDANCE FOR THE PREPARATION AND MAINTENANCE OF INTERNATIONAL (INT) CHART AND ENC SCHEMES AND CATALOGUE OF INTERNATIONAL CHARTS 
     language: en
   - type: main
-    content: Normes de compétence pour les cartographes catégorie "B" 
+    content: Guide pour la préparation et la tenue à jour des schemas de cartes Internationales (INT) et d'ENC et Catalogue des cartes Internationales 
     language: fr
 
 type: standard
 
 docid:
   type: IHO
-  id: S-8B
-docnumber: 8B
-edition: 1.0.0
+  id: S-11
+docnumber: 11
+edition: 3.1.0
 
 docstatus:
   stage:
@@ -26,27 +26,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2017-09-01
+  revision_date: 2018-02-01
 
 date:
   type: published
-  from: 2017-09-01
+  from: 2018-02-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2017
+    from: 2018
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
+    content: https://iho.int/uploads/user/pubs/standards/s-11/S-11_PartAEd3.1.0_EN.pdf
 
 place: Monaco
 
 validity:
-  begins: 2017-09-01
+  begins: 2018-02-01
 
 contributor:
   - organization:

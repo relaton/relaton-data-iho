@@ -1,19 +1,19 @@
 ---
 title:
   - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS 
+    content: STANDARDS OF COMPETENCE FOR CATEGORY "A" HYDROGRAPHIC SURVEYORS 
     language: en
   - type: main
-    content: Normes de compétence pour les cartographes catégorie "B" 
+    content: Normes de compétence pour les hydrographes catégorie "A" 
     language: fr
 
 type: standard
 
 docid:
   type: IHO
-  id: S-8B
-docnumber: 8B
-edition: 1.0.0
+  id: S-5A
+docnumber: 5A
+edition: 1.0.2
 
 docstatus:
   stage:
@@ -26,27 +26,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2017-09-01
+  revision_date: 2018-06-01
 
 date:
   type: published
-  from: 2017-09-01
+  from: 2018-06-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2017
+    from: 2018
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
+    content: https://iho.int/uploads/user/pubs/standards/s-5/S-5A_Ed1.0.2.pdf
 
 place: Monaco
 
 validity:
-  begins: 2017-09-01
+  begins: 2018-06-01
 
 contributor:
   - organization:

@@ -1,18 +1,18 @@
 ---
 title:
   - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS 
+    content: Marine Radio Services
     language: en
   - type: main
-    content: Normes de compétence pour les cartographes catégorie "B" 
+    content: Services radio maritimes
     language: fr
 
 type: standard
 
 docid:
   type: IHO
-  id: S-8B
-docnumber: 8B
+  id: S-123
+docnumber: 123
 edition: 1.0.0
 
 docstatus:
@@ -26,27 +26,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2017-09-01
+  revision_date: 2019-01-01
 
 date:
   type: published
-  from: 2017-09-01
+  from: 2019-01-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2017
+    from: 2019
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
+    content: http://registry.iho.int/beta/productspec/view.do?idx=74&product_ID=S-123&statusS=5&domainS=ALL&category=product_ID&searchValue=
 
 place: Monaco
 
 validity:
-  begins: 2017-09-01
+  begins: 2019-01-01
 
 contributor:
   - organization:
@@ -70,4 +70,4 @@ series:
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-01
+fetched: 2020-06-02
