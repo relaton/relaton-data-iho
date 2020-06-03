@@ -6,6 +6,12 @@ title:
   - type: main
     content: Normes OHI pour les levés hydrographiques
     language: fr
+  - type: main
+    content: NORMAS DE LA OHI PARA LOS LEVANTAMIENTOS HIDROGRAFICOS
+    language: es
+  - type: main
+    content: ESPECIFICAÇÕES DA OHI PARA LEVANTAMENTOS HIDROGRÁFICOS
+    language: pt
 
 type: standard
 

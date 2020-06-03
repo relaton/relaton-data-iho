@@ -1,22 +1,22 @@
 ---
 title:
   - type: main
-    content:  Hydrographic Dictionary - Glossary of ECDIS Related Terms - Inserted in the WIKI version  
+    content: The Need for National Hydrographic Services
     language: en
   - type: main
-    content: Dictionnaire hydrographique - Glossaire des termes relatifs aux ECDIS
+    content: La nécessité de Services hydrographiques nationaux
     language: fr
   - type: main
-    content: DICCIONARIO HIDROGRÁFICO
+    content: La necesidad de Servicios hidrograficos nacionales
     language: es
 
 type: standard
 
 docid:
   type: IHO
-  id: S-32
-docnumber: 32
-edition: 1.0.0
+  id: M-2
+docnumber: 2
+edition: 3.0.7
 
 docstatus:
   stage:
@@ -29,27 +29,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 1994
+  revision_date: 2018-06-01
 
 date:
   type: published
-  from: 1994
+  from: 2018-06-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 1994
+    from: 2018
 
 link:
   - type: pdf
-    content: http://hd.iho.int/en/index.php/Main_Page
+    content: https://iho.int/uploads/user/pubs/misc/M-2_3.0.7_E_06142018.pdf
 
 place: Monaco
 
 validity:
-  begins: 1994
+  begins: 2018-06-01
 
 contributor:
   - organization:
@@ -59,18 +59,18 @@ contributor:
       role: publisher
 
 series:
-  number: S
+  number: M
   type: main
   title:
     type: original
     content:
-      - content: Standards and Specifications
+      - content: Miscellaneous Publications
         language: en
         script: Latn
-      - content: Normes et Spécifications
+      - content: Publications Mixtes
         language: fr
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-01
+fetched: 2020-06-03
