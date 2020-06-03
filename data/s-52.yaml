@@ -6,6 +6,9 @@ title:
   - type: main
     content: Spécifications pour le contenu cartographique et les modalités d'affichage des ECDIS
     language: fr
+  - type: main
+    content: MANUAL CONJUNTO OMI/OHI/OMM RELATIVO A LA INFORMACIÓN SOBRE SEGURIDAD MARÍTIMA (ISM)
+    language: es
 
 type: standard
 

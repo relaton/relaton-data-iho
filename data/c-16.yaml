@@ -1,21 +1,15 @@
 ---
 title:
   - type: main
-    content:  Hydrographic Dictionary - Glossary of ECDIS Related Terms - Inserted in the WIKI version  
+    content: NATIONAL HYDROGRAPHIC REGULATIONS 
     language: en
-  - type: main
-    content: Dictionnaire hydrographique - Glossaire des termes relatifs aux ECDIS
-    language: fr
-  - type: main
-    content: DICCIONARIO HIDROGRÁFICO
-    language: es
 
 type: standard
 
 docid:
   type: IHO
-  id: S-32
-docnumber: 32
+  id: C-16
+docnumber: 16
 edition: 1.0.0
 
 docstatus:
@@ -29,27 +23,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 1994
+  revision_date: 2007-01-01
 
 date:
   type: published
-  from: 1994
+  from: 2007-01-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 1994
+    from: 2007
 
 link:
   - type: pdf
-    content: http://hd.iho.int/en/index.php/Main_Page
+    content: https://iho.int/uploads/user/pubs/cb/c-16/C16upd1208small.pdf
 
 place: Monaco
 
 validity:
-  begins: 1994
+  begins: 2007-01-01
 
 contributor:
   - organization:
@@ -59,18 +53,15 @@ contributor:
       role: publisher
 
 series:
-  number: S
+  number: C
   type: main
   title:
     type: original
     content:
-      - content: Standards and Specifications
+      - content: Capacity Building Publications
         language: en
-        script: Latn
-      - content: Normes et Spécifications
-        language: fr
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-01
+fetched: 2020-06-03
