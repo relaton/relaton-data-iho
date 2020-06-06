@@ -12,8 +12,9 @@ type: standard
 docid:
   type: IHO
   id: S-5B
-docnumber: 5B
-partnumber: B
+structuredidentifier:
+  docnumber: 5B
+  partnumber: B
 edition: 1.0.1
 
 docstatus:

@@ -12,8 +12,9 @@ type: standard
 docid:
   type: IHO
   id: S-8B
-docnumber: 8B
-partnumber: A
+structuredidentifier:
+  docnumber: 8B
+  partnumber: A
 edition: 1.0.0
 
 docstatus:
