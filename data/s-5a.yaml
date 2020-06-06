@@ -1,11 +1,15 @@
 ---
 title:
   - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "A" HYDROGRAPHIC SURVEYORS 
+    content: STANDARDS OF COMPETENCE FOR CATEGORY "A" HYDROGRAPHIC SURVEYORS
     language: en
   - type: main
-    content: Normes de compétence pour les hydrographes catégorie "A" 
+    content: Normes de compétence pour les hydrographes catégorie "A"
     language: fr
+
+editorialgroup:
+  - committee: IRCC
+    workgroup: IBSC
 
 type: standard
 

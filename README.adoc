@@ -3,3 +3,79 @@
 This repository is used by Relaton-IHO to represent known IHO publications.
 
 Data is stored in Relaton YAML (or AsciiBib) format.
+
+== Editorial groups
+
+e.g.
+[source,yaml]
+----
+editorialgroup:
+  - committee: HSSC
+    workgroup: S-100WG
+----
+
+Most of the time the authoring group can be found in the Foreword or Introduction of
+the document.
+
+Choose from these.
+
+* HSSC (previously CHRIS (Committee on Hydrographic Requirements for Information Systems))
+** S-100WG (S-100 Working Group)
+** ENCWG (ENC STANDARDS MAINTENANCE WORKING GROUP)
+** NCWG (NAUTICAL CARTOGRAPHY WORKING GROUP, previously CSPCWG)
+** NIPWG (NAUTICAL INFORMATION PROVISION WORKING GROUP)
+** DQWG (DATA QUALITY WORKING GROUP)
+** TWCWG (Tides, Water Level and Currents Working Group)
+** HDWG (Hydrographic Dictionary Working Group)
+** ABLOS (Advisory Board on Law of the Sea)
+** HSPT (Project Team on Standards for Hydrographic Surveys)
+** (legacy) CPRNW Commission for the Promulgation of Radio Navigation Warnings
+** (legacy) TSMAD (Transfer Standard Maintenance and Application Development Working Group)
+
+* IRCC (Inter-Regional Coordination Committee)
+** RHCs (Regional Hydrographic Commissions)
+*** NHC (Nordic HC)
+*** NSHC (North Sea HC)
+*** MBSHC (Mediterranean and Black Seas HC)
+**** BASWG
+*** ARHC (Arctic RHC)
+*** BHSC (Baltic Sea HC)
+*** USCHC (US / Canada HC)
+*** EAHS (East Asia HC)
+*** EAtHC (Eastern Atlantic HC)
+*** SEPRHC (South-East Pacific RHC)
+*** SWPHC (South-West Pacific HC)
+**** ICCWG
+*** MACHC (Meso American & Caribbean Sea HC)
+*** SAIHC (Southern African and Islands HC)
+*** NIOHC (North Indian Ocean HC)
+*** RSAHC (ROPME Sea Area HC)
+**** ICCWG
+*** SWAtHC (South West Atlantic HC)
+** HCA (Hydrographic Commission on Antarctica)
+*** HPWG (HCA Hydrography Priorities Working Group)
+** WWNWS (World-Wide Navigational Warning Service)
+*** S-124PT
+** CBSC (CAPACITY BUILDING SUB-COMMITTEE)
+** WENDWG (WORLDWIDE ENC DATABASE WORKING GROUP)
+** MSDIWG (MARINE SPATIAL DATA INFRASTRUCTURES WORKING GROUP)
+** EC-IHO (IENWG & EC - IHO Cooperation WG)
+*** IENWG (COOPERATION BETWEEN THE EUROPEAN COMMISSION (EC) AND THE IHO)
+** CSBWG (CROWDSOURCED BATHYMETRY WORKING GROUP)
+** IBSC (FIG/IHO/ICA INTERNATIONAL BOARD ON STANDARDS OF COMPETENCE FOR HYDROGRAPHIC SURVEYORS AND NAUTICAL CARTOGRAPHERS (IBSC))
+** DCDB (IHO Data Centre for Digital Bathymetry (DCDB))
+** GEBCO (JOINT IHO-IOC GUIDING COMMITTEE FOR THE GENERAL BATHYMETRIC CHART OF THE OCEANS)
+*** GGC (GEBCO Guiding Committee)
+*** SCUFN (GEBCO SUB-COMMITTEE ON UNDERSEA FEATURE NAMES)
+*** TSCOM (GEBCO TECHNICAL SUB-COMMITTEE ON OCEAN MAPPING)
+*** SCRUM (SUB-COMMITTEE ON REGIONAL UNDERSEA MAPPING)
+*** SCOPE (SUB-COMMITTEE ON COMMUNICATIONS, OUTREACH AND PUBLIC ENGAGEMENT)
+
+* Council
+** SPRWG
+
+* BUREAU (International Hydrography Bureau)
+
+* IMO MSC (Maritime Safety Committee)
+** NCSR (Sub-Committee on Navigation, Communications and Search and Rescue)
+

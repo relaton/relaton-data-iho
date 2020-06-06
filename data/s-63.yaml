@@ -7,6 +7,10 @@ title:
     content: Dispositif de l'OHI pour la protection des données
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: ENCWG
+
 type: standard
 
 docid:

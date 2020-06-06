@@ -7,6 +7,10 @@ title:
     content: Normes de compétence pour les cartographes catégorie "B"
     language: fr
 
+editorialgroup:
+  - committee: IRCC
+    workgroup: IBSC
+
 type: standard
 
 docid:

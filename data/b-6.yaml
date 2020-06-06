@@ -10,6 +10,10 @@ title:
     content: NORMALIZACIÓN DE LAS FORMAS DEL RELIEVE SUBMARINO
     language: es
 
+editorialgroup:
+  - committee: hssc
+    workgroup: GEBCO
+
 type: standard
 
 docid:

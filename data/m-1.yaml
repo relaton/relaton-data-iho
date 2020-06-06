@@ -7,6 +7,9 @@ title:
     content: DOCUMENTS DE BASE DE L’ORGANISATION HYDROGRAPHIQUE INTERNATIONALE (OHI)
     language: fr
 
+editorialgroup:
+  - committee: bureau
+
 type: standard
 
 docid:

@@ -1,11 +1,15 @@
 ---
 title:
   - type: main
-    content:  ENC VALIDATION CHECKS 
+    content:  ENC VALIDATION CHECKS
     language: en
   - type: main
     content: Vérifications pour la validation des ENC
     language: fr
+
+editorialgroup:
+  - committee: MSC
+    workgroup: NCSR
 
 type: standard
 

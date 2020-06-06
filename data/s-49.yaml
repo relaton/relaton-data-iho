@@ -1,11 +1,15 @@
 ---
 title:
   - type: main
-    content:  STANDARDIZATION of MARINERS' ROUTEING GUIDES  
+    content:  STANDARDIZATION of MARINERS' ROUTEING GUIDES
     language: en
   - type: main
     content: Normalisation des guides d’organisation du trafic pour les navigateurs
     language: fr
+
+editorialgroup:
+  - committee: hssc
+    workgroup: CSPCWG
 
 type: standard
 

@@ -1,10 +1,14 @@
 ---
 title:
   - type: main
-    content: NATIONAL HYDROGRAPHIC REGULATIONS 
+    content: NATIONAL HYDROGRAPHIC REGULATIONS
     language: en
 
 type: standard
+
+editorialgroup:
+  - committee: ircc
+    workgroup: CBSC
 
 docid:
   type: IHO

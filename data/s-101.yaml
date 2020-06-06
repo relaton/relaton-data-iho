@@ -7,6 +7,10 @@ title:
     content: Spécification de produit pour les ENC
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: S-100WG
+
 type: standard
 
 docid:

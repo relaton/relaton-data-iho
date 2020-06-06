@@ -1,13 +1,19 @@
 ---
 title:
   - type: main
-    content: GUIDANCE FOR THE PREPARATION AND MAINTENANCE OF INTERNATIONAL (INT) CHART AND ENC SCHEMES AND CATALOGUE OF INTERNATIONAL CHARTS 
+    content: GUIDANCE FOR THE PREPARATION AND MAINTENANCE OF INTERNATIONAL (INT) CHART AND ENC SCHEMES AND CATALOGUE OF INTERNATIONAL CHARTS
     language: en
   - type: main
-    content: Guide pour la préparation et la tenue à jour des schemas de cartes Internationales (INT) et d'ENC et Catalogue des cartes Internationales 
+    content: Guide pour la préparation et la tenue à jour des schemas de cartes Internationales (INT) et d'ENC et Catalogue des cartes Internationales
     language: fr
 
 type: standard
+
+editorialgroup:
+  - committee: hssc
+    workgroup: NCWG
+  - committee: ircc
+    workgroup: RHC
 
 docid:
   type: IHO

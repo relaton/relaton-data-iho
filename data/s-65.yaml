@@ -10,6 +10,10 @@ title:
     content: CARTAS NÁUTICAS ELECTRÓNICAS (ENCs) “GUÍA DE PRODUCCIÓN, MANTENIMIENTO Y DISTRIBUCIÓN”
     language: es
 
+editorialgroup:
+  - committee: hssc
+    workgroup: ENCWG
+
 type: standard
 
 docid:

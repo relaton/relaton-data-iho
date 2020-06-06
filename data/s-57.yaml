@@ -1,11 +1,15 @@
 ---
 title:
   - type: main
-    content:  IHO Transfer Standard for Digital Hydrographic Data  
+    content:  IHO Transfer Standard for Digital Hydrographic Data
     language: en
   - type: main
     content: Normes de l'OHI pour le transfert de données hydrographiques numériques
     language: fr
+
+editorialgroup:
+  - committee: CHRIS
+    workgroup: TSMAD
 
 type: standard
 

@@ -7,6 +7,10 @@ title:
     content: Services radio maritimes
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: S-100WG
+
 type: standard
 
 docid:

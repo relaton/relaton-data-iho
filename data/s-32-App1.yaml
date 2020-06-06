@@ -10,6 +10,10 @@ title:
     content: DICCIONARIO HIDROGRÁFICO
     language: es
 
+editorialgroup:
+  - committee: hssc
+    workgroup: HDWG
+
 type: standard
 
 docid:

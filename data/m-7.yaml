@@ -6,9 +6,9 @@ title:
   - type: main
     content: Règlement du personnel
     language: fr
-  - type: main
-    content: INFORME ANUAL 2018
-    language: es
+
+editorialgroup:
+  - committee: bureau
 
 type: standard
 

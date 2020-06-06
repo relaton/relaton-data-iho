@@ -7,6 +7,10 @@ title:
     content: Spécification de produit pour les limites et frontières maritimes
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: S-100WG
+
 type: standard
 
 docid:

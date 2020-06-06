@@ -1,11 +1,15 @@
 ---
 title:
   - type: main
-    content:  MANUAL ON MARITIME SAFETY INFORMATION (MSI)  
+    content:  MANUAL ON MARITIME SAFETY INFORMATION (MSI)
     language: en
   - type: main
     content: Manuel conjoint OMI/OHI/OMM sur les renseignements de sécurité maritime
     language: fr
+
+editorialgroup:
+  - committee: hssc
+    workgroup: CPRNW
 
 type: standard
 
@@ -13,7 +17,7 @@ docid:
   type: IHO
   id: S-53
 docnumber: 53
-edition: 
+edition:
 
 docstatus:
   stage:
