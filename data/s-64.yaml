@@ -7,6 +7,10 @@ title:
     content: Lot de données d'essai de l'OHI pour ECDIS
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: ENCWG
+
 type: standard
 
 docid:

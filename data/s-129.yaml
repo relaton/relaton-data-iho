@@ -7,6 +7,10 @@ title:
     content: Gestion de la profondeur d'eau sous quille
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: S-100WG
+
 type: standard
 
 docid:

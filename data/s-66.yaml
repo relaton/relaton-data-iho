@@ -7,6 +7,10 @@ title:
     content: La carte marine et les prescriptions d’emport - les faits
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: ENCWG
+
 type: standard
 
 docid:

@@ -1,11 +1,15 @@
 ---
 title:
   - type: main
-    content:  Hydrographic Dictionary  
+    content:  Hydrographic Dictionary
     language: en
   - type: main
     content: Dictionnaire hydrographique
     language: fr
+
+editorialgroup:
+  - committee: hssc
+    workgroup: HDWG
 
 type: standard
 
@@ -13,7 +17,7 @@ docid:
   type: IHO
   id: S-32
 docnumber: 32
-edition: 
+edition:
 
 docstatus:
   stage:

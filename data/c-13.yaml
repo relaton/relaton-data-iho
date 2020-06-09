@@ -13,6 +13,10 @@ title:
     content: MANUAL DE HIDROGRAFIA
     language: pt
 
+editorialgroup:
+  - committee: ircc
+    workgroup: IBSC
+
 type: standard
 
 docid:
@@ -28,6 +32,8 @@ docstatus:
 language:
   - en
   - fr
+  - es
+  - pt
 
 script: Latn
 

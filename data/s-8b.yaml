@@ -1,18 +1,24 @@
 ---
 title:
   - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS 
+    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS
     language: en
   - type: main
-    content: Normes de compétence pour les cartographes catégorie "B" 
+    content: Normes de compétence pour les cartographes catégorie "B"
     language: fr
+
+editorialgroup:
+  - committee: IRCC
+    workgroup: IBSC
 
 type: standard
 
 docid:
   type: IHO
   id: S-8B
-docnumber: 8B
+structuredidentifier:
+  docnumber: 8B
+  partnumber: B
 edition: 1.0.0
 
 docstatus:

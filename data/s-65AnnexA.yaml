@@ -4,14 +4,24 @@ title:
     content:  High Density (HD) ENC Production and Maintenance Guidance
     language: en
   - type: main
-    content: Guide pour la production et la tenue à jour des ENC à haute densité (HD) 
+    content: Guide pour la production et la tenue à jour des ENC à haute densité (HD)
     language: fr
+
+editorialgroup:
+  - committee: hssc
+    workgroup: ENCWG
 
 type: standard
 
 docid:
   type: IHO
   id: S-65AnnexA
+
+extent:
+  type: annex
+  reference_from: S-65
+  reference_to: A
+
 docnumber: 65
 edition: 1.0.0
 

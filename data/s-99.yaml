@@ -7,6 +7,10 @@ title:
     content: Procédures opérationnelles pour l'organisation et la gestion de la base de registres d'informations géospatiales de la S-100
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: S-100WG
+
 type: standard
 
 docid:

@@ -1,20 +1,25 @@
 ---
 title:
   - type: main
-    content: TRAINING COURSES IN HYDROGRAPHY AND NAUTICAL CARTOGRAPHY
+    content: The IHO and its Secretariat - an Updated History
     language: en
+  - type: main
+    content: L’OHI et son Secrétariat -  une Histoire Mise à Jour
+    language: fr
+  - type: main
+    content: La OHI y su Secretaría - una historia actualizada
+    language: es
 
 editorialgroup:
-  - committee: ircc
-    workgroup: IBSC
+  - committee: bureau
 
 type: standard
 
 docid:
   type: IHO
-  id: C-47
-docnumber: 47
-edition: 7.0.0
+  id: M-7
+docnumber: 7
+edition: 3.0.0
 
 docstatus:
   stage:
@@ -22,31 +27,33 @@ docstatus:
 
 language:
   - en
+  - fr
+  - es
 
 script: Latn
 
 version:
-  revision_date: 2011-04-01
+  revision_date: 2019-01-01
 
 date:
   type: published
-  from: 2011-04-01
+  from: 2019-01-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2011
+    from: 2019
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/cb/c-33/C47E-SEPT09-UPDATED-APRIL11.pdf
+    content: https://iho.int/uploads/user/pubs/misc/M-10_2019_EN.pdf
 
 place: Monaco
 
 validity:
-  begins: 2011-04-01
+  begins: 2019-01-01
 
 contributor:
   - organization:
@@ -56,15 +63,18 @@ contributor:
       role: publisher
 
 series:
-  number: C
+  number: M
   type: main
   title:
     type: original
     content:
-      - content: Capacity Building Publications
+      - content: Miscellaneous Publications
         language: en
+        script: Latn
+      - content: Publications Mixtes
+        language: fr
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-03
+fetched: 2020-06-09

@@ -1,20 +1,19 @@
 ---
 title:
   - type: main
-    content: TRAINING COURSES IN HYDROGRAPHY AND NAUTICAL CARTOGRAPHY
+    content: 1st SESSION OF THE IHO ASSEMBLY
     language: en
 
 editorialgroup:
-  - committee: ircc
-    workgroup: IBSC
+  - committee: bureau
 
 type: standard
 
 docid:
   type: IHO
-  id: C-47
-docnumber: 47
-edition: 7.0.0
+  id: P-6
+docnumber: 6
+edition: 
 
 docstatus:
   stage:
@@ -26,27 +25,28 @@ language:
 script: Latn
 
 version:
-  revision_date: 2011-04-01
+  revision_date: 2017-04-24
 
 date:
   type: published
-  from: 2011-04-01
+  from: 2017-04-24
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2011
+    from: 2017
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/cb/c-33/C47E-SEPT09-UPDATED-APRIL11.pdf
+    content: https://iho.int/uploads/user/pubs/periodical/P6A1_2017VOLUME1_ENG.pdf
+    content: https://iho.int/uploads/user/pubs/periodical/P6A1_2017VOLUME2_ENG_opt.pdf
 
 place: Monaco
 
 validity:
-  begins: 2011-04-01
+  begins: 2017-04-24
 
 contributor:
   - organization:
@@ -56,15 +56,15 @@ contributor:
       role: publisher
 
 series:
-  number: C
+  number: P
   type: main
   title:
     type: original
     content:
-      - content: Capacity Building Publications
+      - content: Periodic Publications
         language: en
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-03
+fetched: 2020-06-09

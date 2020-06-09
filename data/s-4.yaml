@@ -10,6 +10,10 @@ title:
     content: REGLAMENTO DE LA OHI PARA CARTAS INTERNACIONALES Y ESPECIFICACIONES CARTOGRÁFICA DE LA OHI
     language: es
 
+editorialgroup:
+  - committee: hssc
+    workgroup: NCWG
+
 type: standard
 
 docid:
@@ -25,6 +29,7 @@ docstatus:
 language:
   - en
   - fr
+  - es
 
 script: Latn
 

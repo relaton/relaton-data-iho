@@ -7,8 +7,11 @@ title:
     content: Résolutions de l'OHI
     language: fr
   - type: main
-    content: Resoluciones de la Organización Hidrográfica Internacional 
+    content: Resoluciones de la Organización Hidrográfica Internacional
     language: es
+
+editorialgroup:
+  - committee: bureau
 
 type: standard
 
@@ -25,6 +28,7 @@ docstatus:
 language:
   - en
   - fr
+  - es
 
 script: Latn
 

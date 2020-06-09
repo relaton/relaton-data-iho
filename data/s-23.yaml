@@ -1,11 +1,14 @@
 ---
 title:
   - type: main
-    content:  Limits of Oceans and Seas  
+    content:  Limits of Oceans and Seas
     language: en
   - type: main
     content: Limites des océans et des mers
     language: fr
+
+editorialgroup:
+  - committee: hssc
 
 type: standard
 

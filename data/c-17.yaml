@@ -6,6 +6,10 @@ title:
 
 type: standard
 
+editorialgroup:
+  - committee: ircc
+    workgroup: MSDIWG
+
 docid:
   type: IHO
   id: C-17
@@ -18,7 +22,6 @@ docstatus:
 
 language:
   - en
-  - fr
 
 script: Latn
 

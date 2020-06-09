@@ -9,6 +9,10 @@ title:
 
 type: standard
 
+editorialgroup:
+  - committee: hssc
+    workgroup: S-100WG
+
 docid:
   type: IHO
   id: S-100

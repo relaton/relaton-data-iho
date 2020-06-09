@@ -1,20 +1,20 @@
 ---
 title:
   - type: main
-    content: TRAINING COURSES IN HYDROGRAPHY AND NAUTICAL CARTOGRAPHY
+    content: Operational Procedures for the Organization and Management of the S-100 Geospatial Information Registry
     language: en
 
 editorialgroup:
-  - committee: ircc
-    workgroup: IBSC
+  - committee: hssc
+    workgroup: S-100WG
 
 type: standard
 
 docid:
   type: IHO
-  id: C-47
-docnumber: 47
-edition: 7.0.0
+  id: S-97
+docnumber: 97
+edition: 1.1.0
 
 docstatus:
   stage:
@@ -26,27 +26,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2011-04-01
+  revision_date: 2020-16-01
 
 date:
   type: published
-  from: 2011-04-01
+  from: 2020-16-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2011
+    from: 2020
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/cb/c-33/C47E-SEPT09-UPDATED-APRIL11.pdf
+    content: http://registry.iho.int/beta/guidance/list.do
 
 place: Monaco
 
 validity:
-  begins: 2011-04-01
+  begins: 2020-16-01
 
 contributor:
   - organization:
@@ -56,15 +56,15 @@ contributor:
       role: publisher
 
 series:
-  number: C
+  number: S
   type: main
   title:
     type: original
     content:
-      - content: Capacity Building Publications
+      - content: Standards and Specifications
         language: en
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-03
+fetched: 2020-06-09

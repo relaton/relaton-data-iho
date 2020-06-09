@@ -7,6 +7,10 @@ title:
     content: Document d'orientation sur la bathymétrie participative
     language: fr
 
+editorialgroup:
+  - committee: ircc
+    workgroup: DCDB
+
 type: standard
 
 docid:

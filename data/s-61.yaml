@@ -7,6 +7,10 @@ title:
     content: Spécification de produit pour les cartes marines matricielles (RNC)
     language: fr
 
+editorialgroup:
+  - committee: CHRIS
+    workgroup: TSMAD
+
 type: standard
 
 docid:
@@ -41,7 +45,11 @@ copyright:
 
 link:
   - type: pdf
+<<<<<<< HEAD
     content: https://iho.int/uploads/user/pubs/standards/s-60/S60_Ed3Eng.pdf
+=======
+    content: https://iho.int/uploads/user/pubs/standards/s-61/S61E.pdf
+>>>>>>> 141b9cf29b9834a63046542aaf6d5cf252e7edf5
 
 place: Monaco
 

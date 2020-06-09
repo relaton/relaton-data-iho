@@ -7,6 +7,10 @@ title:
     content: Livre de recettes GEBCO OHI-COI
     language: fr
 
+editorialgroup:
+  - committee: hssc
+    workgroup: GEBCO
+
 type: standard
 
 docid:

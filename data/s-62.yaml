@@ -7,13 +7,17 @@ title:
     content: Liste des Codes des producteurs de données de l'OHI
     language: fr
 
+# editorialgroup:
+#   - committee: HSSC
+#     workgroup: TSMAD
+
 type: standard
 
 docid:
   type: IHO
   id: S-62
 docnumber: 62
-edition: 
+edition:
 
 docstatus:
   stage:
@@ -40,6 +44,11 @@ copyright:
     from: 2020
 
 link:
+<<<<<<< HEAD
+=======
+  - type: html
+    content: http://www.iho-ohi.net/s62/
+>>>>>>> 141b9cf29b9834a63046542aaf6d5cf252e7edf5
   - type: pdf
     content: http://www.iho-ohi.net/s62/pdfExport/pacPDFExport.php
 
