@@ -1,13 +1,13 @@
 ---
 title:
   - type: main
-    content: The Need for National Hydrographic Services
+    content: The IHO and its Secretariat - an Updated History
     language: en
   - type: main
-    content: La nécessité de Services hydrographiques nationaux
+    content: L’OHI et son Secrétariat -  une Histoire Mise à Jour
     language: fr
   - type: main
-    content: La necesidad de Servicios hidrograficos nacionales
+    content: La OHI y su Secretaría - una historia actualizada
     language: es
 
 editorialgroup:
@@ -17,9 +17,9 @@ type: standard
 
 docid:
   type: IHO
-  id: M-2
-docnumber: 2
-edition: 3.0.7
+  id: M-7
+docnumber: 7
+edition: 3.0.0
 
 docstatus:
   stage:
@@ -33,27 +33,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2018-06-01
+  revision_date: 2019-01-01
 
 date:
   type: published
-  from: 2018-06-01
+  from: 2019-01-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2018
+    from: 2019
 
 link:
   - type: pdf
-    content: https://iho.int/uploads/user/pubs/misc/M-2_3.0.7_E_06142018.pdf
+    content: https://iho.int/uploads/user/pubs/misc/M-10_2019_EN.pdf
 
 place: Monaco
 
 validity:
-  begins: 2018-06-01
+  begins: 2019-01-01
 
 contributor:
   - organization:
@@ -61,6 +61,13 @@ contributor:
       abbreviation: IHO
       url: www.iho.int
       role: publisher
+  - person:
+      name:
+        prefix: Captain
+        forename: Federico
+        surname: BERMEJO BARÓ
+        complete_name: Captain Federico BERMEJO BARÓ
+      role: author
 
 series:
   number: M
@@ -77,4 +84,4 @@ series:
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-03
+fetched: 2020-06-09

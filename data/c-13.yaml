@@ -32,6 +32,8 @@ docstatus:
 language:
   - en
   - fr
+  - es
+  - pt
 
 script: Latn
 
