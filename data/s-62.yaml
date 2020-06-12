@@ -44,11 +44,8 @@ copyright:
     from: 2020
 
 link:
-<<<<<<< HEAD
-=======
   - type: html
     content: http://www.iho-ohi.net/s62/
->>>>>>> 141b9cf29b9834a63046542aaf6d5cf252e7edf5
   - type: pdf
     content: http://www.iho-ohi.net/s62/pdfExport/pacPDFExport.php
 

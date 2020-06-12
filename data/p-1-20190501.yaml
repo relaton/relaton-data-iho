@@ -7,11 +7,12 @@ title:
 editorialgroup:
   - committee: bureau
 
-type: series
+type: standard
 
 docid:
   type: IHO
-  id: P-1
+  id: P-1/21
+  number: 21
 docnumber: 1
 edition:
 
@@ -25,11 +26,11 @@ language:
 script: Latn
 
 version:
-  revision_date: 2019-11-01
+  revision_date: 2019-05-01
 
 date:
   type: published
-  from: 1923-01-01
+  from: 2019-05-01
 
 copyright:
   - owner:
@@ -39,8 +40,8 @@ copyright:
     from: 2019
 
 link:
-  - type: pdf
-    content: https://review.iho.int
+  - type: html
+    content: https://journals.lib.unb.ca/index.php/ihr/issue/view/2235
 
 place: Monaco
 
@@ -55,15 +56,18 @@ contributor:
       role: publisher
 
 series:
-  number: P
   type: main
+  formatted_ref: "IHO P-1"
   title:
     type: original
     content:
-      - content: Periodic Publications
+      - content: International Hydrographic Review
         language: en
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
+  abbrev: IHR
+  from: 1923-01-01
+  issn: 0020-6946
 
 fetched: 2020-06-09

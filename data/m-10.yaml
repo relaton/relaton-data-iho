@@ -61,6 +61,13 @@ contributor:
       abbreviation: IHO
       url: www.iho.int
       role: publisher
+  - person:
+      name:
+        prefix: Captain
+        forename: Federico
+        surname: BERMEJO BARÓ
+        complete_name: Captain Federico BERMEJO BARÓ
+      role: author
 
 series:
   number: M
