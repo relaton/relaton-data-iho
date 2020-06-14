@@ -1,23 +1,23 @@
 ---
 title:
   - type: main
-    content:  List of IHO Data Producer Codes
+    content: General Bathymetric Chart of the Oceans (GEBCO)
     language: en
   - type: main
-    content: Liste des Codes des producteurs de données de l'OHI
+    content: Carte générale bathymétrique des océans (GEBCO)
     language: fr
 
-# editorialgroup:
-#   - committee: HSSC
-#     workgroup: TSMAD
+editorialgroup:
+  - committee: hssc
+    workgroup: GEBCO
 
 type: standard
 
 docid:
   type: IHO
-  id: S-62
-docnumber: 62
-edition:
+  id: B-1
+docnumber: 1
+edition: 
 
 docstatus:
   stage:
@@ -30,32 +30,27 @@ language:
 script: Latn
 
 version:
-  revision_date: 2020-06-01
+  revision_date: 
 
 date:
   type: published
-  from: 2020-06-01
+  from: 
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2020
+    from: 
 
 link:
-<<<<<<< HEAD
-=======
   - type: html
-    content: http://www.iho-ohi.net/s62/
->>>>>>> 141b9cf29b9834a63046542aaf6d5cf252e7edf5
-  - type: pdf
-    content: http://www.iho-ohi.net/s62/pdfExport/pacPDFExport.php
+    content: https://iho.int/en/bathymetric-publications
 
 place: Monaco
 
 validity:
-  begins: 2020-06-01
+  begins: 
 
 contributor:
   - organization:
@@ -65,18 +60,18 @@ contributor:
       role: publisher
 
 series:
-  number: S
+  number: B
   type: main
   title:
     type: original
     content:
-      - content: Standards and Specifications
+      - content: Bathymetric Publications
         language: en
         script: Latn
-      - content: Normes et Spécifications
+      - content: Publications bathymétriques
         language: fr
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-01
+fetched: 2020-06-14
