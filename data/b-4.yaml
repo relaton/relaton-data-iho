@@ -30,18 +30,18 @@ language:
 script: Latn
 
 version:
-  revision_date: 
+  revision_date:
 
 date:
   type: published
-  from: 
+  from:
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 
+    from:
 
 link:
   - type: website
@@ -50,7 +50,7 @@ link:
 place: Monaco
 
 validity:
-  begins: 
+  begins:
 
 contributor:
   - organization:
