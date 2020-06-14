@@ -1,14 +1,11 @@
 ---
 title:
   - type: main
-    content: Standardization of Undersea Feature Names
+    content: GEBCO Digital Atlas
     language: en
   - type: main
-    content: Normalisation des Noms des Formes du Relief SousMarin
+    content: Atlas numérique de la GEBCO 
     language: fr
-  - type: main
-    content: NORMALIZACIÓN DE LAS FORMAS DEL RELIEVE SUBMARINO
-    language: es
 
 editorialgroup:
   - committee: hssc
@@ -18,9 +15,9 @@ type: standard
 
 docid:
   type: IHO
-  id: B-6
-docnumber: 6
-edition: 4.2.0
+  id: B-9
+docnumber: 9
+edition: 
 
 docstatus:
   stage:
@@ -29,48 +26,37 @@ docstatus:
 language:
   - en
   - fr
-  - es
 
 script: Latn
 
 version:
-  revision_date: 2019-10-01
+  revision_date: 
 
 date:
   type: published
-  from: 2019-10-01
+  from: 
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2019
-  - owner:
-      name: Intergovernmental Oceanographic Commission
-      abbreviation: IOC
-      url: http://ioc-unesco.org
-    from: 2019
+    from: 
 
 link:
-  - type: pdf
-    content: https://iho.int/uploads/user/pubs/bathy/B-6_e4%202%200_2019_EF_clean_3Oct2019.pdf
+  - type: website
+    content: https://www.gebco.net/data_and_products/gebco_digital_atlas/
 
 place: Monaco
 
 validity:
-  begins: 2019-10-01
+  begins: 
 
 contributor:
   - organization:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-      role: publisher
-  - organization:
-      name: Intergovernmental Oceanographic Commission
-      abbreviation: IOC
-      url: http://ioc-unesco.org
       role: publisher
 
 series:
@@ -88,4 +74,4 @@ series:
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-02
+fetched: 2020-06-14
