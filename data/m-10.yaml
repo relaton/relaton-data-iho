@@ -60,14 +60,14 @@ contributor:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-      role: publisher
+    role: publisher
   - person:
       name:
         prefix: Captain
         forename: Federico
         surname: BERMEJO BARÓ
         complete_name: Captain Federico BERMEJO BARÓ
-      role: author
+    role: author
 
 series:
   number: M

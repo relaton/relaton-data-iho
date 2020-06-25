@@ -63,7 +63,7 @@ contributor:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-      role: publisher
+    role: publisher
 
 series:
   number: S

@@ -66,12 +66,12 @@ contributor:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-      role: publisher
+    role: publisher
   - organization:
       name: Intergovernmental Oceanographic Commission
       abbreviation: IOC
       url: http://ioc-unesco.org
-      role: publisher
+    role: publisher
 
 series:
   number: B
