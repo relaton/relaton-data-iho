@@ -63,21 +63,23 @@ end
 errors = false
 Dir['data/*.{yaml,ymo}'].each do |f|
   begin
-    print "Parsing file: #{f}... "
+    # print "Parsing file: #{f}... "
     yaml = YAML.load_file(f)
     hash = RelatonIho::HashConverter.hash_to_bib yaml
     item = RelatonIho::IhoBibliographicItem.new hash
     if (messages = compare(yaml, item.to_hash))&.any?
       errors = true
-      puts "failed. Parsed content doesn't match to source."
+      puts "Parsing #{f} failed. Parsed content doesn't match to source."
       print_msg messages
       puts
-    else
-      puts "successfull. Document id: #{item.docidentifier.first.id}"
+    # else
+    #   puts "successfull. Document id: #{item.docidentifier.first.id}"
     end
   rescue ArgumentError => e
     errors = true
-    puts e.message
+    puts "Parsing #{f} failed. Error: #{e.message}."
+    puts e.backtrace
+    puts
   end
 end
 
