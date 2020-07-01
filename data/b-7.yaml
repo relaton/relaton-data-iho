@@ -34,14 +34,14 @@ version:
 
 date:
   type: published
-  from:
+  from: 2003-01-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from:
+    from: 2003
 
 link:
   - type: html
@@ -50,7 +50,7 @@ link:
 place: Monaco
 
 validity:
-  begins:
+  begins: 2003-01-01
 
 contributor:
   - organization:

@@ -37,7 +37,7 @@ Choose from these.
 *** NHC (Nordic HC)
 *** NSHC (North Sea HC)
 *** MBSHC (Mediterranean and Black Seas HC)
-**** BASWG
+**** BASWG (Black and Azov Seas Working Group)
 *** ARHC (Arctic RHC)
 *** BHSC (Baltic Sea HC)
 *** USCHC (US / Canada HC)
@@ -45,12 +45,12 @@ Choose from these.
 *** EAtHC (Eastern Atlantic HC)
 *** SEPRHC (South-East Pacific RHC)
 *** SWPHC (South-West Pacific HC)
-**** ICCWG
+**** ICCWG (International Charting Coordination Working Group)
 *** MACHC (Meso American & Caribbean Sea HC)
 *** SAIHC (Southern African and Islands HC)
 *** NIOHC (North Indian Ocean HC)
 *** RSAHC (ROPME Sea Area HC)
-**** ICCWG
+**** ICCWG (International Charting Coordination Working Group)
 *** SWAtHC (South West Atlantic HC)
 ** HCA (Hydrographic Commission on Antarctica)
 *** HPWG (HCA Hydrography Priorities Working Group)
@@ -72,10 +72,15 @@ Choose from these.
 *** SCOPE (SUB-COMMITTEE ON COMMUNICATIONS, OUTREACH AND PUBLIC ENGAGEMENT)
 
 * Council
-** SPRWG
+** SPRWG (Strategic Plan Review Working Group)
+
+* IHR (International Hydrography Review)
+** IHR (International Hydrography Review)
+** IHREB (International Hydrography Review Editorial Board)
 
 * BUREAU (International Hydrography Bureau)
 
 * IMO MSC (Maritime Safety Committee)
 ** NCSR (Sub-Committee on Navigation, Communications and Search and Rescue)
 
+* DCDB (IHO Data Centre for Digital Bathymetry)

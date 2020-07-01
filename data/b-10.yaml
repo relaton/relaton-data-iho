@@ -17,7 +17,7 @@ docid:
   type: IHO
   id: B-10
 docnumber: 10
-edition: 
+edition:
 
 docstatus:
   stage:
@@ -30,18 +30,18 @@ language:
 script: Latn
 
 version:
-  revision_date: 
+  revision_date:
 
 date:
   type: published
-  from: 
+  from: 2003-04-01
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 
+    from: 2003-04-01
 
 link:
   - type: website
@@ -50,7 +50,7 @@ link:
 place: Monaco
 
 validity:
-  begins: 
+  begins: 2003-04-01
 
 contributor:
   - organization:
