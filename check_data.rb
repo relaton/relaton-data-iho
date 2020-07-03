@@ -60,8 +60,10 @@ def print_msg(messages)
   end
 end
 
+path = ARGV.first || 'data/*.{yaml,yml}'
+
 errors = false
-Dir['data/*.{yaml,ymo}'].each do |f|
+Dir[path].each do |f|
   begin
     # print "Parsing file: #{f}... "
     yaml = YAML.load_file(f)
@@ -75,7 +77,7 @@ Dir['data/*.{yaml,ymo}'].each do |f|
     # else
     #   puts "successfull. Document id: #{item.docidentifier.first.id}"
     end
-  rescue ArgumentError => e
+  rescue ArgumentError, NoMethodError, TypeError => e
     errors = true
     puts "Parsing #{f} failed. Error: #{e.message}."
     puts e.backtrace
