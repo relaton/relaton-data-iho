@@ -26,11 +26,11 @@ language:
 script: Latn
 
 version:
-  revision_date: 2020-16-01
+  revision_date: 2020-01-16
 
 date:
   type: published
-  from: 2020-16-01
+  from: 2020-01-16
 
 copyright:
   - owner:
@@ -46,7 +46,7 @@ link:
 place: Monaco
 
 validity:
-  begins: 2020-16-01
+  begins: 2020-01-16
 
 contributor:
   - organization:

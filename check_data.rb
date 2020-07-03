@@ -25,7 +25,7 @@ def message(key, val, dest)
   return unless !dest || dest[key] != val
 
   msg = "- #{key}: #{val}"
-  msg += "\n+ #{key}: #{dest[key]}" if dest
+  msg += "\n+ #{key}: #{dest[key]}" if dest && dest[key]
   msg
 end
 
@@ -65,7 +65,6 @@ path = ARGV.first || 'data/*.{yaml,yml}'
 errors = false
 Dir[path].each do |f|
   begin
-    # print "Parsing file: #{f}... "
     yaml = YAML.load_file(f)
     hash = RelatonIho::HashConverter.hash_to_bib yaml
     item = RelatonIho::IhoBibliographicItem.new hash
@@ -74,8 +73,6 @@ Dir[path].each do |f|
       puts "Parsing #{f} failed. Parsed content doesn't match to source."
       print_msg messages
       puts
-    # else
-    #   puts "successfull. Document id: #{item.docidentifier.first.id}"
     end
   rescue ArgumentError, NoMethodError, TypeError => e
     errors = true

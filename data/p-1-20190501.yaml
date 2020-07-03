@@ -58,7 +58,8 @@ contributor:
 
 series:
   type: main
-  formatted_ref: "IHO P-1"
+  formattedref:
+    content: "IHO P-1"
   title:
     type: original
     content:
@@ -67,7 +68,7 @@ series:
         script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-  abbrev: IHR
+  abbreviation: IHR
   from: 1923-01-01
   issn: 0020-6946
 
