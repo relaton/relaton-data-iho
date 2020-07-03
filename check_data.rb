@@ -1,4 +1,5 @@
-# frozen_string_literal: true
+#!/usr/bin/env ruby
+## frozen_string_literal: true
 
 require 'yaml'
 require 'relaton_iho'
