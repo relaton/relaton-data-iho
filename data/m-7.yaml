@@ -1,77 +1,66 @@
 ---
 title:
-  - type: main
-    content: Staff Regulation
-    language: en
-  - type: main
-    content: Règlement du personnel
-    language: fr
-
+- type: main
+  content: Staff Regulation
+  language: en
+- type: main
+  content: Règlement du personnel
+  language: fr
 editorialgroup:
-  - committee: IHR
-    workgroup: IHR
-
+- - committee:
+      abbreviation: IHR
+      name: International Hydrography Review
+  - committee:
+      abbreviation: IHR
+      name: International Hydrography Review
 type: standard
-
 docid:
   type: IHO
   id: M-7
 docnumber: 7
 edition: 8.0.0
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-  - fr
-
+- en
+- fr
 script: Latn
-
 version:
   revision_date: 2017-01-01
-
 date:
   type: published
   from: 2017-01-01
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2017
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2017
 link:
-  - type: pdf
-    content: https://iho.int/uploads/user/pubs/misc/M7_Ed8.0.0_201701_ENG.pdf
-
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/misc/M7_Ed8.0.0_201701_ENG.pdf
 place: Monaco
-
 validity:
   begins: 2017-01-01
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: M
   type: main
   title:
     type: original
     content:
-      - content: Miscellaneous Publications
-        language: en
-        script: Latn
-      - content: Publications Mixtes
-        language: fr
-        script: Latn
+    - content: Miscellaneous Publications
+      language: en
+      script: Latn
+    - content: Publications Mixtes
+      language: fr
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-03

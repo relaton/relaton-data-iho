@@ -1,77 +1,69 @@
 ---
 title:
-  - type: main
-    content:  IHO Transfer Standard for Digital Hydrographic Data
-    language: en
-  - type: main
-    content: Normes de l'OHI pour le transfert de données hydrographiques numériques
-    language: fr
-
+- type: main
+  content: IHO Transfer Standard for Digital Hydrographic Data
+  language: en
+- type: main
+  content: Normes de l'OHI pour le transfert de données hydrographiques numériques
+  language: fr
 editorialgroup:
-  - committee: CHRIS
-    workgroup: TSMAD
-
+- - committee:
+      abbreviation: CHRIS
+      name: Hydrographic Services and Standards Committee
+  - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: TSMAD
+        name: Transfer Standard Maintenance and Application Development Working Group
 type: standard
-
 docid:
   type: IHO
   id: S-57
 docnumber: 57
 edition: 3.1.0
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-  - fr
-
+- en
+- fr
 script: Latn
-
 version:
   revision_date: 2000-11-01
-
 date:
   type: published
   from: 2000-11-01
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2000
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2000
 link:
-  - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-57/31Main.pdf
-
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-57/31Main.pdf
 place: Monaco
-
 validity:
   begins: 2000-11-01
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: S
   type: main
   title:
     type: original
     content:
-      - content: Standards and Specifications
-        language: en
-        script: Latn
-      - content: Normes et Spécifications
-        language: fr
-        script: Latn
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-01

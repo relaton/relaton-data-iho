@@ -1,71 +1,60 @@
 ---
 title:
-  - type: main
-    content:  IHO Annual Report - 2018 Part 1 & 2
-    language: en
-
+- type: main
+  content: IHO Annual Report - 2018 Part 1 & 2
+  language: en
 editorialgroup:
-  - committee: IHR
-    workgroup: IHR
-
+- - committee:
+      abbreviation: IHR
+      name: International Hydrography Review
+  - committee:
+      abbreviation: IHR
+      name: International Hydrography Review
 type: standard
-
 docid:
   type: IHO
   id: P-7
 docnumber: 7
 edition: 1.0.6
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-  - fr
-
+- en
+- fr
 script: Latn
-
 version:
   revision_date: 2019-07-01
-
 date:
   type: published
   from: 2019-07-01
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2019
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2019
 link:
-  - type: pdf
-    content: https://iho.int/uploads/user/pubs/periodical/P7_2018_EN_IHO_AREd1-0-6.pdf
-
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P7_2018_EN_IHO_AREd1-0-6.pdf
 place: Monaco
-
 validity:
   begins: 2019-07-01
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: P
   type: main
   title:
     type: original
     content:
-      - content: Periodic Publications
-        language: en
-        script: Latn
+    - content: Periodic Publications
+      language: en
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-03

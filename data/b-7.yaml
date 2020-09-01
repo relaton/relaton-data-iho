@@ -1,77 +1,70 @@
 ---
 title:
-  - type: main
-    content: GEBCO Guidelines
-    language: en
-  - type: main
-    content: Directives pour la GEBCO
-    language: fr
-
+- type: main
+  content: GEBCO Guidelines
+  language: en
+- type: main
+  content: Directives pour la GEBCO
+  language: fr
 editorialgroup:
-  - committee: hssc
-    workgroup: GEBCO
-
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+  - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+      committee:
+        abbreviation: GEBCO
+        name: JOINT IHO-IOC GUIDING COMMITTEE FOR THE GENERAL BATHYMETRIC CHART OF
+          THE OCEANS
 type: standard
-
 docid:
   type: IHO
   id: B-7
 docnumber: 7
 edition:
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-  - fr
-
+- en
+- fr
 script: Latn
-
 version:
   revision_date:
-
 date:
   type: published
   from: 2003-01-01
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2003
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2003
 link:
-  - type: html
-    content: https://iho.int/en/bathymetric-publications
-
+- type: html
+  content: https://iho.int/en/bathymetric-publications
 place: Monaco
-
 validity:
   begins: 2003-01-01
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: B
   type: main
   title:
     type: original
     content:
-      - content: Bathymetric Publications
-        language: en
-        script: Latn
-      - content: Publications bathymétriques
-        language: fr
-        script: Latn
+    - content: Bathymetric Publications
+      language: en
+      script: Latn
+    - content: Publications bathymétriques
+      language: fr
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-14

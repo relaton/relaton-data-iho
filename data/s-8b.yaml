@@ -1,18 +1,23 @@
 ---
 title:
-  - type: main
-    content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS
-    language: en
-  - type: main
-    content: Normes de compétence pour les cartographes catégorie "B"
-    language: fr
-
+- type: main
+  content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS
+  language: en
+- type: main
+  content: Normes de compétence pour les cartographes catégorie "B"
+  language: fr
 editorialgroup:
-  - committee: IRCC
-    workgroup: IBSC
-
+- - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+  - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+      committee:
+        abbreviation: IBSC
+        name: FIG/IHO/ICA INTERNATIONAL BOARD ON STANDARDS OF COMPETENCE FOR HYDROGRAPHIC
+          SURVEYORS AND NAUTICAL CARTOGRAPHERS
 type: standard
-
 docid:
   type: IHO
   id: S-8B
@@ -20,60 +25,48 @@ structuredidentifier:
   docnumber: 8B
   partnumber: B
 edition: 1.0.0
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-  - fr
-
+- en
+- fr
 script: Latn
-
 version:
   revision_date: 2017-09-01
-
 date:
   type: published
   from: 2017-09-01
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2017
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2017
 link:
-  - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
-
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
 place: Monaco
-
 validity:
   begins: 2017-09-01
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: S
   type: main
   title:
     type: original
     content:
-      - content: Standards and Specifications
-        language: en
-        script: Latn
-      - content: Normes et Spécifications
-        language: fr
-        script: Latn
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-01

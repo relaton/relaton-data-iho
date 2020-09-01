@@ -1,77 +1,69 @@
 ---
 title:
-  - type: main
-    content:  Hydrographic Dictionary
-    language: en
-  - type: main
-    content: Dictionnaire hydrographique
-    language: fr
-
+- type: main
+  content: Hydrographic Dictionary
+  language: en
+- type: main
+  content: Dictionnaire hydrographique
+  language: fr
 editorialgroup:
-  - committee: hssc
-    workgroup: HDWG
-
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+  - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: HDWG
+        name: Hydrographic Dictionary Working Group
 type: standard
-
 docid:
   type: IHO
   id: S-32
 docnumber: 32
 edition:
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-  - fr
-
+- en
+- fr
 script: Latn
-
 version:
   revision_date: 2019
-
 date:
   type: published
   from: 2019
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2019
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2019
 link:
-  - type: pdf
-    content: http://iho-ohi.net/S32/engView.php
-
+- type: pdf
+  content: http://iho-ohi.net/S32/engView.php
 place: Monaco
-
 validity:
   begins: 2019
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: S
   type: main
   title:
     type: original
     content:
-      - content: Standards and Specifications
-        language: en
-        script: Latn
-      - content: Normes et Spécifications
-        language: fr
-        script: Latn
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-01

@@ -1,77 +1,69 @@
 ---
 title:
-  - type: main
-    content: IHO Universal Hydrographic Data Model
-    language: en
-  - type: main
-    content: Modèle universel de données hydrographiques de l’OHI
-    language: fr
-
+- type: main
+  content: IHO Universal Hydrographic Data Model
+  language: en
+- type: main
+  content: Modèle universel de données hydrographiques de l’OHI
+  language: fr
 type: standard
-
 editorialgroup:
-  - committee: hssc
-    workgroup: S-100WG
-
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+  - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
 docid:
   type: IHO
   id: S-100
 docnumber: 100
 edition: 4.0.0
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-  - fr
-
+- en
+- fr
 script: Latn
-
 version:
   revision_date: 2018-12-01
-
 date:
   type: published
   from: 2018-12-01
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2018
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2018
 link:
-  - type: pdf
-    content: https://iho.int/uploads/user/pubs/standards/s-100/S-100_Ed%204.0.0_Clean_17122018.pdf
-
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-100/S-100_Ed%204.0.0_Clean_17122018.pdf
 place: Monaco
-
 validity:
   begins: 2018-12-01
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: S
   type: main
   title:
     type: original
     content:
-      - content: Standards and Specifications
-        language: en
-        script: Latn
-      - content: Normes et Spécifications
-        language: fr
-        script: Latn
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-02

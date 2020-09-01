@@ -1,70 +1,63 @@
 ---
 title:
-  - type: main
-    content: TRAINING COURSES IN HYDROGRAPHY AND NAUTICAL CARTOGRAPHY
-    language: en
-
+- type: main
+  content: TRAINING COURSES IN HYDROGRAPHY AND NAUTICAL CARTOGRAPHY
+  language: en
 editorialgroup:
-  - committee: ircc
-    workgroup: IBSC
-
+- - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+  - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+      committee:
+        abbreviation: IBSC
+        name: FIG/IHO/ICA INTERNATIONAL BOARD ON STANDARDS OF COMPETENCE FOR HYDROGRAPHIC
+          SURVEYORS AND NAUTICAL CARTOGRAPHERS
 type: standard
-
 docid:
   type: IHO
   id: C-47
 docnumber: 47
 edition: 7.0.0
-
 docstatus:
   stage:
     value: in-force
-
 language:
-  - en
-
+- en
 script: Latn
-
 version:
   revision_date: 2011-04-01
-
 date:
   type: published
   from: 2011-04-01
-
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: 2011
-
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: 2011
 link:
-  - type: pdf
-    content: https://iho.int/uploads/user/pubs/cb/c-33/C47E-SEPT09-UPDATED-APRIL11.pdf
-
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/cb/c-33/C47E-SEPT09-UPDATED-APRIL11.pdf
 place: Monaco
-
 validity:
   begins: 2011-04-01
-
 contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
 series:
   number: C
   type: main
   title:
     type: original
     content:
-      - content: Capacity Building Publications
-        language: en
-        script: Latn
+    - content: Capacity Building Publications
+      language: en
+      script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-
 fetched: 2020-06-03
