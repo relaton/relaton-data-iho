@@ -15,9 +15,6 @@ editorialgroup:
 - - committee:
       abbreviation: HSSC
       name: Hydrographic Services and Standards Committee
-  - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
       workgroup:
         abbreviation: ENCWG
         name: ENC STANDARDS MAINTENANCE WORKING GROUP

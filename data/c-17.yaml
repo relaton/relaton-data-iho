@@ -8,9 +8,6 @@ editorialgroup:
 - - committee:
       abbreviation: IRCC
       name: Inter-Regional Coordination Committee
-  - committee:
-      abbreviation: IRCC
-      name: Inter-Regional Coordination Committee
       workgroup:
         abbreviation: MSDIWG
         name: MARINE SPATIAL DATA INFRASTRUCTURES WORKING GROUP

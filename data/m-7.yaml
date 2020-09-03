@@ -10,9 +10,6 @@ editorialgroup:
 - - committee:
       abbreviation: IHR
       name: International Hydrography Review
-  - committee:
-      abbreviation: IHR
-      name: International Hydrography Review
 type: standard
 docid:
   type: IHO
