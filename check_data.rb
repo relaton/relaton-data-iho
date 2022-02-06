@@ -81,7 +81,7 @@ path = ARGV.first || 'data/*.{yaml,yml}'
 
 errors = false
 Dir[path].each do |f|
-  yaml = YAML.load_file(f, permitted_classes: [Date])
+  yaml = YAML.load_file(f)
   hash = RelatonIho::HashConverter.hash_to_bib yaml
   item = RelatonIho::IhoBibliographicItem.new(**hash)
   if (messages = compare(yaml, item.to_hash))&.any?
