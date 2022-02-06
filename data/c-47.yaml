@@ -15,6 +15,7 @@ type: standard
 docid:
   type: IHO
   id: C-47
+  primary: true
 docnumber: 47
 edition: 7.0.0
 docstatus:
@@ -24,22 +25,22 @@ language:
 - en
 script: Latn
 version:
-  revision_date: 2011-04-01
+  revision_date: '2011-04-01'
 date:
   type: published
-  from: 2011-04-01
+  from: '2011-04-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2011
+  from: '2011'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/cb/c-33/C47E-SEPT09-UPDATED-APRIL11.pdf
 place: Monaco
 validity:
-  begins: 2011-04-01
+  begins: '2011-04-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -57,4 +58,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-03
+fetched: '2020-06-03'

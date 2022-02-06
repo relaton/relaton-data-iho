@@ -11,6 +11,7 @@ type: standard
 docid:
   type: IHO
   id: P-7
+  primary: true
 docnumber: 7
 edition: 1.0.6
 docstatus:
@@ -21,22 +22,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2019-07-01
+  revision_date: '2019-07-01'
 date:
   type: published
-  from: 2019-07-01
+  from: '2019-07-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2019
+  from: '2019'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/periodical/P7_2018_EN_IHO_AREd1-0-6.pdf
 place: Monaco
 validity:
-  begins: 2019-07-01
+  begins: '2019-07-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -54,4 +55,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-03
+fetched: '2020-06-03'

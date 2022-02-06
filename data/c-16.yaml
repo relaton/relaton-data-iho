@@ -14,6 +14,7 @@ editorialgroup:
 docid:
   type: IHO
   id: C-16
+  primary: true
 docnumber: 16
 edition: 1.0.0
 docstatus:
@@ -23,22 +24,22 @@ language:
 - en
 script: Latn
 version:
-  revision_date: 2007-01-01
+  revision_date: '2007-01-01'
 date:
   type: published
-  from: 2007-01-01
+  from: '2007-01-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2007
+  from: '2007'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/cb/c-16/C16upd1208small.pdf
 place: Monaco
 validity:
-  begins: 2007-01-01
+  begins: '2007-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -56,4 +57,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-03
+fetched: '2020-06-03'

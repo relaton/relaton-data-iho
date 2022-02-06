@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: S-32
+  primary: true
 docnumber: 32
 edition:
 docstatus:
@@ -27,22 +28,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2019
+  revision_date: '2019'
 date:
   type: published
-  from: 2019
+  from: '2019'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2019
+  from: '2019'
 link:
 - type: pdf
   content: http://iho-ohi.net/S32/engView.php
 place: Monaco
 validity:
-  begins: 2019
+  begins: '2019-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -63,4 +64,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-01
+fetched: '2020-06-01'

@@ -11,7 +11,8 @@ type: standard
 docid:
   type: IHO
   id: P-1/21
-  number: 21
+  # number: 21
+  primary: true
 docnumber: 1
 edition:
 docstatus:
@@ -21,22 +22,22 @@ language:
 - en
 script: Latn
 version:
-  revision_date: 2019-05-01
+  revision_date: '2019-05-01'
 date:
   type: published
-  from: 2019-05-01
+  from: '2019-05-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2019
+  from: '2019'
 link:
 - type: html
   content: https://journals.lib.unb.ca/index.php/ihr/issue/view/2235
 place: Monaco
 validity:
-  begins: 1923-01-01
+  begins: '1923-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -56,6 +57,6 @@ series:
   place: Monaco
   organization: International Hydrographic Organization
   abbreviation: IHR
-  from: 1923-01-01
-  issn: 0020-6946
-fetched: 2020-06-09
+  from: '1923-01-01'
+  # issn: 0020-6946
+fetched: '2020-06-09'

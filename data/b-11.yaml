@@ -21,6 +21,7 @@ type: standard
 docid:
   type: IHO
   id: B-11
+  primary: true
 docnumber: 11
 edition: 1.0.0
 docstatus:
@@ -31,27 +32,27 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2019-10-31
+  revision_date: '2019-10-31'
 date:
   type: published
-  from: 2020-01-20
+  from: '2020-01-20'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2019
+  from: '2019'
 - owner:
     name: Intergovernmental Oceanographic Commission
     abbreviation: IOC
     url: http://ioc-unesco.org
-  from: 2019
+  from: '2019'
 link:
 - type: pdf
   content: https://www.star.nesdis.noaa.gov/socd/lsa/GEBCO_Cookbook/documents/CookBook_20191031.pdf
 place: Monaco
 validity:
-  begins: 2019-10-31
+  begins: '2019-10-31'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -77,4 +78,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-03-29
+fetched: '2020-03-29'

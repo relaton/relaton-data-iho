@@ -21,6 +21,7 @@ type: standard
 docid:
   type: IHO
   id: B-4
+  primary: true
 docnumber: 4
 edition: 2.19.0
 docstatus:
@@ -34,19 +35,19 @@ version:
   revision_date:
 date:
   type: published
-  from: 1990-01-01
+  from: '1990-01-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 1990
+  from: '1990'
 link:
 - type: website
   content: https://maps.ngdc.noaa.gov/viewers/bathymetry/
 place: Monaco
 validity:
-  begins: 1990-01-01
+  begins: '1990-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -67,4 +68,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-14
+fetched: '2020-06-14'

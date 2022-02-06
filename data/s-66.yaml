@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: S-66
+  primary: true
 docnumber: 66
 edition: 1.1.0
 docstatus:
@@ -27,22 +28,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2018-01-01
+  revision_date: '2018-01-01'
 date:
   type: published
-  from: 2018-01-01
+  from: '2018-01-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2018
+  from: '2018'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-66/S-66%20Edition%201.1.0_Final_Clean.pdf
 place: Monaco
 validity:
-  begins: 2018-01-01
+  begins: '2018-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -63,4 +64,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-02
+fetched: '2020-06-02'

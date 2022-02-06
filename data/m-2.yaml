@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: M-2
+  primary: true
 docnumber: 2
 edition: 3.0.7
 docstatus:
@@ -28,22 +29,22 @@ language:
 - es
 script: Latn
 version:
-  revision_date: 2018-06-01
+  revision_date: '2018-06-01'
 date:
   type: published
-  from: 2018-06-01
+  from: '2018-06-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2018
+  from: '2018'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/misc/M-2_3.0.7_E_06142018.pdf
 place: Monaco
 validity:
-  begins: 2018-06-01
+  begins: '2018-06-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -64,4 +65,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-03
+fetched: '2020-06-03'

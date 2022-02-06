@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: S-65AnnexA
+  primary: true
 extent:
   type: annex
   reference_from: S-65
@@ -31,22 +32,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2020-01-01
+  revision_date: '2020-01-01'
 date:
   type: published
-  from: 2020-01-01
+  from: '2020-01-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2020
+  from: '2020'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-65/S-65%20Annex%20A_Ed%201.0.0_Clean_Final.pdf
 place: Monaco
 validity:
-  begins: 2020-01-01
+  begins: '2020-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -67,4 +68,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-01
+fetched: '2020-06-01'

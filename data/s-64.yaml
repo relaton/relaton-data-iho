@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: S-64
+  primary: true
 docnumber: 64
 edition: 3.0.2
 docstatus:
@@ -27,22 +28,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2017-07-01
+  revision_date: '2017-07-01'
 date:
   type: published
-  from: 2017-07-01
+  from: '2017-07-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2017
+  from: '2017'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-64/S-64_Download_Links_Document.pdf
 place: Monaco
 validity:
-  begins: 2017-07-01
+  begins: '2017-07-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -63,4 +64,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-01
+fetched: '2020-06-01'

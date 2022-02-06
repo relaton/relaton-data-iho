@@ -21,6 +21,7 @@ type: standard
 docid:
   type: IHO
   id: B-9
+  primary: true
 docnumber: 9
 edition:
 docstatus:
@@ -34,19 +35,19 @@ version:
   revision_date:
 date:
   type: published
-  from: 2009-01-01
+  from: '2009-01-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2009
+  from: '2009'
 link:
 - type: website
   content: https://www.gebco.net/data_and_products/gebco_digital_atlas/
 place: Monaco
 validity:
-  begins: 2009-01-01
+  begins: '2009-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -67,4 +68,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-14
+fetched: '2020-06-14'

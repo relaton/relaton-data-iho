@@ -22,6 +22,7 @@ type: standard
 docid:
   type: IHO
   id: S-52
+  primary: true
 docnumber: 52
 edition: 6.1.1
 docstatus:
@@ -33,22 +34,22 @@ language:
 - es
 script: Latn
 version:
-  revision_date: 2015-06-01
+  revision_date: '2015-06-01'
 date:
   type: published
-  from: 2014-10-01
+  from: '2014-10-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2014
+  from: '2014'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-52/S-52%20Edition%206.1.1%20-%20June%202015.pdf
 place: Monaco
 validity:
-  begins: 2014-10-01
+  begins: '2014-10-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -69,4 +70,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-01
+fetched: '2020-06-01'

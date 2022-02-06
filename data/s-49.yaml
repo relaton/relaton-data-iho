@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: S-49
+  primary: true
 docnumber: 49
 edition: 2.0.0
 docstatus:
@@ -27,22 +28,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2010-04-01
+  revision_date: '2010-04-01'
 date:
   type: published
-  from: 2010-04-01
+  from: '2010-04-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2010
+  from: '2010'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-49/S-49_e2.0_EN.pdf
 place: Monaco
 validity:
-  begins: 2010-04-01
+  begins: '2010-04-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -63,4 +64,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-01
+fetched: '2020-06-01'

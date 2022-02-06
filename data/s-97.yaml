@@ -15,6 +15,7 @@ type: standard
 docid:
   type: IHO
   id: S-97
+  primary: true
 docnumber: 97
 edition: 1.1.0
 docstatus:
@@ -24,22 +25,22 @@ language:
 - en
 script: Latn
 version:
-  revision_date: 2020-01-16
+  revision_date: '2020-01-16'
 date:
   type: published
-  from: 2020-01-16
+  from: '2020-01-16'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2020
+  from: '2020'
 link:
 - type: pdf
   content: http://registry.iho.int/beta/guidance/list.do
 place: Monaco
 validity:
-  begins: 2020-01-16
+  begins: '2020-01-16'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -57,4 +58,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-09
+fetched: '2020-06-09'

@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: S-101
+  primary: true
 docnumber: 101
 edition: 1.0.0
 docstatus:
@@ -27,22 +28,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2018-12-01
+  revision_date: '2018-12-01'
 date:
   type: published
-  from: 2018-12-01
+  from: '2018-12-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2018
+  from: '2018'
 link:
 - type: pdf
   content: http://registry.iho.int/beta/productspec/view.do?idx=78&product_ID=S-101&statusS=5&domainS=ALL&category=product_ID&searchValue=
 place: Monaco
 validity:
-  begins: 2018-12-01
+  begins: '2018-12-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -63,4 +64,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-02
+fetched: '2020-06-02'

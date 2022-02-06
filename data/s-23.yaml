@@ -14,6 +14,7 @@ type: standard
 docid:
   type: IHO
   id: S-23
+  primary: true
 docnumber: 23
 edition: 3.0.0
 docstatus:
@@ -24,22 +25,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 1953
+  revision_date: '1953'
 date:
   type: published
-  from: 1953
+  from: '1953'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 1953
+  from: '1953'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-23/S-23_Ed3_1953_EN.pdf
 place: Monaco
 validity:
-  begins: 1953
+  begins: '1953-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -60,4 +61,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-01
+fetched: '2020-06-01'

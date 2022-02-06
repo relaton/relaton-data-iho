@@ -23,6 +23,7 @@ type: standard
 docid:
   type: IHO
   id: S-4
+  primary: true
 docnumber: 4
 edition: 4.8.0
 docstatus:
@@ -34,22 +35,22 @@ language:
 - es
 script: Latn
 version:
-  revision_date: 2018-10-01
+  revision_date: '2018-10-01'
 date:
   type: published
-  from: 2018-11-01
+  from: '2018-11-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2018
+  from: '2018'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-4/S4_V4-8-0_Oct_2018_EN.pdf
 place: Monaco
 validity:
-  begins: 2018-10-01
+  begins: '2018-10-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -70,4 +71,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-03-29
+fetched: '2020-03-29'

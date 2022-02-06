@@ -16,6 +16,7 @@ type: standard
 docid:
   type: IHO
   id: S-62
+  primary: true
 docnumber: 62
 edition:
 
@@ -30,18 +31,18 @@ language:
 script: Latn
 
 version:
-  revision_date: 2020-06-01
+  revision_date: '2020-06-01'
 
 date:
   type: published
-  from: 2020-06-01
+  from: '2020-06-01'
 
 copyright:
   - owner:
       name: International Hydrographic Organization
       abbreviation: IHO
       url: www.iho.int
-    from: 2020
+    from: '2020'
 
 link:
   - type: html
@@ -52,7 +53,7 @@ link:
 place: Monaco
 
 validity:
-  begins: 2020-06-01
+  begins: '2020-06-01'
 
 contributor:
   - organization:
@@ -76,4 +77,4 @@ series:
   place: Monaco
   organization: International Hydrographic Organization
 
-fetched: 2020-06-01
+fetched: '2020-06-01'

@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: P-5
+  primary: true
 docnumber: 5
 edition:
 docstatus:
@@ -28,22 +29,22 @@ language:
 - es
 script: Latn
 version:
-  revision_date: 2020-06-01
+  revision_date: '2020-06-01'
 date:
   type: published
-  from: 2020-06-01
+  from: '2020-06-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2020
+  from: '2020'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/periodical/P5YEARBOOK_ANNUAIRE.pdf
 place: Monaco
 validity:
-  begins: 2020-06-01
+  begins: '2020-06-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -61,4 +62,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-09
+fetched: '2020-06-09'

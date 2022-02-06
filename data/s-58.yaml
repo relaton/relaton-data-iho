@@ -17,6 +17,7 @@ type: standard
 docid:
   type: IHO
   id: S-58
+  primary: true
 docnumber: 58
 edition: 6.1.0
 docstatus:
@@ -27,22 +28,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: 2018-09-01
+  revision_date: '2018-09-01'
 date:
   type: published
-  from: 2018-09-01
+  from: '2018-09-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2018
+  from: '2018'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-58/S-58_Edition_6.1.0_Sept18.pdf
 place: Monaco
 validity:
-  begins: 2018-09-01
+  begins: '2018-09-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -63,4 +64,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-01
+fetched: '2020-06-01'

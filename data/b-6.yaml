@@ -24,6 +24,7 @@ type: standard
 docid:
   type: IHO
   id: B-6
+  primary: tru
 docnumber: 6
 edition: 4.2.0
 docstatus:
@@ -35,27 +36,27 @@ language:
 - es
 script: Latn
 version:
-  revision_date: 2019-10-01
+  revision_date: '2019-10-01'
 date:
   type: published
-  from: 2019-10-01
+  from: '2019-10-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: 2019
+  from: '2019'
 - owner:
     name: Intergovernmental Oceanographic Commission
     abbreviation: IOC
     url: http://ioc-unesco.org
-  from: 2019
+  from: '2019'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/bathy/B-6_e4%202%200_2019_EF_clean_3Oct2019.pdf
 place: Monaco
 validity:
-  begins: 2019-10-01
+  begins: '2019-10-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
@@ -81,4 +82,4 @@ series:
       script: Latn
   place: Monaco
   organization: International Hydrographic Organization
-fetched: 2020-06-02
+fetched: '2020-06-02'
