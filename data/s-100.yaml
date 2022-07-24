@@ -19,7 +19,8 @@ docid:
   id: S-100
   primary: true
 docnumber: 100
-edition: 4.0.0
+edition:
+  content: 4.0.0
 docstatus:
   stage:
     value: in-force

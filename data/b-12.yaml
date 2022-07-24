@@ -19,7 +19,8 @@ docid:
   id: B-12
   primary: true
 docnumber: 12
-edition: 2.0.3
+edition:
+  content: 2.0.3
 docstatus:
   stage:
     value: in-force

@@ -21,7 +21,8 @@ docid:
   id: S-99
   primary: true
 docnumber: 99
-edition: 1.1.0
+edition:
+  content: 1.1.0
 docstatus:
   stage:
     value: in-force

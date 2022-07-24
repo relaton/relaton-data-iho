@@ -19,7 +19,8 @@ docid:
   id: S-64
   primary: true
 docnumber: 64
-edition: 3.0.2
+edition:
+  content: 3.0.2
 docstatus:
   stage:
     value: in-force

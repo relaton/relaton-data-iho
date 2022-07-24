@@ -24,7 +24,8 @@ docid:
   id: S-52
   primary: true
 docnumber: 52
-edition: 6.1.1
+edition:
+  content: 6.1.1
 docstatus:
   stage:
     value: in-force

@@ -22,7 +22,8 @@ docid:
   id: S-61
   primary: true
 docnumber: 61
-edition: 1.0.0
+edition:
+  content: 1.0.0
 docstatus:
   stage:
     value: in-force

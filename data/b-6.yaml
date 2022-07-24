@@ -26,7 +26,8 @@ docid:
   id: B-6
   primary: tru
 docnumber: 6
-edition: 4.2.0
+edition:
+  content: 4.2.0
 docstatus:
   stage:
     value: in-force

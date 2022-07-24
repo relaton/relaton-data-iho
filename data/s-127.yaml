@@ -19,7 +19,8 @@ docid:
   id: S-127
   primary: true
 docnumber: 127
-edition: 1.0.0
+edition:
+  content: 1.0.0
 docstatus:
   stage:
     value: in-force

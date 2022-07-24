@@ -13,7 +13,8 @@ docid:
   id: P-7
   primary: true
 docnumber: 7
-edition: 1.0.6
+edition:
+  content: 1.0.6
 docstatus:
   stage:
     value: in-force

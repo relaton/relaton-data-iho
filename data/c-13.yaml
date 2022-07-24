@@ -26,7 +26,8 @@ docid:
   id: C-13
   primary: true
 docnumber: 13
-edition: 1.0.0
+edition:
+  content: 1.0.0
 docstatus:
   stage:
     value: in-force

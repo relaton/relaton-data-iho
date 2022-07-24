@@ -19,7 +19,8 @@ docid:
   id: M-2
   primary: true
 docnumber: 2
-edition: 3.0.7
+edition:
+  content: 3.0.7
 docstatus:
   stage:
     value: in-force

@@ -19,7 +19,8 @@ docid:
   id: S-58
   primary: true
 docnumber: 58
-edition: 6.1.0
+edition:
+  content: 6.1.0
 docstatus:
   stage:
     value: in-force

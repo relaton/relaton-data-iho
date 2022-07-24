@@ -19,7 +19,8 @@ docid:
   id: S-66
   primary: true
 docnumber: 66
-edition: 1.1.0
+edition:
+  content: 1.1.0
 docstatus:
   stage:
     value: in-force

@@ -16,7 +16,8 @@ docid:
   id: C-16
   primary: true
 docnumber: 16
-edition: 1.0.0
+edition:
+  content: 1.0.0
 docstatus:
   stage:
     value: in-force

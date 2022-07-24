@@ -22,7 +22,8 @@ docid:
 structuredidentifier:
   docnumber: 5B
   partnumber: B
-edition: 1.0.1
+edition:
+  content: 1.0.1
 docstatus:
   stage:
     value: in-force

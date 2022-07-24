@@ -24,7 +24,8 @@ docid:
   id: S-11
   primary: true
 docnumber: 11
-edition: 3.1.0
+edition:
+  content: 3.1.0
 docstatus:
   stage:
     value: in-force
