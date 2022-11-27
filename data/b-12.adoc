@@ -2,7 +2,6 @@
 [%bibitem]
 == {blank}
 
-fetched:: 2020-03-29
 title::
 title.type:: main
 title.content:: Guidance on Crowdsourced Bathymetry
