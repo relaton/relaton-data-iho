@@ -13,7 +13,7 @@ require 'relaton_iho'
 # @return [<Type>] <description>
 #
 def compare(src, dest) # rubocop:disable Metrics/MethodLength, Metrics/AbcSize, Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
-  if !src.is_a?(dest.class) && !(dest.is_a?(Array) || src.is_a?(Array))
+  if !src.is_a?(dest.class) && !(dest.is_a?(Array) || src.is_a?(Array)) && !(dest['content'] || dest['type'])
     return ["- #{src.to_s[0..70]}#{src.to_s.size > 70 ? '...' : ''}",
             "+ #{dest.to_s[0..70]}#{dest.to_s.size > 70 ? '...' : ''}"]
   elsif dest.is_a?(Array)
@@ -26,7 +26,12 @@ def compare(src, dest) # rubocop:disable Metrics/MethodLength, Metrics/AbcSize, 
     result = src.map.with_index { |s, i| compare s, array(dest)[i] }
     compact result
   when String
-    src != dest && ["- #{src}", "+ #{dest}"]
+    dest_str = case dest
+               when Hash then dest['content'] || dest['type']
+               when Array then dest[0]['content'] || dest[0]['type']
+               else dest
+               end
+    src != dest_str && ["- #{src}", "+ #{dest_str}"]
   when Hash
     result = src.map do |k, v|
       dest[k]['begins'].sub!(/\s00:00$/, '') if k == 'validity'
