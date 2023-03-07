@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Index documents
         run: |
-          rm index.yaml, index.zip
+          rm -f index.yaml, index.zip
           bundle install
           bundle exec ruby index.rb
           zip index.zip index.yaml
