@@ -1,0 +1,38 @@
+name: Index documents
+
+on:
+  push:
+    branches: [ master, main ]
+    tags: [ v* ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Index documents
+        run: |
+          rm index.yaml, index.zip
+          bundle install
+          bundle exec ruby index.rb
+          zip index.zip index.yaml
+      - name: Diff index
+        run: |
+          git add index.yaml index.zip
+
+          if git diff --cached --exit-code
+          then
+            echo "Data not changed. Skip commit"
+            echo "skip_commit=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "skip_commit=false" >> $GITHUB_OUTPUT
+
+      - if: steps.diff.outputs.skip_commit != 'true'
+        name: Push data
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)
