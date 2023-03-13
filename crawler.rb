@@ -3,7 +3,7 @@
 require 'relaton/index'
 require 'fileutils'
 
-files = %w[index.yaml index.zip]
+files = %w[index.zip index.yaml]
 FileUtils.rm_f(files)
 
 idx = Relaton::Index.find_or_create :IHO
