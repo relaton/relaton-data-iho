@@ -1,0 +1,67 @@
+---
+title:
+- type: main
+  content: Surface Currents Product Specification
+  language: en
+- type: main
+  content: Spécification de produit pour les courants de surface
+  language: fr
+type: standard
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: TWCWG
+        name: Tides, Water Level and Currents Working Group
+docid:
+  type: IHO
+  id: S-111
+  primary: true
+docnumber: 111
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2018-12-01'
+date:
+  type: published
+  from: '2018-12-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2018'
+link:
+- type: pdf
+  content: http://registry.iho.int/beta/productspec/view.do?idx=168&product_ID=S-111&statusS=5&domainS=ALL&category=product_ID&searchValue=
+place: Monaco
+validity:
+  begins: '2018-12-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

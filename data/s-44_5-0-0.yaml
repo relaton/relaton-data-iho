@@ -1,0 +1,75 @@
+---
+title:
+- type: main
+  content: IHO Standards for Hydrographic Surveys
+  language: en
+- type: main
+  content: Normes OHI pour les levés hydrographiques
+  language: fr
+- type: main
+  content: NORMAS DE LA OHI PARA LOS LEVANTAMIENTOS HIDROGRAFICOS
+  language: es
+- type: main
+  content: ESPECIFICAÇÕES DA OHI PARA LEVANTAMENTOS HIDROGRÁFICOS
+  language: pt
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: HSPT
+        name: Project Team on Standards for Hydrographic Surveys
+type: standard
+docid:
+  type: IHO
+  id: S-44
+  primary: true
+docnumber: 44
+edition:
+  content: 5.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+- es
+- pt
+script: Latn
+version:
+  revision_date: '2008-02-01'
+date:
+  type: published
+  from: '2008-02-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2008'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-44/S-44_5E.pdf
+place: Monaco
+validity:
+  begins: '2008-02-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

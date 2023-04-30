@@ -1,0 +1,72 @@
+---
+title:
+- type: main
+  content: GUIDANCE FOR THE PREPARATION AND MAINTENANCE OF INTERNATIONAL (INT) CHART
+    AND ENC SCHEMES AND CATALOGUE OF INTERNATIONAL CHARTS
+  language: en
+- type: main
+  content: Guide pour la préparation et la tenue à jour des schemas de cartes Internationales
+    (INT) et d'ENC et Catalogue des cartes Internationales
+  language: fr
+type: standard
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: NCWG
+        name: NAUTICAL CARTOGRAPHY WORKING GROUP
+- committee:
+    abbreviation: IRCC
+    name: Inter-Regional Coordination Committee
+docid:
+  type: IHO
+  id: S-11
+  primary: true
+docnumber: 11
+edition:
+  content: 3.1.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2018-02-01'
+date:
+  type: published
+  from: '2018-02-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2018'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-11/S-11_PartAEd3.1.0_EN.pdf
+place: Monaco
+validity:
+  begins: '2018-02-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

@@ -1,0 +1,67 @@
+---
+title:
+- type: main
+  content: STANDARDIZATION of MARINERS' ROUTEING GUIDES
+  language: en
+- type: main
+  content: Normalisation des guides d’organisation du trafic pour les navigateurs
+  language: fr
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: CSPCWG
+        name: NAUTICAL CARTOGRAPHY WORKING GROUP
+type: standard
+docid:
+  type: IHO
+  id: S-49
+  primary: true
+docnumber: 49
+edition:
+  content: 2.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2010-04-01'
+date:
+  type: published
+  from: '2010-04-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2010'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-49/S-49_e2.0_EN.pdf
+place: Monaco
+validity:
+  begins: '2010-04-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

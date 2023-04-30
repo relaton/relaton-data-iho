@@ -1,0 +1,61 @@
+---
+title:
+- type: main
+  content: Operational Procedures for the Organization and Management of the S-100
+    Geospatial Information Registry
+  language: en
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-97
+  primary: true
+docnumber: 97
+edition:
+  content: 1.1.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2020-01-16'
+date:
+  type: published
+  from: '2020-01-16'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2020'
+link:
+- type: pdf
+  content: http://registry.iho.int/beta/guidance/list.do
+place: Monaco
+validity:
+  begins: '2020-01-16'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

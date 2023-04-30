@@ -1,0 +1,56 @@
+---
+title:
+- type: main
+  content: International Hydrographic Review
+  language: en
+editorialgroup:
+- - committee:
+      abbreviation: IHR
+      name: International Hydrography Review
+type: standard
+docid:
+  type: IHO
+  id: P-1
+  primary: true
+docnumber: 1
+edition:
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2019-11-01'
+date:
+  type: published
+  from: '1923-01-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2019'
+link:
+- type: pdf
+  content: https://review.iho.int
+place: Monaco
+validity:
+  begins: '1923-01-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: P
+  type: main
+  title:
+    type: original
+    content:
+    - content: Periodic Publications
+      language: en
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

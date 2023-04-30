@@ -1,0 +1,71 @@
+---
+title:
+- type: main
+  content: Hydrographic Dictionary - Glossary of ECDIS Related Terms
+  language: en
+- type: main
+  content: Dictionnaire hydrographique - Glossaire des termes relatifs aux ECDIS
+  language: fr
+- type: main
+  content: DICCIONARIO HIDROGRÁFICO
+  language: es
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: HDWG
+        name: Hydrographic Dictionary Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-32
+  primary: true
+docnumber: 32
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+- es
+script: Latn
+version:
+  revision_date: '1994'
+date:
+  type: published
+  from: '1994'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '1994'
+link:
+- type: pdf
+  content: http://hd.iho.int/en/index.php/Main_Page
+place: Monaco
+validity:
+  begins: '1994-01-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

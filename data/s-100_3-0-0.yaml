@@ -1,0 +1,67 @@
+---
+title:
+- type: main
+  content: IHO Universal Hydrographic Data Model
+  language: en
+- type: main
+  content: Modèle universel de données hydrographiques de l’OHI
+  language: fr
+type: standard
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+docid:
+  type: IHO
+  id: S-100
+  primary: true
+docnumber: 100
+edition:
+  content: 3.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2017-04-01'
+date:
+  type: published
+  from: '2017-04-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2017'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-100/S-100_Edition_3.0.0.pdf
+place: Monaco
+validity:
+  begins: '2017-04-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

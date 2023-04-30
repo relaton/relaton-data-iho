@@ -1,0 +1,66 @@
+---
+title:
+- type: main
+  content: MANUAL ON MARITIME SAFETY INFORMATION (MSI)
+  language: en
+- type: main
+  content: Manuel conjoint OMI/OHI/OMM sur les renseignements de sécurité maritime
+  language: fr
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      commission:
+        abbreviation: CPRNW
+        name: Commission for the Promulgation of Radio Navigation Warnings
+type: standard
+docid:
+  type: IHO
+  id: S-53
+  primary: true
+docnumber: 53
+edition:
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2015-06-01'
+date:
+  type: published
+  from: '2016-01-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2014'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-53/S_53_JAN16_E.pdf
+place: Monaco
+validity:
+  begins: '2014-10-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

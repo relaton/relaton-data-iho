@@ -1,0 +1,75 @@
+---
+title:
+- type: main
+  content: The IHO and its Secretariat - an Updated History
+  language: en
+- type: main
+  content: L’OHI et son Secrétariat -  une Histoire Mise à Jour
+  language: fr
+- type: main
+  content: La OHI y su Secretaría - una historia actualizada
+  language: es
+editorialgroup:
+- committee:
+    abbreviation: BUREAU
+    name: International Hydrography Bureau
+type: standard
+docid:
+  type: IHO
+  id: M-7
+  primary: true
+docnumber: 7
+edition:
+  content: 3.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+- es
+script: Latn
+version:
+  revision_date: '2019-01-01'
+date:
+  type: published
+  from: '2019-01-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2019'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/misc/M-10_2019_EN.pdf
+place: Monaco
+validity:
+  begins: '2019-01-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+- person:
+    name:
+      prefix: Captain
+      forename: Federico
+      surname: BERMEJO BARÓ
+      completename: Captain Federico BERMEJO BARÓ
+  role: author
+series:
+  number: M
+  type: main
+  title:
+    type: original
+    content:
+    - content: Miscellaneous Publications
+      language: en
+      script: Latn
+    - content: Publications Mixtes
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

@@ -1,0 +1,68 @@
+---
+title:
+- type: main
+  content: The Need for National Hydrographic Services
+  language: en
+- type: main
+  content: La nécessité de Services hydrographiques nationaux
+  language: fr
+- type: main
+  content: La necesidad de Servicios hidrograficos nacionales
+  language: es
+editorialgroup:
+- committee:
+    abbreviation: BUREAU
+    name: International Hydrography Bureau
+type: standard
+docid:
+  type: IHO
+  id: M-2
+  primary: true
+docnumber: 2
+edition:
+  content: 3.0.7
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+- es
+script: Latn
+version:
+  revision_date: '2018-06-01'
+date:
+  type: published
+  from: '2018-06-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2018'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/misc/M-2_3.0.7_E_06142018.pdf
+place: Monaco
+validity:
+  begins: '2018-06-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: M
+  type: main
+  title:
+    type: original
+    content:
+    - content: Miscellaneous Publications
+      language: en
+      script: Latn
+    - content: Publications Mixtes
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

@@ -1,0 +1,64 @@
+---
+title:
+- type: main
+  content: IHO Yearbook
+  language: en
+- type: main
+  content: IHO Annuaire
+  language: fr
+- type: main
+  content: IHO Anuario
+  language: es
+editorialgroup:
+- - committee:
+      abbreviation: IHR
+      name: International Hydrography Review
+type: standard
+docid:
+  type: IHO
+  id: P-5
+  primary: true
+docnumber: 5
+edition:
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+- es
+script: Latn
+version:
+  revision_date: '2020-06-01'
+date:
+  type: published
+  from: '2020-06-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2020'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P5YEARBOOK_ANNUAIRE.pdf
+place: Monaco
+validity:
+  begins: '2020-06-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: P
+  type: main
+  title:
+    type: original
+    content:
+    - content: Periodic Publications
+      language: en
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

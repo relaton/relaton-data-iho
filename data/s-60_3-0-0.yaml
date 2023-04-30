@@ -1,0 +1,77 @@
+---
+title:
+  - type: main
+    content:  User's Handbook on Datum Transformations involving WGS 84
+    language: en
+  - type: main
+    content: Transformations de systèmes géodésiques impliquant le WGS-84. Manuel de l'utilisateur
+    language: fr
+
+# editorialgroup:
+#   - committee: HSSC
+#     workgroup: IBSC
+
+type: standard
+
+docid:
+  type: IHO
+  id: S-60
+  primary: true
+docnumber: 60
+edition:
+  content: 3.0.0
+
+docstatus:
+  stage:
+    value: in-force
+
+language:
+  - en
+  - fr
+
+script: Latn
+
+version:
+  revision_date: '2008-09-01'
+
+date:
+  type: published
+  from: '2008-09-01'
+
+copyright:
+  - owner:
+      name: International Hydrographic Organization
+      abbreviation: IHO
+      url: www.iho.int
+    from: '2008'
+
+link:
+  - type: pdf
+    content: https://iho.int/uploads/user/pubs/standards/s-60/S60_Ed3Eng.pdf
+
+place: Monaco
+
+validity:
+  begins: '2003-07-01'
+
+contributor:
+  - organization:
+      name: International Hydrographic Organization
+      abbreviation: IHO
+      url: www.iho.int
+    role: publisher
+
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+      - content: Standards and Specifications
+        language: en
+        script: Latn
+      - content: Normes et Spécifications
+        language: fr
+        script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
