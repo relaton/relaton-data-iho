@@ -1,6 +1,10 @@
 # frozen_string_literal: true
 
 require 'relaton/index'
+require 'fileutils'
+
+files = %w[index.zip index.yaml]
+FileUtils.rm_f(files)
 
 idx = Relaton::Index.find_or_create :IHO
 
@@ -13,3 +17,6 @@ Dir['data/*.yaml'].each do |f|
 end
 
 idx.save
+
+system("zip #{files.join(' ')}")
+system("git add #{files.join(' ')}")
