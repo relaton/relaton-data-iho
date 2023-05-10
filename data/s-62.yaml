@@ -19,6 +19,7 @@ docid:
   primary: true
 docnumber: 62
 edition:
+  content: 1.1.0
 
 docstatus:
   stage:
