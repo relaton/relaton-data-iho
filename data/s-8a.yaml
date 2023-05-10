@@ -1,11 +1,11 @@
 ---
 title:
 - type: main
-  content: STANDARDS OF COMPETENCE FOR CATEGORY "B" NAUTICAL CARTOGRAPHERS
+  content: STANDARDS OF COMPETENCE FOR CATEGORY "A" NAUTICAL CARTOGRAPHERS
   language: en
 - type: main
-  content: Normes de compétence pour les cartographes catégorie "B"
-  language: fr
+  content: Normes de compétence pour les cartographes catégorie "A"
+  language: fr3
 editorialgroup:
   - committee:
       abbreviation: IRCC
@@ -17,13 +17,13 @@ editorialgroup:
 type: standard
 docid:
   type: IHO
-  id: S-8B
+  id: S-8A
   primary: true
 structuredidentifier:
-  docnumber: 8B
+  docnumber: 8A
   partnumber: A
 edition:
-  content: 1.0.0
+  content: 1.0.1
 docstatus:
   stage:
     value: in-force
@@ -35,19 +35,19 @@ version:
   revision_date: '2017-09-01'
 date:
   type: published
-  from: '2017-09-01'
+  from: '2018-09-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: '2017'
+  from: '2018'
 link:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/standards/s-8/S-8A_Ed1.0.1.pdf
 place: Monaco
 validity:
-  begins: '2017-09-01'
+  begins: '2018-06-01'
 contributor:
 - organization:
     name: International Hydrographic Organization
