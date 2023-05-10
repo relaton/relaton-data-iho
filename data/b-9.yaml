@@ -7,7 +7,7 @@ title:
   content: Atlas numérique de la GEBCO
   language: fr
 editorialgroup:
-- - committee:
+  - committee:
       abbreviation: HSSC
       name: Hydrographic Services and Standards Committee
   - committee:
