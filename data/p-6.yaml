@@ -4,7 +4,7 @@ title:
   content: 1st SESSION OF THE IHO ASSEMBLY
   language: en
 editorialgroup:
-  - committee:
+- - committee:
       abbreviation: IHR
       name: International Hydrography Review
 type: standard
