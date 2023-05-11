@@ -23,6 +23,7 @@ docid:
   id: B-8
   primary: true
 docnumber: 8
+  content: 1.1.1
 edition:
 docstatus:
   stage:
