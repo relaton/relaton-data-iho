@@ -23,6 +23,7 @@ docid:
   primary: true
 docnumber: 12
 edition:
+  content: 1.1.0
 docstatus:
   stage:
     value: in-force
