@@ -10,7 +10,7 @@ title:
   content: IHO Anuario
   language: es
 editorialgroup:
-  - committee:
+- - committee:
       abbreviation: IHR
       name: International Hydrography Review
 type: standard

@@ -7,7 +7,7 @@ title:
   content: Spécification de produit pour les cartes marines matricielles (RNC)
   language: fr
 editorialgroup:
-  - committee:
+- - committee:
       abbreviation: CHRIS
       name: Hydrographic Services and Standards Committee
   - committee:
