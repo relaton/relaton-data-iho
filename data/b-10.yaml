@@ -24,6 +24,7 @@ docid:
   primary: true
 docnumber: 10
 edition:
+  content: 5.0.0
 docstatus:
   stage:
     value: in-force
