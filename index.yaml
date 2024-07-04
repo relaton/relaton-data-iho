@@ -57,10 +57,24 @@
   :file: data/s-100_4-0-0.yaml
 - :id: S-100 5.0.0
   :file: data/s-100_5-0-0.yaml
+- :id: S-100 5.1.0
+  :file: data/s-100_5-1-0.yaml
+- :id: S-100 5.2.0
+  :file: data/s-100_5-2-0.yaml
 - :id: S-101 1.0.0
   :file: data/s-101_1-0-0.yaml
+- :id: S-101 1.1.0
+  :file: data/s-101_1-1-0.yaml
+- :id: S-101 1.2.0
+  :file: data/s-101_1-2-0.yaml
+- :id: S-102 1.0.0
+  :file: data/s-102_1-0-0.yaml
 - :id: S-102 2.0.0
   :file: data/s-102_2-0-0.yaml
+- :id: S-102 2.1.0
+  :file: data/s-102_2-1-0.yaml
+- :id: S-102 2.2.0
+  :file: data/s-102_2-2-0.yaml
 - :id: S-111 1.0.0
   :file: data/s-111_1-0-0.yaml
 - :id: S-11 3.1.0
@@ -79,6 +93,8 @@
   :file: data/s-23_3-0-0.yaml
 - :id: S-32 1.0.0
   :file: data/s-32_1-0-0.yaml
+- :id: S-401 1.0.0
+  :file: data/s-401_1-0-0.yaml
 - :id: S-44 5.0.0
   :file: data/s-44_5-0-0.yaml
 - :id: S-49 2.0.0
