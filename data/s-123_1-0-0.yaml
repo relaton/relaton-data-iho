@@ -41,7 +41,7 @@ copyright:
   from: '2019'
 link:
 - type: pdf
-  content: http://registry.iho.int/beta/productspec/view.do?idx=74&product_ID=S-123&statusS=5&domainS=ALL&category=product_ID&searchValue=
+  content: https://registry.iho.int/productspec/view.do?idx=74&product_ID=S-123
 place: Monaco
 validity:
   begins: '2019-01-01'

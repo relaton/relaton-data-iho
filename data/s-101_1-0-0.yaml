@@ -41,7 +41,7 @@ copyright:
   from: '2018'
 link:
 - type: pdf
-  content: http://registry.iho.int/beta/productspec/view.do?idx=78&product_ID=S-101&statusS=5&domainS=ALL&category=product_ID&searchValue=
+  content: https://registry.iho.int/productspec/view.do?idx=78&product_ID=S-101
 place: Monaco
 validity:
   begins: '2018-12-01'
