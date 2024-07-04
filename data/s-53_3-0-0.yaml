@@ -1,7 +1,7 @@
 ---
 title:
 - type: main
-  content: MANUAL ON MARITIME SAFETY INFORMATION (MSI)
+  content: Joint IMO/IHO/WMO Manual on Maritime Safety Information (MSI)
   language: en
 - type: main
   content: Manuel conjoint OMI/OHI/OMM sur les renseignements de sécurité maritime
@@ -20,6 +20,7 @@ docid:
   primary: true
 docnumber: 53
 edition:
+  content: 3.0.0
 docstatus:
   stage:
     value: in-force
@@ -28,10 +29,10 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: '2015-06-01'
+  revision_date: '2016-01-01'
 date:
-  type: published
-  from: '2016-01-01'
+  - type: published
+    from: '2016-01-01'
 copyright:
 - owner:
     name: International Hydrographic Organization
@@ -43,7 +44,7 @@ link:
   content: https://iho.int/uploads/user/pubs/standards/s-53/S_53_JAN16_E.pdf
 place: Monaco
 validity:
-  begins: '2014-10-01'
+  begins: '2016-01-01'
 contributor:
 - organization:
     name: International Hydrographic Organization

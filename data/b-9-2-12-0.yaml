@@ -24,6 +24,7 @@ docid:
   primary: true
 docnumber: 9
 edition:
+  content: 2.12.0
 docstatus:
   stage:
     value: in-force
@@ -45,6 +46,8 @@ copyright:
 link:
 - type: website
   content: https://www.gebco.net/data_and_products/gebco_digital_atlas/
+- type: software
+  content: https://www.bodc.ac.uk/resources/help_and_hints/software_updates/gebco.html
 place: Monaco
 validity:
   begins: '2009-01-01'
