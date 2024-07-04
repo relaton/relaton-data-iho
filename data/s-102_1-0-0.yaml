@@ -1,0 +1,67 @@
+---
+title:
+- type: main
+  content: Bathymetric Surface Product Specification
+  language: en
+- type: main
+  content: Spécification de produit pour la surface bathymétrique
+  language: fr
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-102
+  primary: true
+docnumber: 102
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2012-04-30'
+date:
+  type: published
+  from: '2012-04-30'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2012'
+link:
+- type: pdf
+  content: https://registry.iho.int/productspec/view.do?idx=199&product_ID=S-102&statusS=5&domainS=ALL&category=product_ID&searchValue=
+place: Monaco
+validity:
+  begins: '2012-04-30'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
