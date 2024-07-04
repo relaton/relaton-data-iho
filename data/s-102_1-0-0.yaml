@@ -41,7 +41,7 @@ copyright:
   from: '2012'
 link:
 - type: pdf
-  content: https://registry.iho.int/productspec/view.do?idx=199&product_ID=S-102&statusS=5&domainS=ALL&category=product_ID&searchValue=
+  content: https://registry.iho.int/productspec/view.do?idx=199&product_ID=S-102
 place: Monaco
 validity:
   begins: '2012-04-30'
