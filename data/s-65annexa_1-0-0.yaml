@@ -16,13 +16,12 @@ editorialgroup:
 type: standard
 docid:
   type: IHO
-  id: S-65AnnexA
+  id: S-65 Ap. A
   primary: true
 extent:
   locality:
     type: annex
-    reference_from: S-65
-    reference_to: A
+    reference_from: A
 docnumber: 65
 edition:
   content: 1.0.0
