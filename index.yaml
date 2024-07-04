@@ -1,7 +1,7 @@
 ---
-- :id: B-1
+- :id: B-1 1.0.0
   :file: data/b-1.yaml
-- :id: B-10
+- :id: B-10 5.0.0
   :file: data/b-10.yaml
 - :id: B-11 1.0.0
   :file: data/b-11_1-0-0.yaml
@@ -13,7 +13,7 @@
   :file: data/b-6_4-2-0.yaml
 - :id: B-7
   :file: data/b-7.yaml
-- :id: B-8
+- :id: B-8 1.1.1
   :file: data/b-8.yaml
 - :id: B-9
   :file: data/b-9.yaml
@@ -65,7 +65,7 @@
   :file: data/s-111_1-0-0.yaml
 - :id: S-11 3.1.0
   :file: data/s-11_3-1-0.yaml
-- :id: S-12
+- :id: S-12 1.1.0
   :file: data/s-12.yaml
 - :id: S-121 1.0.0
   :file: data/s-121_1-0-0.yaml
@@ -77,8 +77,6 @@
   :file: data/s-129_1-0-0.yaml
 - :id: S-23 3.0.0
   :file: data/s-23_3-0-0.yaml
-- :id: S-32
-  :file: data/s-32.yaml
 - :id: S-32 1.0.0
   :file: data/s-32_1-0-0.yaml
 - :id: S-44 5.0.0
@@ -103,7 +101,7 @@
   :file: data/s-60_3-0-0.yaml
 - :id: S-61 1.0.0
   :file: data/s-61_1-0-0.yaml
-- :id: S-62
+- :id: S-62 1.1.0
   :file: data/s-62.yaml
 - :id: S-63 1.2.1
   :file: data/s-63_1-2-1.yaml
@@ -115,6 +113,8 @@
   :file: data/s-65annexa_1-0-0.yaml
 - :id: S-66 1.1.0
   :file: data/s-66_1-1-0.yaml
+- :id: S-8A 1.0.1
+  :file: data/s-8a.yaml
 - :id: S-8B 1.0.0
   :file: data/s-8b_1-0-0.yaml
 - :id: S-97 1.1.0
