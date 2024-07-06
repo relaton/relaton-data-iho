@@ -1,0 +1,63 @@
+---
+title:
+- type: main
+  content: Water Level Information for Surface Navigation
+  language: en
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-104
+  primary: true
+docnumber: 104
+edition:
+  content: 1.1.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2023-04-10'
+date:
+  type: published
+  from: '2023-04-10'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2023'
+link:
+- type: pdf
+  content: https://registry.iho.int/productspec/view.do?idx=198&product_ID=S-104&statusS=5&domainS=ALL&category=product_ID&searchValue=
+place: Monaco
+validity:
+  begins: '2023-04-10'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

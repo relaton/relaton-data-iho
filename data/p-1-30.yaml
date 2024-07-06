@@ -1,0 +1,61 @@
+---
+title:
+- type: main
+  content: International Hydrographic Review
+  language: en
+editorialgroup:
+- - committee:
+      abbreviation: IHR
+      name: International Hydrography Review
+type: standard
+docid:
+  type: IHO
+  id: P-1/30
+  # number: 30
+  primary: true
+docnumber: 1
+edition:
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2024-05-01'
+date:
+  type: published
+  from: '2024-05-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2024'
+link:
+- type: pdf
+  content: https://ihr.iho.int/wp-content/uploads/2024/05/IHR-30-1.pdf
+place: Monaco
+validity:
+  begins: '1923-01-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  type: main
+  formattedref:
+    content: IHO P-1
+  title:
+    type: original
+    content:
+    - content: International Hydrographic Review
+      language: en
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
+  abbreviation: IHR
+  from: '1923-01-01'
+  # issn: 0020-6946

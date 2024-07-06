@@ -1,0 +1,60 @@
+---
+title:
+- type: main
+  content: SPATIAL DATA INFRASTRUCTURES "THE MARINE DIMENSION"
+  language: en
+type: standard
+editorialgroup:
+- - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+      workgroup:
+        abbreviation: MSDIWG
+        name: MARINE SPATIAL DATA INFRASTRUCTURES WORKING GROUP
+docid:
+  type: IHO
+  id: C-17
+  primary: true
+docnumber: 17
+edition:
+  content: 3.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2023-10-01'
+date:
+  type: published
+  from: '2023-10-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2023'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/cb/c-17/C-17%20Ed%203.0.0_October%202023_Final.pdf
+place: Monaco
+validity:
+  begins: '2023-10-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: C
+  type: main
+  title:
+    type: original
+    content:
+    - content: Capacity Building Publications
+      language: en
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
