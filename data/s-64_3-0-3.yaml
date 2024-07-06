@@ -1,0 +1,67 @@
+---
+title:
+- type: main
+  content: IHO Test Data Sets for ECDIS
+  language: en
+- type: main
+  content: Lot de données d'essai de l'OHI pour ECDIS
+  language: fr
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: ENCWG
+        name: ENC STANDARDS MAINTENANCE WORKING GROUP
+type: standard
+docid:
+  type: IHO
+  id: S-64
+  primary: true
+docnumber: 64
+edition:
+  content: 3.0.3
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2020-12-01'
+date:
+  type: published
+  from: '2020-12-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2020'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-64/S-64_Download_Links_Document.pdf
+place: Monaco
+validity:
+  begins: '2020-12-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
