@@ -1,0 +1,61 @@
+---
+title:
+- type: main
+  content: BASIC DOCUMENTS OF THE INTERNATIONAL HYDROGRAPHIC ORGANIZATION (IHO)
+  language: en
+- type: main
+  content: DOCUMENTS DE BASE DE L’ORGANISATION HYDROGRAPHIQUE INTERNATIONALE (OHI)
+  language: fr
+editorialgroup:
+- committee:
+    abbreviation: BUREAU
+    name: International Hydrography Bureau
+type: standard
+docid:
+  type: IHO
+  id: M-1
+  primary: true
+docnumber: 1
+edition:
+  content: 2.1.2
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2023-03-31'
+date:
+  type: published
+  from: '2023-03-31'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2023'
+place: Monaco
+validity:
+  begins: '2023-03-31'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: M
+  type: main
+  title:
+    type: original
+    content:
+    - content: Miscellaneous Publications
+      language: en
+      script: Latn
+    - content: Publications Mixtes
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
