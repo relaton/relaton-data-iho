@@ -29,7 +29,7 @@ language:
 - es
 script: Latn
 version:
-  revision_date: '2020-06-01'
+  revision_date: '2024-07-01'
 date:
   type: published
   from: '2020-06-01'

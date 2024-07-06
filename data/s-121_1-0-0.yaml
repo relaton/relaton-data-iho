@@ -1,11 +1,8 @@
 ---
 title:
 - type: main
-  content: Marine Protected Areas
+  content: Maritime Limits and Boundaries
   language: en
-- type: main
-  content: Aires marines protégées
-  language: fr
 type: standard
 editorialgroup:
 - - committee:
@@ -26,13 +23,12 @@ docstatus:
     value: in-force
 language:
 - en
-- fr
 script: Latn
 version:
-  revision_date: '2019-01-01'
+  revision_date: '2019-10-29'
 date:
   type: published
-  from: '2019-01-01'
+  from: '2019-10-29'
 copyright:
 - owner:
     name: International Hydrographic Organization
@@ -41,10 +37,10 @@ copyright:
   from: '2019'
 link:
 - type: pdf
-  content: https://registry.iho.int/productspec/view.do?idx=73&product_ID=S-122
+  content: https://registry.iho.int/productspec/view.do?idx=177&product_ID=S-121
 place: Monaco
 validity:
-  begins: '2019-01-01'
+  begins: '2019-10-29'
 contributor:
 - organization:
     name: International Hydrographic Organization
