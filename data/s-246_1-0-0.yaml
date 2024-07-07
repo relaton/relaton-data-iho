@@ -1,0 +1,63 @@
+---
+title:
+- type: main
+  content: IALA eLoran ASF
+  language: en
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-246
+  primary: true
+docnumber: 246
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2021-03-26'
+date:
+  type: published
+  from: '2021-03-26'
+copyright:
+- owner:
+    name: International Association of Lighthouse Authorities
+    abbreviation: IALA
+    url: https://www.iala-aism.org/
+  from: '2021'
+link:
+- type: pdf
+  content: https://registry.iho.int/productspec/view.do?idx=212&product_ID=S-246
+place: Monaco
+validity:
+  begins: '2021-03-26'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
