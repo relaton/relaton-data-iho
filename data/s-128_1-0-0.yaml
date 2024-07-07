@@ -1,0 +1,63 @@
+---
+title:
+- type: main
+  content: 	Catalogue of Nautical Products
+  language: en
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-128
+  primary: true
+docnumber: 128
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2022-05-23'
+date:
+  type: published
+  from: '2022-05-23'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2022'
+link:
+- type: pdf
+  content: https://registry.iho.int/productspec/view.do?idx=192&product_ID=S-128
+place: Monaco
+validity:
+  begins: '2022-05-23'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization
