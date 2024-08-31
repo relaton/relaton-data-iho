@@ -93,6 +93,8 @@
   :file: data/s-102_2-1-0.yaml
 - :id: S-102 2.2.0
   :file: data/s-102_2-2-0.yaml
+- :id: S-104 1.0.0
+  :file: data/s-104_1-0-0.yaml
 - :id: S-104 1.1.0
   :file: data/s-104_1-1-0.yaml
 - :id: S-111 1.0.0
@@ -105,20 +107,42 @@
   :file: data/s-122_1-0-0.yaml
 - :id: S-123 1.0.0
   :file: data/s-123_1-0-0.yaml
+- :id: S-124 1.0.0
+  :file: data/s-124_1-0-0.yaml
 - :id: S-127 1.0.0
   :file: data/s-127_1-0-0.yaml
+- :id: S-128 1.0.0
+  :file: data/s-128_1-0-0.yaml
 - :id: S-129 1.0.0
   :file: data/s-129_1-0-0.yaml
 - :id: S-129 1.1.0
   :file: data/s-129_1-1-0.yaml
 - :id: S-12 1.1.0
   :file: data/s-12_1-1-0.yaml
+- :id: S-130 1.0.0
+  :file: data/s-130_1-0-0.yaml
+- :id: S-131 1.0.0
+  :file: data/s-131_1-0-0.yaml
+- :id: S-201 1.0.0
+  :file: data/s-201_1-0-0.yaml
+- :id: S-201 1.1.0
+  :file: data/s-201_1-1-0.yaml
 - :id: S-23 3.0.0
   :file: data/s-23_3-0-0.yaml
+- :id: S-240 1.0.0
+  :file: data/s-240_1-0-0.yaml
+- :id: S-245 1.0.0
+  :file: data/s-245_1-0-0.yaml
+- :id: S-246 1.0.0
+  :file: data/s-246_1-0-0.yaml
+- :id: S-247 1.0.0
+  :file: data/s-247_1-0-0.yaml
 - :id: S-32 1.0.0
   :file: data/s-32_1-0-0.yaml
 - :id: S-401 1.0.0
   :file: data/s-401_1-0-0.yaml
+- :id: S-421 1.0.0
+  :file: data/s-421_1-0-0.yaml
 - :id: S-44 5.0.0
   :file: data/s-44_5-0-0.yaml
 - :id: S-44 6.1.0
@@ -167,6 +191,12 @@
   :file: data/s-65_2-1-0.yaml
 - :id: S-65 Ap. A 1.0.0
   :file: data/s-65annexa_1-0-0.yaml
+- :id: S-65 Ap. B 1.0.0
+  :file: data/s-65annexb_1-0-0.yaml
+- :id: S-65 Ap. B 1.1.0
+  :file: data/s-65annexb_1-1-0.yaml
+- :id: S-65 Ap. B 1.2.0
+  :file: data/s-65annexb_1-2-0.yaml
 - :id: S-66 1.1.0
   :file: data/s-66_1-1-0.yaml
 - :id: S-8A 1.0.1
@@ -175,6 +205,8 @@
   :file: data/s-8b_1-0-0.yaml
 - :id: S-97 1.1.0
   :file: data/s-97_1-1-0.yaml
+- :id: S-97 1.0.0
+  :file: data/s-98_1-0-0.yaml
 - :id: S-99 1.1.0
   :file: data/s-99_1-1-0.yaml
 - :id: S-99 2.0.0
