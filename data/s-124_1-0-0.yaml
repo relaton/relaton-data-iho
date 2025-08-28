@@ -3,6 +3,9 @@ title:
 - type: main
   content: Navigational Warnings
   language: en
+- type: main
+  content: Avertissements de navigation
+  language: en
 editorialgroup:
 - - committee:
       abbreviation: HSSC

@@ -1,0 +1,66 @@
+---
+title:
+- type: main
+  content: IHO Test Data Sets in ECDIS - Instruction Manual for the Use of IHO Test Data Sets in ECDIS
+  language: en
+- type: main
+  content: Jeux de données d'essai de l'OHI dans l'ECDIS - Mode d'emploi pour l'utilisation des jeux de données d'essai de l'OHI dans l'ECDIS
+  language: fr
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-164
+  primary: true
+docnumber: 164
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2023-03-01'
+date:
+  type: published
+  from: '2023-03-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2023'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/S-168/S-164%20Ed%201.0.0_Instruction%20Manual_Final.pdf
+place: Monaco
+validity:
+  begins: '2023-03-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

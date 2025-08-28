@@ -19,7 +19,7 @@ docid:
   id: P-5
   primary: true
 docnumber: 5
-edition:
+edition: 1.0.0
 docstatus:
   stage:
     value: in-force

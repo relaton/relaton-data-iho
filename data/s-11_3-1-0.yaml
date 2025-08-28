@@ -1,8 +1,8 @@
 ---
 title:
 - type: main
-  content: GUIDANCE FOR THE PREPARATION AND MAINTENANCE OF INTERNATIONAL (INT) CHART
-    AND ENC SCHEMES AND CATALOGUE OF INTERNATIONAL CHARTS
+  content: Guidance for the Preparation and Maintenance of International (INT)
+    Chart and ENC Schemes and Catalogue of International (INT) Charts
   language: en
 - type: main
   content: Guide pour la préparation et la tenue à jour des schemas de cartes Internationales
@@ -15,10 +15,10 @@ editorialgroup:
       name: Hydrographic Services and Standards Committee
       workgroup:
         abbreviation: NCWG
-        name: NAUTICAL CARTOGRAPHY WORKING GROUP
-- committee:
-    abbreviation: IRCC
-    name: Inter-Regional Coordination Committee
+        name: Nautical Cartography Working Group
+  - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
 docid:
   type: IHO
   id: S-11

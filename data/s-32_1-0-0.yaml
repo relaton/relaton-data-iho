@@ -9,6 +9,12 @@ title:
 - type: main
   content: Diccionario Hidrográfico - Glosario de Términos relativos al ECDIS
   language: es
+- type: main
+  content: 水文词典 - ECDIS 相关术语词汇表
+  language: zh
+- type: main
+  content: Kamus Hidrografi
+  language: id
 editorialgroup:
 - - committee:
       abbreviation: HSSC

@@ -1,0 +1,66 @@
+---
+title:
+- type: main
+  content: Electronic Navigational Chart Validation Checks
+  language: en
+- type: main
+  content: Vérifications pour la validation des cartes électroniques de navigation
+  language: fr
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: S-100WG
+        name: S-100 Working Group
+type: standard
+docid:
+  type: IHO
+  id: 'S-158:101'
+  primary: true
+docnumber: '158:101'
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2025-01-01'
+date:
+  type: published
+  from: '2025-01-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2025'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/S-158_101/S-158-101_Validation_Checks_Ed_1.0.0.zip
+place: Monaco
+validity:
+  begins: '2025-01-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

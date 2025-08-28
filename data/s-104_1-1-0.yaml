@@ -3,6 +3,9 @@ title:
 - type: main
   content: Water Level Information for Surface Navigation
   language: en
+- type: main
+  content: Spécification de produit pour les informations sur le niveau d'eau pour la navigation de surface
+  language: fr
 editorialgroup:
 - - committee:
       abbreviation: HSSC

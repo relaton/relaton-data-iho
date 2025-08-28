@@ -1,0 +1,67 @@
+---
+title:
+- type: main
+  content: Guidance to Satellite-Derived Bathymetry
+  language: en
+- type: main
+  content: Document d'orientation sur la bathymétrie dérivée par satellite
+  language: fr
+editorialgroup:
+- - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+  - committee:
+      abbreviation: DCDB
+      name: IHO Data Centre for Digital Bathymetry
+type: standard
+docid:
+  type: IHO
+  id: B-13
+  primary: true
+docnumber: 13
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2024-03-20'
+date:
+  type: published
+  from: '2024-03-20'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2024'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/bathy/B_13_Ed100_032024.pdf
+place: Monaco
+validity:
+  begins: '2024-03-20'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: B
+  type: main
+  title:
+    type: original
+    content:
+    - content: Bathymetric Publications
+      language: en
+      script: Latn
+    - content: Publications bathymétriques
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

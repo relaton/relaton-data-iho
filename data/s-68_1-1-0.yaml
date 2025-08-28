@@ -1,0 +1,64 @@
+---
+title:
+- type: main
+  content: Guidelines and Recommendations for Hydrographic Offices for the Allocation of CATZOC/QOBD Values from Survey Data
+  language: en
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: ENCWG
+        name: ENC Standards Maintenance Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-68
+  primary: true
+docnumber: 68
+edition:
+  content: 1.1.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2025-03-01'
+date:
+  type: published
+  from: '2025-03-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2025'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/S-68/S-68_Guidelines_for_Allocation_of_CATZOC_Ed_1.1.0.pdf
+place: Monaco
+validity:
+  begins: '2025-03-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

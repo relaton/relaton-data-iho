@@ -8,6 +8,9 @@ title:
   content: Procédures opérationnelles pour l'organisation et la gestion de la base
     de registres d'informations géospatiales de la S-100
   language: fr
+- type: main
+  content: 地理空间信息注册组织管理操作程序
+  language: zh
 editorialgroup:
 - - committee:
       abbreviation: HSSC

@@ -1,0 +1,60 @@
+---
+title:
+- type: main
+  content: Reference book about tide theory and practice (SHOM)
+  language: en
+type: standard
+editorialgroup:
+- committee:
+    abbreviation: IRCC
+    name: Inter-Regional Coordination Committee
+    workgroup:
+      abbreviation: MSDIWG
+      name: Marine Spatial Data Infrastructures Working Group
+docid:
+  type: IHO
+  id: C-33
+  primary: true
+docnumber: 33
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2013-05-01'
+date:
+  type: published
+  from: '2013-05-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2013'
+link:
+- type: pdf
+  content: https://iho.int/iho_pubs/CB/C-33/C-33_maree_simon_en.pdf
+place: Monaco
+validity:
+  begins: '2013-05-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: C
+  type: main
+  title:
+    type: original
+    content:
+    - content: Capacity Building Publications
+      language: en
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

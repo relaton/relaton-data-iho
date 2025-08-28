@@ -1,0 +1,73 @@
+---
+title:
+- type: main
+  content: Mariners’ Guide to Accuracy of Depth Information in Electronic Navigational Charts (ENC)
+  language: en
+- type: main
+  content: Guide du navigateur sur la précision des informations de profondeur contenues dans les cartes électroniques de navigation (ENC)
+  language: fr
+- type: main
+  content: Guía de los Navegantes sobre la Exactitud de las Cartas Náuticas Electrónicas (ENC)
+  language: es
+- type: main
+  content: 关于电子海图（ENC）中深度信息精度的航海者指南
+  language: zh
+editorialgroup:
+- - committee:
+      abbreviation: HSSC
+      name: Hydrographic Services and Standards Committee
+      workgroup:
+        abbreviation: ENCWG
+        name: ENC Standards Maintenance Working Group
+type: standard
+docid:
+  type: IHO
+  id: S-67
+  primary: true
+docnumber: 67
+edition:
+  content: 1.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+- fr
+script: Latn
+version:
+  revision_date: '2020-09-01'
+date:
+  type: published
+  from: '2020-09-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2020'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/S-67/S-67%20Ed%201.0.0%20Mariners%20Guide%20to%20Accuracy%20of%20Depth%20Information%20in%20an%20ENC_EN.pdf
+place: Monaco
+validity:
+  begins: '2020-09-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: S
+  type: main
+  title:
+    type: original
+    content:
+    - content: Standards and Specifications
+      language: en
+      script: Latn
+    - content: Normes et Spécifications
+      language: fr
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

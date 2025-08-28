@@ -8,6 +8,9 @@ title:
   content: Procédures opérationnelles pour l'organisation et la gestion de la base
     de registres d'informations géospatiales de la S-100
   language: fr
+- type: main
+  content: 地理空间信息注册组织管理操作程序
+  language: zh
 editorialgroup:
 - - committee:
       abbreviation: HSSC
@@ -43,7 +46,7 @@ copyright:
   from: '2022'
 link:
 - type: pdf
-  content: https://iho.int/uploads/user/pubs/standards/s-99/S-99_Ed1.1.0_Nov12_EN.pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-99/S-99%20Ed%202.0.0_Final.pdf
 place: Monaco
 validity:
   begins: '2022-10-01'
