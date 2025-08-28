@@ -7,7 +7,7 @@ title:
   content: Normalisation des Noms des Formes du Relief SousMarin
   language: fr
 - type: main
-  content: NORMALIZACIÓN DE LAS FORMAS DEL RELIEVE SUBMARINO
+  content: Normalización de las Formas del Relieve Submarino
   language: es
 editorialgroup:
 - - committee:
@@ -16,10 +16,10 @@ editorialgroup:
   - committee:
       abbreviation: IRCC
       name: Inter-Regional Coordination Committee
-      committee:
-        abbreviation: GEBCO
-        name: JOINT IHO-IOC GUIDING COMMITTEE FOR THE GENERAL BATHYMETRIC CHART OF
-          THE OCEANS
+  - committee:
+      abbreviation: GEBCO
+      name: Joint IHO-IOC Guiding Committee for the General Bathymetric Chart of
+        the Oceans
 type: standard
 docid:
   type: IHO

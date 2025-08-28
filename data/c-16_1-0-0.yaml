@@ -8,9 +8,9 @@ editorialgroup:
 - - committee:
       abbreviation: IRCC
       name: Inter-Regional Coordination Committee
-      committee:
-        abbreviation: CBSC
-        name: CAPACITY BUILDING SUB-COMMITTEE
+  - committee:
+      abbreviation: CBSC
+      name: Capacity Building Sub-Committee
 docid:
   type: IHO
   id: C-16
