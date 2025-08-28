@@ -33,7 +33,7 @@ language:
 - fr
 script: Latn
 version:
-  revision_date:
+  revision_date: '1990-01-01'
 date:
   type: published
   from: '1990-01-01'
