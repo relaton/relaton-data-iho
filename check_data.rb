@@ -12,34 +12,50 @@ require 'relaton_iho'
 #
 # @return [<Type>] <description>
 #
-def compare(src, dest) # rubocop:disable Metrics/MethodLength, Metrics/AbcSize, Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
-  if !src.is_a?(dest.class) && !(dest.is_a?(Array) || src.is_a?(Array)) && !(dest['content'] || dest['type'])
-    return ["- #{src.to_s[0..70]}#{src.to_s.size > 70 ? '...' : ''}",
-            "+ #{dest.to_s[0..70]}#{dest.to_s.size > 70 ? '...' : ''}"]
+def compare(src, dest, path = '') # rubocop:disable Metrics/MethodLength, Metrics/AbcSize, Metrics/CyclomaticComplexity, Metrics/PerceivedComplexity
+  # Add nil check for dest to prevent undefined method errors
+  if dest.nil?
+    return ["- #{src.to_s[0..70]}#{src.to_s.size > 70 ? '...' : ''} (at #{path})",
+            "+ nil (dest is nil at #{path})"]
+  end
+
+  if !src.is_a?(dest.class) && !(dest.is_a?(Array) || src.is_a?(Array)) && !(dest.respond_to?(:[]) && (dest['content'] || dest['type']))
+    return ["- #{src.to_s[0..70]}#{src.to_s.size > 70 ? '...' : ''} (at #{path})",
+            "+ #{dest.to_s[0..70]}#{dest.to_s.size > 70 ? '...' : ''} (at #{path})"]
   elsif dest.is_a?(Array)
-    return compare src, dest.first
+    return compare src, dest.first, path
   elsif src.is_a?(Array)
-    return compare src.first, dest
+    return compare src.first, dest, path
   end
   case src
   when Array
-    result = src.map.with_index { |s, i| compare s, array(dest)[i] }
+    result = src.map.with_index { |s, i| compare s, array(dest)[i], "#{path}[#{i}]" }
     compact result
   when String
     dest_str = case dest
                when Hash then dest['content'] || dest['type']
-               when Array then dest[0]['content'] || dest[0]['type']
+               when Array then dest[0] && dest[0]['content'] || dest[0] && dest[0]['type']
                else dest
                end
-    src != dest_str && ["- #{src}", "+ #{dest_str}"]
+    src != dest_str && ["- #{src} (at #{path})", "+ #{dest_str} (at #{path})"]
   when Hash
     result = src.map do |k, v|
-      dest[k]['begins'].sub!(/\s00:00$/, '') if k == 'validity'
-      res = compare v, dest[k]
+      current_path = path.empty? ? k.to_s : "#{path}.#{k}"
+      if dest[k].nil?
+        puts "WARNING: Key '#{k}' exists in source but is nil in dest at path: #{current_path}"
+        next { k => ["- #{v} (at #{current_path})", "+ nil (missing in dest)"] }
+      end
+      dest[k]['begins'].sub!(/\s00:00$/, '') if k == 'validity' && dest[k].respond_to?(:[])
+      res = compare v, dest[k], current_path
       { k => res } if res && !res.empty?
     end
     compact result
   end
+rescue => e
+  puts "ERROR during comparison at path '#{path}': #{e.message}"
+  puts "Source: #{src.inspect}"
+  puts "Dest: #{dest.inspect}"
+  raise e
 end
 
 def compact(arr)
