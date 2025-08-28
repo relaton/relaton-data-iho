@@ -23,7 +23,7 @@ docid:
   id: B-7
   primary: true
 docnumber: 7
-edition:
+edition: 1.0.0
 docstatus:
   stage:
     value: in-force

@@ -14,7 +14,7 @@ docid:
   # number: 21
   primary: true
 docnumber: 1
-edition:
+edition: 1.0.0
 docstatus:
   stage:
     value: in-force

@@ -1,22 +1,22 @@
 ---
 title:
 - type: main
-  content: STANDARDIZATION OF LIST OF LIGHTS and FOG SIGNALS
+  content: Standardization of List of Lights and Fog Signals
   language: en
 - type: main
   content: Normalisation des livres des feux et des signaux de brume
   language: fr
 type: standard
 editorialgroup:
-- committee:
-    abbreviation: IRCC
-    name: Inter-Regional Coordination Committee
-    commission:
+- - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+  - committee:
       abbreviation: RHCs
       name: Regional Hydrographic Commissions
-      commission:
-        abbreviation: NSHC
-        name: North Sea HC
+  - committee:
+      abbreviation: NSHC
+      name: North Sea Hydrographic Commission
 docid:
   type: IHO
   id: S-12

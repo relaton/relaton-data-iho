@@ -3,6 +3,9 @@ title:
 - type: main
   content: Marine Harbour Infrastructure
   language: en
+- type: main
+  content: Infrastructure portuaire maritime
+  language: fr
 editorialgroup:
 - - committee:
       abbreviation: HSSC

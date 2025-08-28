@@ -1,0 +1,67 @@
+---
+title:
+- type: main
+  content: Manual on Technical Aspects of the UN Convention on the Law of the Sea
+  language: en
+- type: main
+  content: Manual sobre los Aspectos Técnicos de la Convención de las Naciones Unidas sobre el Derecho del Mar
+  language: es
+- type: main
+  content: １９８２《 联合国海洋法公约》技术手册
+  language: zh
+editorialgroup:
+- - committee:
+      abbreviation: IRCC
+      name: Inter-Regional Coordination Committee
+  - committee:
+      abbreviation: IBSC
+      name: FIG/IHO/ICA International Board on Standards of Competence for Hydrographic
+        Surveyors and Nautical Cartographers
+type: standard
+docid:
+  type: IHO
+  id: C-51
+  primary: true
+docnumber: 51
+edition:
+  content: 6.0.0
+docstatus:
+  stage:
+    value: in-force
+language:
+- en
+script: Latn
+version:
+  revision_date: '2020-05-01'
+date:
+  type: published
+  from: '2020-05-01'
+copyright:
+- owner:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  from: '2011'
+link:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/cb/c-51/C_51_Ed600_052020.pdf
+place: Monaco
+validity:
+  begins: '2020-05-01'
+contributor:
+- organization:
+    name: International Hydrographic Organization
+    abbreviation: IHO
+    url: www.iho.int
+  role: publisher
+series:
+  number: C
+  type: main
+  title:
+    type: original
+    content:
+    - content: Capacity Building Publications
+      language: en
+      script: Latn
+  place: Monaco
+  organization: International Hydrographic Organization

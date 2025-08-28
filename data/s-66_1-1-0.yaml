@@ -1,11 +1,14 @@
 ---
 title:
 - type: main
-  content: High Density (HD) ENC Production and Maintenance Guidance
+  content: Facts about Electronic Charts and Carriage Requirements
   language: en
 - type: main
-  content: La carte marine et les prescriptions d’emport - les faits
+  content: 'La carte marine et les prescriptions d’emport: les faits'
   language: fr
+- type: main
+  content: 電子海図とその船舶搭載要件の実際
+  language: jp
 editorialgroup:
 - - committee:
       abbreviation: HSSC

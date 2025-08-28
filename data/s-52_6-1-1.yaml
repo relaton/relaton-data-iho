@@ -1,16 +1,12 @@
 ---
 title:
 - type: main
-  content: SPECIFICATIONS FOR CHART CONTENT AND DISPLAY ASPECTS OF ECDIS
+  content: Specifications for Chart Content and Display Aspects of ECDIS
   language: en
 - type: main
   content: Spécifications pour le contenu cartographique et les modalités d'affichage
     des ECDIS
   language: fr
-- type: main
-  content: MANUAL CONJUNTO OMI/OHI/OMM RELATIVO A LA INFORMACIÓN SOBRE SEGURIDAD MARÍTIMA
-    (ISM)
-  language: es
 editorialgroup:
 - - committee:
       abbreviation: HSSC

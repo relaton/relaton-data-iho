@@ -12,6 +12,9 @@ title:
 - type: main
   content: Especificações da OHI para Levantamentos Hidrográficos
   language: pt
+- type: main
+  content: 海道测量标准
+  language: zh
 editorialgroup:
 - - committee:
       abbreviation: HSSC

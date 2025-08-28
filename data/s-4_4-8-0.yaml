@@ -1,16 +1,14 @@
 ---
 title:
 - type: main
-  content: REGULATIONS OF THE IHO FOR INTERNATIONAL (INT) CHARTS AND CHART SPECIFICATIONS
-    OF THE IHO
+  content: Regulations for International (INT) Charts and Chart Specifications of the IHO
   language: en
 - type: main
   content: RÈGLEMENT DE L’OHI POUR LES CARTES MARINES INTERNATIONALES (INT) ET SPÉCIFICATIONS
     DE L’OHI POUR LES CARTES MARINES
   language: fr
 - type: main
-  content: REGLAMENTO DE LA OHI PARA CARTAS INTERNACIONALES Y ESPECIFICACIONES CARTOGRÁFICA
-    DE LA OHI
+  content: Reglamento de la OHI para cartas internacionales y especificaciones cartográficas de la OHI
   language: es
 editorialgroup:
 - - committee:
@@ -18,7 +16,7 @@ editorialgroup:
       name: Hydrographic Services and Standards Committee
       workgroup:
         abbreviation: NCWG
-        name: NAUTICAL CARTOGRAPHY WORKING GROUP
+        name: Nautical Cartography Working Group
 type: standard
 docid:
   type: IHO

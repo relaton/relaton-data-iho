@@ -3,6 +3,9 @@ title:
 - type: main
   content: Catalogue of Nautical Products
   language: en
+- type: main
+  content: Catalogue des produits nautiques
+  language: fr
 editorialgroup:
 - - committee:
       abbreviation: HSSC

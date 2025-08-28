@@ -4,8 +4,14 @@ title:
   content: Joint IMO/IHO/WMO Manual on Maritime Safety Information (MSI)
   language: en
 - type: main
-  content: Manuel conjoint OMI/OHI/OMM sur les renseignements de sécurité maritime
+  content: Manuel conjoint OMI/OHI/OMM sur les renseignements de sécurité maritime (RSM)
   language: fr
+- type: main
+  content: Manual conjunto OMI/OHI/OMM relativo a la Información sobre Seguridad Marítima (ISM)
+  language: es
+- type: main
+  content: IMO/IHO/WMO 联合海上安全信息手册
+  language: zh
 editorialgroup:
 - - committee:
       abbreviation: HSSC

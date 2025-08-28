@@ -1,7 +1,7 @@
 ---
 title:
 - type: main
-  content: STANDARDIZATION of MARINERS' ROUTEING GUIDES
+  content: Standardization of Mariners' Routeing Guides
   language: en
 - type: main
   content: Normalisation des guides d’organisation du trafic pour les navigateurs
@@ -12,7 +12,7 @@ editorialgroup:
       name: Hydrographic Services and Standards Committee
       workgroup:
         abbreviation: CSPCWG
-        name: NAUTICAL CARTOGRAPHY WORKING GROUP
+        name: Nautical Cartography Working Group
 type: standard
 docid:
   type: IHO
