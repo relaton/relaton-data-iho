@@ -7,7 +7,7 @@ title:
   content: Dictionnaire hydrographique - Glossaire des termes relatifs aux ECDIS
   language: fr
 - type: main
-  content: DICCIONARIO HIDROGRÁFICO
+  content: Diccionario Hidrográfico - Glosario de Términos relativos al ECDIS
   language: es
 editorialgroup:
 - - committee:
@@ -33,10 +33,10 @@ language:
 - es
 script: Latn
 version:
-  revision_date: '1994'
+  revision_date: '2019'
 date:
   type: published
-  from: '1994'
+  from: '2019'
 copyright:
 - owner:
     name: International Hydrographic Organization
@@ -44,8 +44,8 @@ copyright:
     url: www.iho.int
   from: '1994'
 link:
-- type: pdf
-  content: http://hd.iho.int/en/index.php/Main_Page
+- type: website
+  content: https://portal.iho.int/iho-ohi/S32/
 place: Monaco
 validity:
   begins: '1994-01-01'
