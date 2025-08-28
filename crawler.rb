@@ -13,6 +13,8 @@ Dir['data/*.yaml'].each do |f|
   ed = hash.dig('edition', 'content')
   id += " #{ed}" if ed
   idx.add_or_update id, f
+rescue
+  puts "Error processing #{f}"
 end
 
 idx.save
