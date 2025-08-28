@@ -7,10 +7,10 @@ title:
   content: Normes OHI pour les levés hydrographiques
   language: fr
 - type: main
-  content: NORMAS DE LA OHI PARA LOS LEVANTAMIENTOS HIDROGRAFICOS
+  content: Normas de la OHI para los Levantamientos Hidrográficos
   language: es
 - type: main
-  content: ESPECIFICAÇÕES DA OHI PARA LEVANTAMENTOS HIDROGRÁFICOS
+  content: Especificações da OHI para Levantamentos Hidrográficos
   language: pt
 editorialgroup:
 - - committee:
@@ -49,7 +49,7 @@ copyright:
   from: '2022'
 link:
 - type: pdf
-  content: https://iho.int/uploads/user/pubs/standards/s-44/S-44_5E.pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-44/S-44_Edition_6.1.0.pdf
 place: Monaco
 validity:
   begins: '2022-10-01'
