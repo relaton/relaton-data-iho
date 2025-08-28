@@ -5,12 +5,12 @@ title:
   language: en
 type: standard
 editorialgroup:
-- - committee:
-      abbreviation: IRCC
-      name: Inter-Regional Coordination Committee
-      workgroup:
-        abbreviation: MSDIWG
-        name: MARINE SPATIAL DATA INFRASTRUCTURES WORKING GROUP
+- committee:
+    abbreviation: IRCC
+    name: Inter-Regional Coordination Committee
+    workgroup:
+      abbreviation: MSDIWG
+      name: Marine Spatial Data Infrastructures Working Group
 docid:
   type: IHO
   id: C-17

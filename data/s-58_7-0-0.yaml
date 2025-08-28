@@ -10,9 +10,9 @@ editorialgroup:
 - committee:
     abbreviation: IMO MSC
     name: Maritime Safety Committee
-    committee:
-      abbreviation: NCSR
-      name: Sub-Committee on Navigation, Communications and Search and Rescue
+- committee:
+    abbreviation: NCSR
+    name: Sub-Committee on Navigation, Communications and Search and Rescue
 type: standard
 docid:
   type: IHO
