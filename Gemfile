@@ -2,10 +2,10 @@
 
 source 'https://rubygems.org'
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+# git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 
 # gem 'equivalent-xml', '~> 0.6'
-gem 'relaton-iho'
+gem 'relaton-iho', '~> 2.0.0.alpha.1'
 gem 'relaton-index'

@@ -1,66 +1,81 @@
 ---
-title:
-- type: main
-  content: Water Level Information for Surface Navigation
-  language: en
-- type: main
-  content: Spécification de produit pour les informations sur le niveau d'eau pour la navigation de surface
-  language: fr
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-      workgroup:
-        abbreviation: S-100WG
-        name: S-100 Working Group
+id: S104
 type: standard
-docid:
-  type: IHO
-  id: S-104
-  primary: true
-docnumber: 104
-edition:
-  content: 1.0.0
-docstatus:
-  stage:
-    value: in-force
-language:
-- en
-script: Latn
-version:
-  revision_date: '2021-08-31'
-date:
-  type: published
-  from: '2021-08-31'
-copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2021'
-link:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Water Level Information for Surface Navigation
+  type: main
+- language: fr
+  content: Spécification de produit pour les informations sur le niveau d'eau pour
+    la navigation de surface
+  type: main
+source:
 - type: pdf
   content: https://registry.iho.int/productspec/view.do?idx=198&product_ID=S-104
-place: Monaco
+docidentifier:
+- content: S-104
+  type: IHO
+  primary: true
+docnumber: '104'
+date:
+- type: published
+  from: '2021-08-31'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+edition:
+  content: 1.0.0
+version:
+- revision_date: '2021-08-31'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: in-force
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2021-08-31'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-    - content: Standards and Specifications
-      language: en
-      script: Latn
-    - content: Normes et Spécifications
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

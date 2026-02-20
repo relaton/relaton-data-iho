@@ -1,67 +1,81 @@
 ---
-title:
-- type: main
-  content: Under Keel Clearance Management
-  language: en
-- type: main
-  content: Gestion de la profondeur d'eau sous quille
-  language: fr
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-      workgroup:
-        abbreviation: S-100WG
-        name: S-100 Working Group
+id: S129
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Under Keel Clearance Management
+  type: main
+- language: fr
+  content: Gestion de la profondeur d'eau sous quille
+  type: main
+source:
+- type: pdf
+  content: https://registry.iho.int/productspec/view.do?idx=176&product_ID=S-129
+docidentifier:
+- content: S-129
   type: IHO
-  id: S-129
   primary: true
-docnumber: 129
+docnumber: '129'
+date:
+- type: published
+  from: '2023-11-17'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 1.1.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2023-11-17'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '2023-11-17'
-date:
-  type: published
-  from: '2023-11-17'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2023'
-link:
-- type: pdf
-  content: https://registry.iho.int/productspec/view.do?idx=176&product_ID=S-129
-place: Monaco
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2023-11-17'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-    - content: Standards and Specifications
-      language: en
-      script: Latn
-    - content: Normes et Spécifications
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

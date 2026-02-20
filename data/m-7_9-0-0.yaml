@@ -1,64 +1,81 @@
 ---
-title:
-- type: main
-  content: Staff Regulation
-  language: en
-- type: main
-  content: Règlement du personnel
-  language: fr
-editorialgroup:
-- - committee:
-      abbreviation: IHR
-      name: International Hydrography Review
+id: M7
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Staff Regulation
+  type: main
+- language: fr
+  content: Règlement du personnel
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/misc/M-7_v9_2023_ENG.pdf
+docidentifier:
+- content: M-7
   type: IHO
-  id: M-7
   primary: true
-docnumber: 7
+docnumber: '7'
+date:
+- type: published
+  from: '2023-07-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 9.0.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2023-07-01'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '2023-07-01'
-date:
-  type: published
-  from: '2023-07-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2023'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/misc/M-7_v9_2023_ENG.pdf
-place: Monaco
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Miscellaneous Publications
+    type: original
+  - language: fr
+    script: Latn
+    content: Publications Mixtes
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: M
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2023-07-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: M
-  type: main
-  title:
-    type: original
-    content:
-    - content: Miscellaneous Publications
-      language: en
-      script: Latn
-    - content: Publications Mixtes
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

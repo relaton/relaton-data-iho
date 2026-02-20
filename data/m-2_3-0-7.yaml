@@ -1,68 +1,85 @@
 ---
-title:
-- type: main
-  content: The Need for National Hydrographic Services
-  language: en
-- type: main
-  content: La nécessité de Services hydrographiques nationaux
-  language: fr
-- type: main
-  content: La necesidad de Servicios hidrograficos nacionales
-  language: es
-editorialgroup:
-- committee:
-    abbreviation: BUREAU
-    name: International Hydrography Bureau
+id: M2
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: The Need for National Hydrographic Services
+  type: main
+- language: fr
+  content: La nécessité de Services hydrographiques nationaux
+  type: main
+- language: es
+  content: La necesidad de Servicios hidrograficos nacionales
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/misc/M-2_3.0.7_E_06142018.pdf
+docidentifier:
+- content: M-2
   type: IHO
-  id: M-2
   primary: true
-docnumber: 2
+docnumber: '2'
+date:
+- type: published
+  from: '2018-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 3.0.7
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2018-06-01'
 language:
 - en
 - fr
 - es
-script: Latn
-version:
-  revision_date: '2018-06-01'
-date:
-  type: published
-  from: '2018-06-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2018'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/misc/M-2_3.0.7_E_06142018.pdf
-place: Monaco
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Miscellaneous Publications
+    type: original
+  - language: fr
+    script: Latn
+    content: Publications Mixtes
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: M
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2018-06-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: M
-  type: main
-  title:
-    type: original
-    content:
-    - content: Miscellaneous Publications
-      language: en
-      script: Latn
-    - content: Publications Mixtes
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

@@ -1,29 +1,23 @@
 ---
-id: S66
+id: P6
 type: standard
 schema_version: v1.4.1
 fetched: '2026-02-19'
 title:
 - language: en
-  content: Facts about Electronic Charts and Carriage Requirements
-  type: main
-- language: fr
-  content: 'La carte marine et les prescriptions d’emport: les faits'
-  type: main
-- language: jp
-  content: 電子海図とその船舶搭載要件の実際
+  content: 1st SESSION OF THE IHO ASSEMBLY
   type: main
 source:
 - type: pdf
-  content: https://iho.int/uploads/user/pubs/standards/s-66/S-66%20Edition%201.1.0_Final_Clean.pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P6A1_2017VOLUME2_ENG_opt.pdf
 docidentifier:
-- content: S-66
+- content: P-6
   type: IHO
   primary: true
-docnumber: '66'
+docnumber: '6'
 date:
 - type: published
-  from: '2018-01-01'
+  from: '2017-04-24'
 contributor:
 - role:
   - type: publisher
@@ -35,19 +29,18 @@ contributor:
     abbreviation:
       content: IHO
 edition:
-  content: 1.1.0
+  content: 1.0.0
 version:
-- revision_date: '2018-01-01'
+- revision_date: '2017-04-24'
 language:
 - en
-- fr
 script:
 - Latn
 status:
   stage:
     content: in-force
 copyright:
-- from: '2018'
+- from: '2017'
   owner:
   - organization:
       uri:
@@ -61,22 +54,18 @@ series:
   title:
   - language: en
     script: Latn
-    content: Standards and Specifications
-    type: original
-  - language: fr
-    script: Latn
-    content: Normes et Spécifications
+    content: Periodic Publications
     type: original
   place:
     country:
     - content: Monaco
   organization: International Hydrographic Organization
-  number: S
+  number: P
 place:
 - country:
   - content: Monaco
 validity:
-  begins: '2018-01-01'
+  begins: '2017-04-24'
 ext:
   schema_version: v1.0.0
   doctype:

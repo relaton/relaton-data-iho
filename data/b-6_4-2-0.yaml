@@ -1,85 +1,103 @@
 ---
-title:
-- type: main
-  content: Standardization of Undersea Feature Names
-  language: en
-- type: main
-  content: Normalisation des Noms des Formes du Relief SousMarin
-  language: fr
-- type: main
-  content: Normalización de las Formas del Relieve Submarino
-  language: es
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-  - committee:
-      abbreviation: IRCC
-      name: Inter-Regional Coordination Committee
-  - committee:
-      abbreviation: GEBCO
-      name: Joint IHO-IOC Guiding Committee for the General Bathymetric Chart of
-        the Oceans
+id: B6
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Standardization of Undersea Feature Names
+  type: main
+- language: fr
+  content: Normalisation des Noms des Formes du Relief SousMarin
+  type: main
+- language: es
+  content: Normalización de las Formas del Relieve Submarino
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/bathy/B-6_e4%202%200_2019_EF_clean_3Oct2019.pdf
+docidentifier:
+- content: B-6
   type: IHO
-  id: B-6
   primary: tru
-docnumber: 6
+docnumber: '6'
+date:
+- type: published
+  from: '2019-10-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: http://ioc-unesco.org
+    name:
+    - content: Intergovernmental Oceanographic Commission
+    abbreviation:
+      content: IOC
 edition:
   content: 4.2.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2019-10-01'
 language:
 - en
 - fr
 - es
-script: Latn
-version:
-  revision_date: '2019-10-01'
-date:
-  type: published
-  from: '2019-10-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2019'
-- owner:
-    name: Intergovernmental Oceanographic Commission
-    abbreviation: IOC
-    url: http://ioc-unesco.org
-  from: '2019'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/bathy/B-6_e4%202%200_2019_EF_clean_3Oct2019.pdf
-place: Monaco
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: http://ioc-unesco.org
+      name:
+      - content: Intergovernmental Oceanographic Commission
+      abbreviation:
+        content: IOC
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Bathymetric Publications
+    type: original
+  - language: fr
+    script: Latn
+    content: Publications bathymétriques
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: B
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2019-10-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-- organization:
-    name: Intergovernmental Oceanographic Commission
-    abbreviation: IOC
-    url: http://ioc-unesco.org
-  role: publisher
-series:
-  number: B
-  type: main
-  title:
-    type: original
-    content:
-    - content: Bathymetric Publications
-      language: en
-      script: Latn
-    - content: Publications bathymétriques
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

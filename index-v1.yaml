@@ -67,13 +67,17 @@
   :file: data/p-1.yaml
 - :id: P-5 1.0.0
   :file: data/p-5.yaml
+- :id: P-6-3 1.0.0
+  :file: data/p-6-3_1-0-0.yaml
 - :id: P-6 1.0.0
-  :file: data/p-6.yaml
+  :file: data/p-6_1-0-0.yaml
 - :id: P-7 1.0.6
   :file: data/p-7_1-0-6.yaml
 - :id: P-7 1.0.7
   :file: data/p-7_1-0-7.yaml
 - :id: P-7 1.0.8
+  :file: data/p-7_1-0-8.yaml
+- :id: P-7 1.0.9
   :file: data/p-7_1-0-9.yaml
 - :id: S-100 1.0.0
   :file: data/s-100_1-0-0.yaml

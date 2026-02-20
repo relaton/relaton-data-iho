@@ -1,61 +1,73 @@
 ---
-title:
-- type: main
-  content: Training Courses in Hydrography and Nautical Cartography
-  language: en
-editorialgroup:
-- - committee:
-      abbreviation: IRCC
-      name: Inter-Regional Coordination Committee
-  - committee:
-      abbreviation: IBSC
-      name: FIG/IHO/ICA International Board on Standards of Competence for Hydrographic
-        Surveyors and Nautical Cartographers
+id: C47
 type: standard
-docid:
-  type: IHO
-  id: C-47
-  primary: true
-docnumber: 47
-edition:
-  content: 7.0.0
-docstatus:
-  stage:
-    value: in-force
-language:
-- en
-script: Latn
-version:
-  revision_date: '2011-04-01'
-date:
-  type: published
-  from: '2011-04-01'
-copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2011'
-link:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Training Courses in Hydrography and Nautical Cartography
+  type: main
+source:
 - type: pdf
   content: https://iho.int/uploads/user/pubs/cb/c-33/C47E-SEPT09-UPDATED-APRIL11.pdf
-place: Monaco
+docidentifier:
+- content: C-47
+  type: IHO
+  primary: true
+docnumber: '47'
+date:
+- type: published
+  from: '2011-04-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+edition:
+  content: 7.0.0
+version:
+- revision_date: '2011-04-01'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: in-force
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Capacity Building Publications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: C
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2011-04-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: C
-  type: main
-  title:
-    type: original
-    content:
-    - content: Capacity Building Publications
-      language: en
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

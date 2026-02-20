@@ -1,67 +1,81 @@
 ---
-title:
-- type: main
-  content: Guidance on Crowdsourced Bathymetry
-  language: en
-- type: main
-  content: Document d'orientation sur la bathymétrie participative
-  language: fr
-editorialgroup:
-- - committee:
-      abbreviation: IRCC
-      name: Inter-Regional Coordination Committee
-  - committee:
-      abbreviation: DCDB
-      name: IHO Data Centre for Digital Bathymetry
+id: B12
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Guidance on Crowdsourced Bathymetry
+  type: main
+- language: fr
+  content: Document d'orientation sur la bathymétrie participative
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/bathy/B_12_Ed2.0.3_2020.pdf
+docidentifier:
+- content: B-12
   type: IHO
-  id: B-12
   primary: true
-docnumber: 12
+docnumber: '12'
+date:
+- type: published
+  from: '2020-01-20'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 2.0.3
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2020-01-20'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '2020-01-20'
-date:
-  type: published
-  from: '2020-01-20'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2020'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/bathy/B_12_Ed2.0.3_2020.pdf
-place: Monaco
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Bathymetric Publications
+    type: original
+  - language: fr
+    script: Latn
+    content: Publications bathymétriques
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: B
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2020-01-20'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: B
-  type: main
-  title:
-    type: original
-    content:
-    - content: Bathymetric Publications
-      language: en
-      script: Latn
-    - content: Publications bathymétriques
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

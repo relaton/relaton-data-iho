@@ -1,63 +1,77 @@
 ---
-title:
-- type: main
-  content: Route Plan
-  language: en
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-      workgroup:
-        abbreviation: IEHG
-        name: Inland ENC Harmonization Group
+id: S421
 type: standard
-docid:
-  type: IHO
-  id: S-421
-  primary: true
-docnumber: 421
-edition:
-  content: 1.0.0
-docstatus:
-  stage:
-    value: in-force
-language:
-- en
-script: Latn
-version:
-  revision_date: '2021-06-01'
-date:
-  type: published
-  from: '2021-06-01'
-copyright:
-- owner:
-    name: International Electrotechnical Commission
-    abbreviation: IEC
-    url: https://www.iec.ch/
-  from: '2021'
-link:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Route Plan
+  type: main
+source:
 - type: pdf
   content: https://registry.iho.int/productspec/view.do?idx=176&product_ID=S-401
-place: Monaco
+docidentifier:
+- content: S-421
+  type: IHO
+  primary: true
+docnumber: '421'
+date:
+- type: published
+  from: '2021-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+edition:
+  content: 1.0.0
+version:
+- revision_date: '2021-06-01'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: in-force
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      uri:
+      - content: https://www.iec.ch/
+      name:
+      - content: International Electrotechnical Commission
+      abbreviation:
+        content: IEC
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2021-06-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-    - content: Standards and Specifications
-      language: en
-      script: Latn
-    - content: Normes et Spécifications
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

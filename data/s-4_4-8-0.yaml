@@ -1,72 +1,88 @@
 ---
+id: S4
+type: standard
+schema_version: v1.4.1
+fetched: '2026-02-19'
 title:
-- type: main
-  content: Regulations for International (INT) Charts and Chart Specifications of the IHO
-  language: en
-- type: main
+- language: en
+  content: Regulations for International (INT) Charts and Chart Specifications of
+    the IHO
+  type: main
+- language: fr
   content: RÈGLEMENT DE L’OHI POUR LES CARTES MARINES INTERNATIONALES (INT) ET SPÉCIFICATIONS
     DE L’OHI POUR LES CARTES MARINES
-  language: fr
-- type: main
-  content: Reglamento de la OHI para cartas internacionales y especificaciones cartográficas de la OHI
-  language: es
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-      workgroup:
-        abbreviation: NCWG
-        name: Nautical Cartography Working Group
-type: standard
-docid:
+  type: main
+- language: es
+  content: Reglamento de la OHI para cartas internacionales y especificaciones cartográficas
+    de la OHI
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-4/S4_V4-8-0_Oct_2018_EN.pdf
+docidentifier:
+- content: S-4
   type: IHO
-  id: S-4
   primary: true
-docnumber: 4
+docnumber: '4'
+date:
+- type: published
+  from: '2018-11-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 4.8.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2018-10-01'
 language:
 - en
 - fr
 - es
-script: Latn
-version:
-  revision_date: '2018-10-01'
-date:
-  type: published
-  from: '2018-11-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2018'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/standards/s-4/S4_V4-8-0_Oct_2018_EN.pdf
-place: Monaco
+- from: '2018'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2018-10-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-    - content: Standards and Specifications
-      language: en
-      script: Latn
-    - content: Normes et Spécifications
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

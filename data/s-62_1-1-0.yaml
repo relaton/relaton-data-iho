@@ -1,79 +1,83 @@
 ---
-title:
-  - type: main
-    content: List of IHO Data Producer Codes
-    language: en
-  - type: main
-    content: Liste des Codes des producteurs de données de l'OHI
-    language: fr
-
-# editorialgroup:
-#   - committee: HSSC
-#     workgroup: TSMAD
-
+id: S62
 type: standard
-
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: List of IHO Data Producer Codes
+  type: main
+- language: fr
+  content: Liste des Codes des producteurs de données de l'OHI
+  type: main
+source:
+- type: html
+  content: http://www.iho-ohi.net/s62/
+- type: pdf
+  content: https://registry.iho.int/producercode/ProducerCode.pdf
+docidentifier:
+- content: S-62
   type: IHO
-  id: S-62
   primary: true
-docnumber: 62
+docnumber: '62'
+date:
+- type: published
+  from: '2020-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 1.1.0
-
-docstatus:
-  stage:
-    value: in-force
-
-language:
-  - en
-  - fr
-
-script: Latn
-
 version:
-  revision_date: '2024-06-27'
-
-date:
-  type: published
-  from: '2020-06-01'
-
+- revision_date: '2024-06-27'
+language:
+- en
+- fr
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-  - owner:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    from: '2020'
-
-link:
-  - type: html
-    content: http://www.iho-ohi.net/s62/
-  - type: pdf
-    content: https://registry.iho.int/producercode/ProducerCode.pdf
-
-place: Monaco
-
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2020-06-01'
-
-contributor:
-  - organization:
-      name: International Hydrographic Organization
-      abbreviation: IHO
-      url: www.iho.int
-    role: publisher
-
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-      - content: Standards and Specifications
-        language: en
-        script: Latn
-      - content: Normes et Spécifications
-        language: fr
-        script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

@@ -1,65 +1,81 @@
 ---
-title:
-- type: main
-  content: IHO Yearbook
-  language: en
-- type: main
-  content: IHO Annuaire
-  language: fr
-- type: main
-  content: IHO Anuario
-  language: es
-editorialgroup:
-- - committee:
-      abbreviation: IHR
-      name: International Hydrography Review
+id: P5
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: IHO Yearbook
+  type: main
+- language: fr
+  content: IHO Annuaire
+  type: main
+- language: es
+  content: IHO Anuario
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P5YEARBOOK_ANNUAIRE.pdf
+docidentifier:
+- content: P-5
   type: IHO
-  id: P-5
   primary: true
-docnumber: 5
+docnumber: '5'
+date:
+- type: published
+  from: '2020-06-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 1.0.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2024-07-01'
 language:
 - en
 - fr
 - es
-script: Latn
-version:
-  revision_date: '2024-07-01'
-date:
-  type: published
-  from: '2020-06-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2020'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/periodical/P5YEARBOOK_ANNUAIRE.pdf
-place: Monaco
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Periodic Publications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: P
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2020-06-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: P
-  type: main
-  title:
-    type: original
-    content:
-    - content: Periodic Publications
-      language: en
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

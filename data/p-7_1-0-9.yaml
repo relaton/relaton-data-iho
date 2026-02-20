@@ -1,59 +1,75 @@
 ---
-title:
-- type: main
-  content: IHO Annual Report - 2024 Part 1 & 2
-  language: en
-editorialgroup:
-- - committee:
-      abbreviation: IHR
-      name: International Hydrography Review
+id: P7
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: IHO Annual Report - 2024 Part 1 & 2
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P7_24_ENG.pdf
+docidentifier:
+- content: P-7
   type: IHO
-  id: P-7
   primary: true
-docnumber: 7
+docnumber: '7'
+date:
+- type: published
+  from: '2025-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
-  content: 1.0.8
-docstatus:
-  stage:
-    value: in-force
+  content: 1.0.9
+version:
+- revision_date: '2025-03-01'
 language:
 - en
 - fr
 - es
-script: Latn
-version:
-  revision_date: '2025-03-01'
-date:
-  type: published
-  from: '2025-03-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2025'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/periodical/P7_24_ENG.pdf
-place: Monaco
+- from: '2025'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Periodic Publications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: P
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2025-03-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: P
-  type: main
-  title:
-    type: original
-    content:
-    - content: Periodic Publications
-      language: en
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

@@ -1,67 +1,81 @@
 ---
-title:
-- type: main
-  content: Surface Currents Product Specification
-  language: en
-- type: main
-  content: Spécification de produit pour les courants de surface
-  language: fr
+id: S111
 type: standard
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-      workgroup:
-        abbreviation: TWCWG
-        name: Tides, Water Level and Currents Working Group
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Surface Currents Product Specification
+  type: main
+- language: fr
+  content: Spécification de produit pour les courants de surface
+  type: main
+source:
+- type: pdf
+  content: https://registry.iho.int/productspec/view.do?idx=210&product_ID=S-111&statusS=5&domainS=ALL&category=product_ID&searchValue=
+docidentifier:
+- content: S-111
   type: IHO
-  id: S-111
   primary: true
-docnumber: 111
+docnumber: '111'
+date:
+- type: published
+  from: '2024-12-27'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 2.0.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2024-12-27'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '2024-12-27'
-date:
-  type: published
-  from: '2024-12-27'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2024'
-link:
-- type: pdf
-  content: https://registry.iho.int/productspec/view.do?idx=210&product_ID=S-111&statusS=5&domainS=ALL&category=product_ID&searchValue=
-place: Monaco
+- from: '2024'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2024-12-27'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-    - content: Standards and Specifications
-      language: en
-      script: Latn
-    - content: Normes et Spécifications
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

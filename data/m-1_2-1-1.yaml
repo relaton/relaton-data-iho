@@ -1,61 +1,78 @@
 ---
-title:
-- type: main
-  content: BASIC DOCUMENTS OF THE INTERNATIONAL HYDROGRAPHIC ORGANIZATION (IHO)
-  language: en
-- type: main
-  content: DOCUMENTS DE BASE DE L’ORGANISATION HYDROGRAPHIQUE INTERNATIONALE (OHI)
-  language: fr
-editorialgroup:
-- committee:
-    abbreviation: BUREAU
-    name: International Hydrography Bureau
+id: M1
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: BASIC DOCUMENTS OF THE INTERNATIONAL HYDROGRAPHIC ORGANIZATION (IHO)
+  type: main
+- language: fr
+  content: DOCUMENTS DE BASE DE L’ORGANISATION HYDROGRAPHIQUE INTERNATIONALE (OHI)
+  type: main
+docidentifier:
+- content: M-1
   type: IHO
-  id: M-1
   primary: true
-docnumber: 1
+docnumber: '1'
+date:
+- type: published
+  from: '2020-06-25'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 2.1.1
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2020-06-25'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '2020-06-25'
-date:
-  type: published
-  from: '2020-06-25'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2020'
-place: Monaco
+- from: '2020'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Miscellaneous Publications
+    type: original
+  - language: fr
+    script: Latn
+    content: Publications Mixtes
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: M
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2020-06-25'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: M
-  type: main
-  title:
-    type: original
-    content:
-    - content: Miscellaneous Publications
-      language: en
-      script: Latn
-    - content: Publications Mixtes
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

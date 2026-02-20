@@ -1,70 +1,81 @@
 ---
-title:
-- type: main
-  content: Product Specification for Raster Navigational Charts (RNC)
-  language: en
-- type: main
-  content: Spécification de produit pour les cartes marines matricielles (RNC)
-  language: fr
-editorialgroup:
-- - committee:
-      abbreviation: CHRIS
-      name: Hydrographic Services and Standards Committee
-  - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-      workgroup:
-        abbreviation: TSMAD
-        name: Transfer Standard Maintenance and Application Development Working Group
+id: S61
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Product Specification for Raster Navigational Charts (RNC)
+  type: main
+- language: fr
+  content: Spécification de produit pour les cartes marines matricielles (RNC)
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-61/S61E.pdf
+docidentifier:
+- content: S-61
   type: IHO
-  id: S-61
   primary: true
-docnumber: 61
+docnumber: '61'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 1.0.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '1999-01-01'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '1999-01-01'
-date:
-  type: published
-  from: '1999-01-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '1999'
-link:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/standards/s-61/S61E.pdf
-place: Monaco
+- from: '1999'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '1999-01-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-    - content: Standards and Specifications
-      language: en
-      script: Latn
-    - content: Normes et Spécifications
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

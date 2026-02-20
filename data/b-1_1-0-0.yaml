@@ -1,71 +1,81 @@
 ---
-title:
-- type: main
-  content: General Bathymetric Chart of the Oceans (GEBCO)
-  language: en
-- type: main
-  content: Carte générale bathymétrique des océans (GEBCO)
-  language: fr
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-  - committee:
-      abbreviation: IRCC
-      name: Inter-Regional Coordination Committee
-  - committee:
-      abbreviation: GEBCO
-      name: Joint IHO-IOC Guiding Committee for the General Bathymetric Chart of
-        the Oceans
+id: B1
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: General Bathymetric Chart of the Oceans (GEBCO)
+  type: main
+- language: fr
+  content: Carte générale bathymétrique des océans (GEBCO)
+  type: main
+source:
+- type: html
+  content: https://iho.int/en/bathymetric-publications
+docidentifier:
+- content: B-1
   type: IHO
-  id: B-1
   primary: true
-docnumber: 1
+docnumber: '1'
+date:
+- type: published
+  from: '1903-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 1.0.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2025-08-06'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '2025-08-06'
-date:
-  type: published
-  from: '1903'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '1903'
-link:
-- type: html
-  content: https://iho.int/en/bathymetric-publications
-place: Monaco
+- from: '1903'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Bathymetric Publications
+    type: original
+  - language: fr
+    script: Latn
+    content: Publications bathymétriques
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: B
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '1903-01-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: B
-  type: main
-  title:
-    type: original
-    content:
-    - content: Bathymetric Publications
-      language: en
-      script: Latn
-    - content: Publications bathymétriques
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho

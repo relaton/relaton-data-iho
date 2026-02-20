@@ -1,67 +1,81 @@
 ---
-title:
-- type: main
-  content: Marine Traffic Management
-  language: en
-- type: main
-  content: Gestion du trafic maritime
-  language: fr
-editorialgroup:
-- - committee:
-      abbreviation: HSSC
-      name: Hydrographic Services and Standards Committee
-      workgroup:
-        abbreviation: S-100WG
-        name: S-100 Working Group
+id: S127
 type: standard
-docid:
+schema_version: v1.4.1
+fetched: '2026-02-19'
+title:
+- language: en
+  content: Marine Traffic Management
+  type: main
+- language: fr
+  content: Gestion du trafic maritime
+  type: main
+source:
+- type: pdf
+  content: https://registry.iho.int/productspec/view.do?idx=175&product_ID=S-127
+docidentifier:
+- content: S-127
   type: IHO
-  id: S-127
   primary: true
-docnumber: 127
+docnumber: '127'
+date:
+- type: published
+  from: '2018-12-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
 edition:
   content: 1.0.0
-docstatus:
-  stage:
-    value: in-force
+version:
+- revision_date: '2018-12-01'
 language:
 - en
 - fr
-script: Latn
-version:
-  revision_date: '2018-12-01'
-date:
-  type: published
-  from: '2018-12-01'
+script:
+- Latn
+status:
+  stage:
+    content: in-force
 copyright:
-- owner:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  from: '2019'
-link:
-- type: pdf
-  content: https://registry.iho.int/productspec/view.do?idx=175&product_ID=S-127
-place: Monaco
+- from: '2019'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    country:
+    - content: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- country:
+  - content: Monaco
 validity:
   begins: '2018-12-01'
-contributor:
-- organization:
-    name: International Hydrographic Organization
-    abbreviation: IHO
-    url: www.iho.int
-  role: publisher
-series:
-  number: S
-  type: main
-  title:
-    type: original
-    content:
-    - content: Standards and Specifications
-      language: en
-      script: Latn
-    - content: Normes et Spécifications
-      language: fr
-      script: Latn
-  place: Monaco
-  organization: International Hydrographic Organization
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho
