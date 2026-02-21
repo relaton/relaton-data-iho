@@ -2,7 +2,6 @@
 id: S62
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: List of IHO Data Producer Codes
@@ -67,13 +66,11 @@ series:
     content: Normes et Spécifications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: S
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2020-06-01'
 ext:

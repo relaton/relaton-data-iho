@@ -2,7 +2,6 @@
 id: P7
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: IHO Annual Report - 2018 Part 1 & 2
@@ -23,6 +22,21 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: International Hydrography Review
+      identifier:
+      - content: IHR
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -56,13 +70,11 @@ series:
     content: Periodic Publications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: P
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2020-05-01'
 ext:

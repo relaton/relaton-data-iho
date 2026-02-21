@@ -2,7 +2,6 @@
 id: P130
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: International Hydrographic Review
@@ -26,6 +25,21 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: International Hydrography Review
+      identifier:
+      - content: IHR
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -58,15 +72,13 @@ series:
     content: International Hydrographic Review
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   abbreviation:
     content: IHR
   from: '1923-01-01'
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '1923-01-01'
 ext:

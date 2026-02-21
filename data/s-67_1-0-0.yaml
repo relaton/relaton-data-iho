@@ -2,7 +2,6 @@
 id: S67
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: Mariners’ Guide to Accuracy of Depth Information in Electronic Navigational
@@ -40,6 +39,21 @@ contributor:
     - content: International Hydrographic Organization
     abbreviation:
       content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Hydrographic Services and Standards Committee
+      identifier:
+      - content: HSSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
 edition:
   content: 1.0.0
 version:
@@ -74,13 +88,11 @@ series:
     content: Normes et Spécifications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: S
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2020-09-01'
 ext:

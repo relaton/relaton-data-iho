@@ -2,7 +2,6 @@
 id: S58
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: ENC Validation Checks
@@ -29,6 +28,36 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Maritime Safety Committee
+      identifier:
+      - content: IMO MSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Sub-Committee on Navigation, Communications and Search and Rescue
+      identifier:
+      - content: NCSR
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -65,13 +94,11 @@ series:
     content: Normes et Spécifications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: S
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2022-10-01'
 ext:

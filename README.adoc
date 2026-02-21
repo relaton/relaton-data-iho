@@ -6,12 +6,29 @@ Data is stored in Relaton YAML (or AsciiBib) format.
 
 == Editorial groups
 
+Editorial groups are encoded as a contributor with role type `author` and
+description `committee`, with the group represented as a subdivision of the
+organization.
+
 e.g.
 [source,yaml]
 ----
-editorialgroup:
-  - committee: HSSC
-    workgroup: S-100WG
+contributor:
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Hydrographic Services and Standards Committee
+      identifier:
+      - content: HSSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
 ----
 
 Most of the time the authoring group can be found in the Foreword or Introduction of

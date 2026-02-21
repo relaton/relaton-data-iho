@@ -2,7 +2,6 @@
 id: M7
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: Staff Regulation
@@ -29,6 +28,21 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: International Hydrography Review
+      identifier:
+      - content: IHR
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -65,13 +79,11 @@ series:
     content: Publications Mixtes
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: M
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2017-01-01'
 ext:

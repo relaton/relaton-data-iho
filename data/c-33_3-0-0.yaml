@@ -2,7 +2,6 @@
 id: C33
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: Reference book about tide theory and practice (SHOM)
@@ -26,6 +25,21 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Inter-Regional Coordination Committee
+      identifier:
+      - content: IRCC
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -57,13 +71,11 @@ series:
     content: Capacity Building Publications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: C
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2013-05-01'
 ext:

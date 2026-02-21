@@ -2,7 +2,6 @@
 id: B4
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: Information Concerning Recent Bathymetric Data
@@ -29,6 +28,52 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Hydrographic Services and Standards Committee
+      identifier:
+      - content: HSSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Inter-Regional Coordination Committee
+      identifier:
+      - content: IRCC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Joint IHO-IOC Guiding Committee for the General Bathymetric Chart
+          of the Oceans
+      identifier:
+      - content: GEBCO
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -65,13 +110,11 @@ series:
     content: Publications bathymétriques
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: B
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '1990-01-01'
 ext:

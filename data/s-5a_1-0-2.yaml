@@ -2,7 +2,6 @@
 id: S5A
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: Standards of Competence for Category "A" Hydrographic Surveyors
@@ -28,6 +27,37 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Inter-Regional Coordination Committee
+      identifier:
+      - content: IRCC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: FIG/IHO/ICA International Board on Standards of Competence for Hydrographic
+          Surveyors and Nautical Cartographers
+      identifier:
+      - content: IBSC
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -64,13 +94,11 @@ series:
     content: Normes et Spécifications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: S
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2018-06-01'
 ext:

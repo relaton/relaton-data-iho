@@ -2,7 +2,6 @@
 id: S32
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: Hydrographic Dictionary - Glossary of ECDIS Related Terms
@@ -29,7 +28,7 @@ docidentifier:
 docnumber: '32'
 date:
 - type: published
-  from: '2019-01-01'
+  from: '2019'
 contributor:
 - role:
   - type: publisher
@@ -38,6 +37,21 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Hydrographic Services and Standards Committee
+      identifier:
+      - content: HSSC
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -75,13 +89,11 @@ series:
     content: Normes et Spécifications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: S
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '1994-01-01'
 ext:

@@ -1,22 +1,22 @@
 ---
-id: P121
+id: P6
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: International Hydrographic Review
+  content: 1st SESSION OF THE IHO ASSEMBLY
   type: main
 source:
-- type: html
-  content: https://journals.lib.unb.ca/index.php/ihr/issue/view/2235
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P6A1_2017VOLUME2_ENG_opt.pdf
 docidentifier:
-- content: P-1/21
+- content: P-6
   type: IHO
   primary: true
-docnumber: '1'
+docnumber: '6'
 date:
 - type: published
-  from: '2019-05-01'
+  from: '2017-04-24'
 contributor:
 - role:
   - type: publisher
@@ -45,7 +45,7 @@ contributor:
 edition:
   content: 1.0.0
 version:
-- revision_date: '2019-05-01'
+- revision_date: '2017-04-24'
 language:
 - en
 script:
@@ -54,7 +54,7 @@ status:
   stage:
     content: in-force
 copyright:
-- from: '2019'
+- from: '2017'
   owner:
   - organization:
       uri:
@@ -65,22 +65,19 @@ copyright:
         content: IHO
 series:
 - type: main
-  formattedref: IHO P-1
   title:
   - language: en
     script: Latn
-    content: International Hydrographic Review
+    content: Periodic Publications
     type: original
   place:
     formatted_place: Monaco
   organization: International Hydrographic Organization
-  abbreviation:
-    content: IHR
-  from: '1923-01-01'
+  number: P
 place:
 - formatted_place: Monaco
 validity:
-  begins: '1923-01-01'
+  begins: '2017-04-24'
 ext:
   schema_version: v1.0.0
   doctype:

@@ -2,7 +2,6 @@
 id: B11
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: IHO-IOC GEBCO Cook Book
@@ -40,6 +39,52 @@ contributor:
     - content: Intergovernmental Oceanographic Commission
     abbreviation:
       content: IOC
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Hydrographic Services and Standards Committee
+      identifier:
+      - content: HSSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Inter-Regional Coordination Committee
+      identifier:
+      - content: IRCC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Joint IHO-IOC Guiding Committee for the General Bathymetric Chart
+          of the Oceans
+      identifier:
+      - content: GEBCO
+      type: technical-committee
+    abbreviation:
+      content: IHO
 edition:
   content: 1.0.0
 version:
@@ -83,13 +128,11 @@ series:
     content: Publications bathymétriques
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: B
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2019-10-31'
 ext:

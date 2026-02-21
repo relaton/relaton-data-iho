@@ -2,7 +2,6 @@
 id: P6
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: 1st SESSION OF THE IHO ASSEMBLY
@@ -26,6 +25,21 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: International Hydrography Review
+      identifier:
+      - content: IHR
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -52,22 +66,17 @@ copyright:
 series:
 - type: main
   title:
-  - language: en
-    script: Latn
-    content: Periodic Publications
+  - content:
+    - '{content: "Periodic Publications", language: "en", script: "Latn"}'
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: P
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2017-04-24'
 ext:
   schema_version: v1.0.0
-  doctype:
-    content: standard
   flavor: iho

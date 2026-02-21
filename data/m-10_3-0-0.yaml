@@ -2,7 +2,6 @@
 id: M10
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: The IHO and its Secretariat -- an Updated History -- 1921 - 2017
@@ -32,6 +31,21 @@ contributor:
     - content: www.iho.int
     name:
     - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: International Hydrography Bureau
+      identifier:
+      - content: BUREAU
+      type: technical-committee
     abbreviation:
       content: IHO
 edition:
@@ -68,13 +82,11 @@ series:
     content: Publications Mixtes
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: M
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2019-06-25'
 ext:

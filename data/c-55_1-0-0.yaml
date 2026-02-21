@@ -2,7 +2,6 @@
 id: C55
 type: standard
 schema_version: v1.4.1
-fetched: '2026-02-19'
 title:
 - language: en
   content: Status of Hydrographic Surveying and Nautical Charting Worldwide
@@ -38,6 +37,37 @@ contributor:
     - content: International Hydrographic Organization
     abbreviation:
       content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Inter-Regional Coordination Committee
+      identifier:
+      - content: IRCC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: FIG/IHO/ICA International Board on Standards of Competence for Hydrographic
+          Surveyors and Nautical Cartographers
+      identifier:
+      - content: IBSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
 edition:
   content: 6.0.0
 version:
@@ -67,13 +97,11 @@ series:
     content: Capacity Building Publications
     type: original
   place:
-    country:
-    - content: Monaco
+    formatted_place: Monaco
   organization: International Hydrographic Organization
   number: C
 place:
-- country:
-  - content: Monaco
+- formatted_place: Monaco
 validity:
   begins: '2025-08-18'
 ext:
