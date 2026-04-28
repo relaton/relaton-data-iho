@@ -7,5 +7,5 @@ source 'https://rubygems.org'
 # gem "rails"
 
 # gem 'equivalent-xml', '~> 0.6'
-gem 'relaton-iho', '~> 2.0.0.alpha.1'
+gem 'relaton-iho', '~> 2.0.0.alpha.1', github: "relaton/relaton-iho", branch: "lutaml-integration"
 gem 'relaton-index'
