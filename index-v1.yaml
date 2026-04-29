@@ -253,6 +253,12 @@
   :file: data/s-4_4-8-0.yaml
 - :id: S-4 4.9.0
   :file: data/s-4_4-9-0.yaml
+- :id: S-4 Part A 4.9.0
+  :file: data/s-4parta_4-9-0.yaml
+- :id: S-4 Part B 4.9.0
+  :file: data/s-4partb_4-9-0.yaml
+- :id: S-4 Part C 4.9.0
+  :file: data/s-4partc_4-9-0.yaml
 - :id: S-52 6.1.1
   :file: data/s-52_6-1-1.yaml
 - :id: S-53 1.0.0

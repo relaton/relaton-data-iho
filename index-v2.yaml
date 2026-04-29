@@ -324,8 +324,8 @@
     :publisher: IHO
     :number: '102'
     :type: S
-    :version: 2.0.0
-  :file: data/s-102_2-0-0.yaml
+    :version: 2.1.0
+  :file: data/s-102_2-1-0.yaml
 - :id:
     :publisher: IHO
     :number: '102'
@@ -336,8 +336,8 @@
     :publisher: IHO
     :number: '102'
     :type: S
-    :version: 2.1.0
-  :file: data/s-102_2-1-0.yaml
+    :version: 2.0.0
+  :file: data/s-102_2-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '102'
@@ -354,8 +354,8 @@
     :publisher: IHO
     :number: '104'
     :type: S
-    :version: 1.0.0
-  :file: data/s-104_1-0-0.yaml
+    :version: 2.0.0
+  :file: data/s-104_2-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '104'
@@ -366,8 +366,8 @@
     :publisher: IHO
     :number: '104'
     :type: S
-    :version: 2.0.0
-  :file: data/s-104_2-0-0.yaml
+    :version: 1.0.0
+  :file: data/s-104_1-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '11'
@@ -390,20 +390,20 @@
     :publisher: IHO
     :number: '111'
     :type: S
-    :version: 1.0.0
-  :file: data/s-111_1-0-0.yaml
-- :id:
-    :publisher: IHO
-    :number: '111'
-    :type: S
     :version: 2.0.0
   :file: data/s-111_2-0-0.yaml
 - :id:
     :publisher: IHO
+    :number: '111'
+    :type: S
+    :version: 1.0.0
+  :file: data/s-111_1-0-0.yaml
+- :id:
+    :publisher: IHO
     :number: '12'
-    :type: B
-    :version: 3.0.0
-  :file: data/b-12_3-0-0.yaml
+    :type: S
+    :version: 1.1.0
+  :file: data/s-12_1-1-0.yaml
 - :id:
     :publisher: IHO
     :number: '12'
@@ -413,9 +413,9 @@
 - :id:
     :publisher: IHO
     :number: '12'
-    :type: S
-    :version: 1.1.0
-  :file: data/s-12_1-1-0.yaml
+    :type: B
+    :version: 3.0.0
+  :file: data/b-12_3-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '121'
@@ -438,14 +438,14 @@
     :publisher: IHO
     :number: '124'
     :type: S
-    :version: 1.0.0
-  :file: data/s-124_1-0-0.yaml
+    :version: 2.0.0
+  :file: data/s-124_2-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '124'
     :type: S
-    :version: 2.0.0
-  :file: data/s-124_2-0-0.yaml
+    :version: 1.0.0
+  :file: data/s-124_1-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '127'
@@ -468,8 +468,8 @@
     :publisher: IHO
     :number: '129'
     :type: S
-    :version: 1.0.0
-  :file: data/s-129_1-0-0.yaml
+    :version: 2.0.0
+  :file: data/s-129_2-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '129'
@@ -480,20 +480,20 @@
     :publisher: IHO
     :number: '129'
     :type: S
-    :version: 2.0.0
-  :file: data/s-129_2-0-0.yaml
-- :id:
-    :publisher: IHO
-    :number: '13'
-    :type: B
     :version: 1.0.0
-  :file: data/b-13_1-0-0.yaml
+  :file: data/s-129_1-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '13'
     :type: C
     :version: 1.0.0
   :file: data/c-13_1-0-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '13'
+    :type: B
+    :version: 1.0.0
+  :file: data/b-13_1-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '130'
@@ -629,9 +629,22 @@
 - :id:
     :publisher: IHO
     :number: '4'
+    :type: B
+    :version: 2.19.0
+  :file: data/b-4_2-19-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '4'
     :type: S
     :version: 4.8.0
   :file: data/s-4_4-8-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '4'
+    :part: A
+    :type: S
+    :version: 4.9.0
+  :file: data/s-4parta_4-9-0.yaml
 - :id:
     :publisher: IHO
     :number: '4'
@@ -641,9 +654,17 @@
 - :id:
     :publisher: IHO
     :number: '4'
-    :type: B
-    :version: 2.19.0
-  :file: data/b-4_2-19-0.yaml
+    :part: C
+    :type: S
+    :version: 4.9.0
+  :file: data/s-4partc_4-9-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '4'
+    :part: B
+    :type: S
+    :version: 4.9.0
+  :file: data/s-4partb_4-9-0.yaml
 - :id:
     :publisher: IHO
     :number: '401'
@@ -660,8 +681,8 @@
     :publisher: IHO
     :number: '44'
     :type: S
-    :version: 6.1.0
-  :file: data/s-44_6-1-0.yaml
+    :version: 6.2.0
+  :file: data/s-44_6-2-0.yaml
 - :id:
     :publisher: IHO
     :number: '44'
@@ -672,8 +693,8 @@
     :publisher: IHO
     :number: '44'
     :type: S
-    :version: 6.2.0
-  :file: data/s-44_6-2-0.yaml
+    :version: 6.1.0
+  :file: data/s-44_6-1-0.yaml
 - :id:
     :publisher: IHO
     :number: '47'
@@ -684,14 +705,14 @@
     :publisher: IHO
     :number: '49'
     :type: S
-    :version: 2.1.0
-  :file: data/s-49_2-1-0.yaml
+    :version: 2.0.0
+  :file: data/s-49_2-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '49'
     :type: S
-    :version: 2.0.0
-  :file: data/s-49_2-0-0.yaml
+    :version: 2.1.0
+  :file: data/s-49_2-1-0.yaml
 - :id:
     :publisher: IHO
     :number: '5'
@@ -863,14 +884,14 @@
     :publisher: IHO
     :number: '66'
     :type: S
-    :version: 2.0.0
-  :file: data/s-66_2-0-0.yaml
+    :version: 1.1.0
+  :file: data/s-66_1-1-0.yaml
 - :id:
     :publisher: IHO
     :number: '66'
     :type: S
-    :version: 1.1.0
-  :file: data/s-66_1-1-0.yaml
+    :version: 2.0.0
+  :file: data/s-66_2-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '67'
@@ -886,15 +907,15 @@
 - :id:
     :publisher: IHO
     :number: '7'
-    :type: P
-    :version: 1.0.6
-  :file: data/p-7_1-0-6.yaml
-- :id:
-    :publisher: IHO
-    :number: '7'
     :type: B
     :version: 1.0.0
   :file: data/b-7.yaml
+- :id:
+    :publisher: IHO
+    :number: '7'
+    :type: M
+    :version: 9.0.0
+  :file: data/m-7_9-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '7'
@@ -904,15 +925,9 @@
 - :id:
     :publisher: IHO
     :number: '7'
-    :type: M
-    :version: 8.0.0
-  :file: data/m-7_8-0-0.yaml
-- :id:
-    :publisher: IHO
-    :number: '7'
-    :type: M
-    :version: 9.0.0
-  :file: data/m-7_9-0-0.yaml
+    :type: P
+    :version: 1.0.6
+  :file: data/p-7_1-0-6.yaml
 - :id:
     :publisher: IHO
     :number: '7'
@@ -931,6 +946,12 @@
     :type: P
     :version: 1.0.7
   :file: data/p-7_1-0-7.yaml
+- :id:
+    :publisher: IHO
+    :number: '7'
+    :type: M
+    :version: 8.0.0
+  :file: data/m-7_8-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '8'
@@ -971,11 +992,11 @@
     :publisher: IHO
     :number: '99'
     :type: S
-    :version: 2.0.0
-  :file: data/s-99_2-0-0.yaml
+    :version: 1.1.0
+  :file: data/s-99_1-1-0.yaml
 - :id:
     :publisher: IHO
     :number: '99'
     :type: S
-    :version: 1.1.0
-  :file: data/s-99_1-1-0.yaml
+    :version: 2.0.0
+  :file: data/s-99_2-0-0.yaml
