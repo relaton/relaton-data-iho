@@ -1,0 +1,94 @@
+---
+id: S100Part0
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  content: 'IHO Universal Hydrographic Data Model -- Part 0: Overview'
+  type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-100/S-100_5.2.0_Final_Clean.pdf
+docidentifier:
+- content: S-100 Part 0
+  type: IHO
+  primary: true
+docnumber: '100'
+date:
+- type: published
+  from: '2024-06-07'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Hydrographic Services and Standards Committee
+      identifier:
+      - content: HSSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+edition:
+  content: 5.2.0
+version:
+- revision_date: '2024-06-07'
+language:
+- en
+- fr
+script:
+- Latn
+status:
+  stage:
+    content: in-force
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    formatted_place: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- formatted_place: Monaco
+validity:
+  begins: '2024-06-07'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho
+extent:
+- locality:
+  - type: part
+    reference_from: '0'
