@@ -93,6 +93,8 @@
   :file: data/s-100_5-1-0.yaml
 - :id: S-100 5.2.0
   :file: data/s-100_5-2-0.yaml
+- :id: S-100 Annex A 5.2.0
+  :file: data/s-100annexa_5-2-0.yaml
 - :id: S-100 Part 0 5.2.0
   :file: data/s-100part0_5-2-0.yaml
 - :id: S-100 Part 10a 5.2.0
@@ -183,8 +185,28 @@
   :file: data/s-121_1-0-0.yaml
 - :id: S-122 1.0.0
   :file: data/s-122_1-0-0.yaml
+- :id: S-122 Appendix A 1.0.0
+  :file: data/s-122appendixa_1-0-0.yaml
+- :id: S-122 Appendix B 1.0.0
+  :file: data/s-122appendixb_1-0-0.yaml
+- :id: S-122 Appendix C 1.0.0
+  :file: data/s-122appendixc_1-0-0.yaml
+- :id: S-122 Appendix D-2 1.0.0
+  :file: data/s-122appendixd-2_1-0-0.yaml
+- :id: S-122 Appendix E 1.0.0
+  :file: data/s-122appendixe_1-0-0.yaml
 - :id: S-123 1.0.0
   :file: data/s-123_1-0-0.yaml
+- :id: S-123 Appendix A 1.0.0
+  :file: data/s-123appendixa_1-0-0.yaml
+- :id: S-123 Appendix B 1.0.0
+  :file: data/s-123appendixb_1-0-0.yaml
+- :id: S-123 Appendix C 1.0.0
+  :file: data/s-123appendixc_1-0-0.yaml
+- :id: S-123 Appendix D-2 1.0.0
+  :file: data/s-123appendixd-2_1-0-0.yaml
+- :id: S-123 Appendix E 1.0.0
+  :file: data/s-123appendixe_1-0-0.yaml
 - :id: S-124 1.0.0
   :file: data/s-124_1-0-0.yaml
 - :id: S-124 2.0.0
@@ -305,6 +327,14 @@
   :file: data/s-66_1-1-0.yaml
 - :id: S-66 2.0.0
   :file: data/s-66_2-0-0.yaml
+- :id: S-66 Suppl 1 2.0.0
+  :file: data/s-66suppl1_2-0-0.yaml
+- :id: S-66 Suppl 2 2.0.0
+  :file: data/s-66suppl2_2-0-0.yaml
+- :id: S-66 Suppl 3 2.0.0
+  :file: data/s-66suppl3_2-0-0.yaml
+- :id: S-66 Suppl 4 2.0.0
+  :file: data/s-66suppl4_2-0-0.yaml
 - :id: S-67 1.0.0
   :file: data/s-67_1-0-0.yaml
 - :id: S-68 1.1.0
@@ -317,6 +347,20 @@
   :file: data/s-97_1-1-0.yaml
 - :id: S-98 1.0.0
   :file: data/s-98_1-0-0.yaml
+- :id: S-98 Annex A 1.0.0
+  :file: data/s-98annexa_1-0-0.yaml
+- :id: S-98 Annex B 1.0.0
+  :file: data/s-98annexb_1-0-0.yaml
+- :id: S-98 Annex C 1.0.0
+  :file: data/s-98annexc_1-0-0.yaml
+- :id: S-98 Part A 1.0.0
+  :file: data/s-98parta_1-0-0.yaml
+- :id: S-98 Part B 1.0.0
+  :file: data/s-98partb_1-0-0.yaml
+- :id: S-98 Part C 1.0.0
+  :file: data/s-98partc_1-0-0.yaml
+- :id: S-98 Part D 1.0.0
+  :file: data/s-98partd_1-0-0.yaml
 - :id: S-99 1.1.0
   :file: data/s-99_1-1-0.yaml
 - :id: S-99 2.0.0
