@@ -1,0 +1,13 @@
+# frozen_string_literal: true
+#
+# Legacy index generation (index-v1 + index-v2) — see crawler_legacy.rb.
+# pubid-iho is pubid v1; it cannot coexist with the unified pubid used for v3.
+# Everything is pinned to the published legacy versions that originally produced
+# index-v1/index-v2.
+
+source 'https://rubygems.org'
+
+gem 'pubid-iho',      '~> 1.15.19'
+gem 'pubid-iso',      '~> 1.15.19'
+gem 'relaton-index',  '~> 0.2.21'
+gem 'relaton-logger', '~> 0.2.4'
