@@ -880,7 +880,13 @@
     :number: '6'
     :type: P
     :version: 1.0.0
-  :file: data/p-6.yaml
+  :file: data/p-6_1-0-0.yaml
+- :id:
+    :publisher: IHO
+    :number: 6-3
+    :type: P
+    :version: 1.0.0
+  :file: data/p-6-3_1-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '60'

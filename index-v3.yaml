@@ -1,0 +1,968 @@
+---
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '1'
+    version: 1.0.0
+  :file: data/b-1_1-0-0.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '1'
+    version: 2.1.0
+  :file: data/m-1_2-1-0.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '1'
+    version: 2.1.1
+  :file: data/m-1_2-1-1.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '1'
+    version: 2.1.2
+  :file: data/m-1_2-1-2.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '1'
+    version: 2.1.3
+  :file: data/m-1_2-1-3.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: '1'
+    version: 1.0.0
+  :file: data/p-1.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: 1/21
+    version: 1.0.0
+  :file: data/p-1-21.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: 1/22
+    version: 1.0.0
+  :file: data/p-1-22.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: 1/30
+    version: 1.0.0
+  :file: data/p-1-30.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '10'
+    version: 5.0.0
+  :file: data/b-10_5-0-0.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '10'
+    version: 3.0.0
+  :file: data/m-10_3-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    version: 1.0.0
+  :file: data/s-100_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    version: 2.0.0
+  :file: data/s-100_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    version: 3.0.0
+  :file: data/s-100_3-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    version: 4.0.0
+  :file: data/s-100_4-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    version: 5.0.0
+  :file: data/s-100_5-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    version: 5.1.0
+  :file: data/s-100_5-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    version: 5.2.0
+  :file: data/s-100_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    annex: A
+    version: 5.2.0
+  :file: data/s-100annexa_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '0'
+    version: 5.2.0
+  :file: data/s-100part0_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 10a
+    version: 5.2.0
+  :file: data/s-100part10a_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 10b
+    version: 5.2.0
+  :file: data/s-100part10b_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 10c
+    version: 5.2.0
+  :file: data/s-100part10c_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '11'
+    version: 5.2.0
+  :file: data/s-100part11_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '12'
+    version: 5.2.0
+  :file: data/s-100part12_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '13'
+    version: 5.2.0
+  :file: data/s-100part13_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '14'
+    version: 5.2.0
+  :file: data/s-100part14_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '15'
+    version: 5.2.0
+  :file: data/s-100part15_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '16'
+    version: 5.2.0
+  :file: data/s-100part16_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 16a
+    version: 5.2.0
+  :file: data/s-100part16a_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '17'
+    version: 5.2.0
+  :file: data/s-100part17_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '18'
+    version: 5.2.0
+  :file: data/s-100part18_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '1'
+    version: 5.2.0
+  :file: data/s-100part1_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '2'
+    version: 5.2.0
+  :file: data/s-100part2_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 2a
+    version: 5.2.0
+  :file: data/s-100part2a_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 2b
+    version: 5.2.0
+  :file: data/s-100part2b_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '3'
+    version: 5.2.0
+  :file: data/s-100part3_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 4a
+    version: 5.2.0
+  :file: data/s-100part4a_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 4b
+    version: 5.2.0
+  :file: data/s-100part4b_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 4c
+    version: 5.2.0
+  :file: data/s-100part4c_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '5'
+    version: 5.2.0
+  :file: data/s-100part5_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '6'
+    version: 5.2.0
+  :file: data/s-100part6_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '7'
+    version: 5.2.0
+  :file: data/s-100part7_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '8'
+    version: 5.2.0
+  :file: data/s-100part8_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: '9'
+    version: 5.2.0
+  :file: data/s-100part9_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '100'
+    part: 9a
+    version: 5.2.0
+  :file: data/s-100part9a_5-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '101'
+    version: 1.0.0
+  :file: data/s-101_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '101'
+    version: 1.1.0
+  :file: data/s-101_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '101'
+    version: 1.2.0
+  :file: data/s-101_1-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '101'
+    version: 2.0.0
+  :file: data/s-101_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '102'
+    version: 1.0.0
+  :file: data/s-102_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '102'
+    version: 2.0.0
+  :file: data/s-102_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '102'
+    version: 2.1.0
+  :file: data/s-102_2-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '102'
+    version: 2.2.0
+  :file: data/s-102_2-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '102'
+    version: 3.0.0
+  :file: data/s-102_3-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '104'
+    version: 1.0.0
+  :file: data/s-104_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '104'
+    version: 1.1.0
+  :file: data/s-104_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '104'
+    version: 2.0.0
+  :file: data/s-104_2-0-0.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '11'
+    version: 1.0.0
+  :file: data/b-11_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '11'
+    version: 3.1.0
+  :file: data/s-11_3-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '111'
+    version: 1.0.0
+  :file: data/s-111_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '111'
+    version: 1.2.0
+  :file: data/s-111_1-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '111'
+    version: 2.0.0
+  :file: data/s-111_2-0-0.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '12'
+    version: 2.0.3
+  :file: data/b-12_2-0-3.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '12'
+    version: 3.0.0
+  :file: data/b-12_3-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '12'
+    version: 1.1.0
+  :file: data/s-12_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '121'
+    version: 1.0.0
+  :file: data/s-121_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '122'
+    version: 1.0.0
+  :file: data/s-122_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '122'
+    appendix: A
+    version: 1.0.0
+  :file: data/s-122appendixa_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '122'
+    appendix: B
+    version: 1.0.0
+  :file: data/s-122appendixb_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '122'
+    appendix: C
+    version: 1.0.0
+  :file: data/s-122appendixc_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '122'
+    appendix: D-2
+    version: 1.0.0
+  :file: data/s-122appendixd-2_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '122'
+    appendix: E
+    version: 1.0.0
+  :file: data/s-122appendixe_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '123'
+    version: 1.0.0
+  :file: data/s-123_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '123'
+    appendix: A
+    version: 1.0.0
+  :file: data/s-123appendixa_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '123'
+    appendix: B
+    version: 1.0.0
+  :file: data/s-123appendixb_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '123'
+    appendix: C
+    version: 1.0.0
+  :file: data/s-123appendixc_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '123'
+    appendix: D-2
+    version: 1.0.0
+  :file: data/s-123appendixd-2_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '123'
+    appendix: E
+    version: 1.0.0
+  :file: data/s-123appendixe_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '124'
+    version: 1.0.0
+  :file: data/s-124_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '124'
+    version: 2.0.0
+  :file: data/s-124_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '127'
+    version: 1.0.0
+  :file: data/s-127_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '128'
+    version: 1.0.0
+  :file: data/s-128_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '128'
+    version: 2.0.0
+  :file: data/s-128_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '129'
+    version: 1.0.0
+  :file: data/s-129_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '129'
+    version: 1.1.0
+  :file: data/s-129_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '129'
+    version: 2.0.0
+  :file: data/s-129_2-0-0.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '13'
+    version: 1.0.0
+  :file: data/b-13_1-0-0.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '13'
+    version: 1.0.0
+  :file: data/c-13_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '130'
+    version: 1.0.0
+  :file: data/s-130_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '131'
+    version: 1.0.0
+  :file: data/s-131_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '158'
+    version: 1.0.0
+  :file: data/s-158_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 158:100
+    version: 1.0.0
+  :file: data/s-158-100_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 158:101
+    version: 1.0.0
+  :file: data/s-158-101_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 158:130
+    version: 1.0.0
+  :file: data/s-158-130_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 158:98
+    version: 1.0.0
+  :file: data/s-158-98_1-0-0.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '16'
+    version: 1.0.0
+  :file: data/c-16_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '164'
+    version: 1.0.0
+  :file: data/s-164_1-0-0.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '17'
+    version: 2.0.0
+  :file: data/c-17_2-0-0.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '17'
+    version: 3.0.0
+  :file: data/c-17_3-0-0.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '2'
+    version: 3.0.7
+  :file: data/m-2_3-0-7.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '201'
+    version: 1.0.0
+  :file: data/s-201_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '201'
+    version: 1.1.0
+  :file: data/s-201_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '23'
+    version: 3.0.0
+  :file: data/s-23_3-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '240'
+    version: 1.0.0
+  :file: data/s-240_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '245'
+    version: 1.0.0
+  :file: data/s-245_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '246'
+    version: 1.0.0
+  :file: data/s-246_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '247'
+    version: 1.0.0
+  :file: data/s-247_1-0-0.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '3'
+    version: 2.0.0
+  :file: data/m-3_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '32'
+    version: 1.0.0
+  :file: data/s-32_1-0-0.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '33'
+    version: 1.0.0
+  :file: data/c-33_3-0-0.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '4'
+    version: 2.19.0
+  :file: data/b-4_2-19-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    version: 4.8.0
+  :file: data/s-4_4-8-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    version: 4.9.0
+  :file: data/s-4_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    part: A
+    version: 4.9.0
+  :file: data/s-4parta_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    part: B
+    version: 4.9.0
+  :file: data/s-4partb_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    part: C
+    version: 4.9.0
+  :file: data/s-4partc_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '401'
+    version: 1.0.0
+  :file: data/s-401_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '421'
+    version: 1.0.0
+  :file: data/s-421_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '44'
+    version: 5.0.0
+  :file: data/s-44_5-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '44'
+    version: 6.1.0
+  :file: data/s-44_6-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '44'
+    version: 6.2.0
+  :file: data/s-44_6-2-0.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '47'
+    version: 7.0.0
+  :file: data/c-47_7-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '49'
+    version: 2.0.0
+  :file: data/s-49_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '49'
+    version: 2.1.0
+  :file: data/s-49_2-1-0.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: '5'
+    version: 1.0.0
+  :file: data/p-5.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '51'
+    version: 6.0.0
+  :file: data/c-51_6-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '52'
+    version: 6.1.1
+  :file: data/s-52_6-1-1.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '53'
+    version: 1.0.0
+  :file: data/s-53_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '53'
+    version: 2.0.0
+  :file: data/s-53_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '53'
+    version: 3.0.0
+  :file: data/s-53_3-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '53'
+    appendix: '1'
+    version: 1.0.0
+  :file: data/s-53annex1_1-0-0.yaml
+- :id:
+    _type: pubid:iho:circular-letter
+    number: '55'
+    version: 6.0.0
+  :file: data/c-55_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '57'
+    version: 3.1.0
+  :file: data/s-57_3-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '58'
+    version: 6.1.0
+  :file: data/s-58_6-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '58'
+    version: 7.0.0
+  :file: data/s-58_7-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 5A
+    version: 1.0.2
+  :file: data/s-5a_1-0-2.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 5B
+    version: 1.0.1
+  :file: data/s-5b_1-0-1.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '6'
+    version: 4.2.0
+  :file: data/b-6_4-2-0.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: '6'
+    version: 1.0.0
+  :file: data/p-6.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '60'
+    version: 3.0.0
+  :file: data/s-60_3-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '61'
+    version: 1.0.0
+  :file: data/s-61_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '62'
+    version: 1.1.0
+  :file: data/s-62_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '63'
+    version: 1.2.1
+  :file: data/s-63_1-2-1.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '64'
+    version: 3.0.2
+  :file: data/s-64_3-0-2.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '64'
+    version: 3.0.3
+  :file: data/s-64_3-0-3.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '65'
+    version: 2.1.0
+  :file: data/s-65_2-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '65'
+    appendix: A
+    version: 1.0.0
+  :file: data/s-65annexa_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '65'
+    appendix: B
+    version: 1.0.0
+  :file: data/s-65annexb_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '65'
+    appendix: B
+    version: 1.1.0
+  :file: data/s-65annexb_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '65'
+    appendix: B
+    version: 1.2.0
+  :file: data/s-65annexb_1-2-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '66'
+    version: 1.1.0
+  :file: data/s-66_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '66'
+    version: 2.0.0
+  :file: data/s-66_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '66'
+    supplement: '1'
+    version: 2.0.0
+  :file: data/s-66suppl1_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '66'
+    supplement: '2'
+    version: 2.0.0
+  :file: data/s-66suppl2_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '66'
+    supplement: '3'
+    version: 2.0.0
+  :file: data/s-66suppl3_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '66'
+    supplement: '4'
+    version: 2.0.0
+  :file: data/s-66suppl4_2-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '67'
+    version: 1.0.0
+  :file: data/s-67_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '68'
+    version: 1.1.0
+  :file: data/s-68_1-1-0.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '7'
+    version: 1.0.0
+  :file: data/b-7.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '7'
+    version: 3.0.0
+  :file: data/m-7_3-0-0.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '7'
+    version: 8.0.0
+  :file: data/m-7_8-0-0.yaml
+- :id:
+    _type: pubid:iho:miscellaneous
+    number: '7'
+    version: 9.0.0
+  :file: data/m-7_9-0-0.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: '7'
+    version: 1.0.6
+  :file: data/p-7_1-0-6.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: '7'
+    version: 1.0.7
+  :file: data/p-7_1-0-7.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: '7'
+    version: 1.0.8
+  :file: data/p-7_1-0-8.yaml
+- :id:
+    _type: pubid:iho:publication
+    number: '7'
+    version: 1.0.9
+  :file: data/p-7_1-0-9.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '8'
+    version: 1.1.1
+  :file: data/b-8_1-1-1.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 8A
+    version: 1.0.1
+  :file: data/s-8a_1-0-1.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: 8B
+    version: 1.0.0
+  :file: data/s-8b_1-0-0.yaml
+- :id:
+    _type: pubid:iho:bibliographic
+    number: '9'
+    version: 2.12.0
+  :file: data/b-9-2-12-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '97'
+    version: 1.1.0
+  :file: data/s-97_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    version: 1.0.0
+  :file: data/s-98_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    annex: A
+    version: 1.0.0
+  :file: data/s-98annexa_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    annex: B
+    version: 1.0.0
+  :file: data/s-98annexb_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    annex: C
+    version: 1.0.0
+  :file: data/s-98annexc_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    part: A
+    version: 1.0.0
+  :file: data/s-98parta_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    part: B
+    version: 1.0.0
+  :file: data/s-98partb_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    part: C
+    version: 1.0.0
+  :file: data/s-98partc_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '98'
+    part: D
+    version: 1.0.0
+  :file: data/s-98partd_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '99'
+    version: 1.1.0
+  :file: data/s-99_1-1-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '99'
+    version: 2.0.0
+  :file: data/s-99_2-0-0.yaml
