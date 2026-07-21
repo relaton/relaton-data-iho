@@ -11,4 +11,4 @@ gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
 
 # pubid 2.x is unpublished; track the integration branch carrying the IHO
 # code->number rename (lossless to_hash/from_hash for the index).
-gem "pubid", git: "https://github.com/metanorma/pubid.git", branch: "rt-new-lutaml-model"
+gem "pubid", git: "https://github.com/metanorma/pubid.git", branch: "main"
