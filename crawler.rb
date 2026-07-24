@@ -15,11 +15,11 @@ require 'relaton/iho'
 
 FileUtils.rm Dir.glob('index-v3*')
 
-# pubid_class is the model class Identifiers::Base (not the Identifier factory
-# module): Relaton::Index serializes a row only when `id.is_a?(pubid_class)` and
+# pubid_class is the model class Identifier
+# Relaton::Index serializes a row only when `id.is_a?(pubid_class)` and
 # reconstructs it via `pubid_class.from_hash`.
 idx_v3 = Relaton::Index.find_or_create :IHO, file: "index-v3.yaml",
-                                       pubid_class: ::Pubid::Iho::Identifiers::Base
+                                       pubid_class: ::Pubid::Iho::Identifier
 
 Dir['data/*.yaml'].each do |f|
   item = Relaton::Iho::Item.from_yaml File.read(f, encoding: "UTF-8")
