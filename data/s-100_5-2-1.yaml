@@ -1,25 +1,25 @@
 ---
-id: S102
+id: S100
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: Bathymetric Surface Product Specification
+  content: IHO Universal Hydrographic Data Model
   type: main
 - language: fr
-  content: Spécification de produit pour la surface bathymétrique
+  content: Modèle universel de données hydrographiques de l’OHI
   type: main
 source:
 - type: pdf
-  content: https://registry.iho.int/productspec/view.do?idx=215&product_ID=S-102
+  content: https://iho.int/uploads/user/pubs/standards/s-100/S-100%20Ed%205.2.1_FINAL.pdf
 docidentifier:
-- content: S-102
+- content: S-100
   type: IHO
   primary: true
-docnumber: '102'
+docnumber: '100'
 date:
 - type: published
-  from: '2024-12-27'
+  from: '2025-12-21'
 contributor:
 - role:
   - type: publisher
@@ -46,9 +46,9 @@ contributor:
     abbreviation:
       content: IHO
 edition:
-  content: 3.0.0
+  content: 5.2.1
 version:
-- revision_date: '2024-12-27'
+- revision_date: '2025-12-21'
 language:
 - en
 - fr
@@ -58,7 +58,7 @@ status:
   stage:
     content: in-force
 copyright:
-- from: '2024'
+- from: '2025'
   owner:
   - organization:
       uri:
@@ -85,7 +85,7 @@ series:
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2024-12-27'
+  begins: '2025-12-21'
 ext:
   schema_version: v1.0.0
   doctype:
