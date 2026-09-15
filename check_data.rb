@@ -45,7 +45,7 @@ def compare(src, dest, path = '') # rubocop:disable Metrics/MethodLength, Metric
         puts "WARNING: Key '#{k}' exists in source but is nil in dest at path: #{current_path}"
         next { k => ["- #{v} (at #{current_path})", "+ nil (missing in dest)"] }
       end
-      dest[k]['begins'].sub!(/\s00:00$/, '') if k == 'validity' && dest[k].respond_to?(:[])
+      dest[k]['begins']&.sub!(/T00:00:00\+00:00$/, '') if k == 'validity' && dest[k].respond_to?(:[])
       res = compare v, dest[k], current_path
       { k => res } if res && !res.empty?
     end
@@ -98,14 +98,34 @@ def print_msg(messages, indent = '') # rubocop:disable Metrics/MethodLength, Met
   end
 end
 
+#
+# Removes the differences that come from a newer relaton gem, not from a parse error
+#
+# @param [Hash] src source hash
+# @param [Hash] dest destination hash
+#
+def normalize!(src, dest)
+  [src, dest, src['ext'], dest['ext']].compact.each { |h| h.delete 'schema_version' }
+
+  # The gem moves version revision_date and draft to content
+  Array(src['version']).each do |v|
+    next if v['content']
+
+    parts = [v.delete('draft'), v.delete('revision_date')].compact
+    v['content'] = parts.size == 2 ? "#{parts[0]} (#{parts[1]})" : parts.first
+  end
+end
+
 path = ARGV.first || 'data/*.{yaml,yml}'
 
 errors = false
 Dir[path].each do |f|
-  yaml = YAML.load_file(f)
-  hash = RelatonIho::HashConverter.hash_to_bib yaml
-  item = RelatonIho::IhoBibliographicItem.new(**hash)
-  if (messages = compare(yaml, item.to_hash))&.any?
+  yaml = File.read(f, encoding: 'utf-8')
+  hash1 = YAML.safe_load yaml
+  item = Relaton::Iho::Item.from_yaml yaml
+  hash2 = YAML.safe_load item.to_yaml
+  normalize! hash1, hash2
+  if (messages = compare(hash1, hash2))&.any?
     errors = true
     puts "Parsing #{f} failed. Parsed content doesn't match to source."
     print_msg messages
@@ -116,7 +136,7 @@ Dir[path].each do |f|
     errors = true
     puts "Parsing #{f} failed. No primary id."
   end
-rescue ArgumentError, NoMethodError, TypeError => e
+rescue StandardError => e
   errors = true
   puts "Parsing #{f} failed. Error: #{e.message}."
   puts e.backtrace

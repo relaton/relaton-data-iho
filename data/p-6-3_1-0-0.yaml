@@ -66,8 +66,9 @@ copyright:
 series:
 - type: main
   title:
-  - content:
-    - '{content: "Periodic Publications", language: "en", script: "Latn"}'
+  - language: en
+    script: Latn
+    content: Periodic Publications
     type: original
   place:
     formatted_place: Monaco
