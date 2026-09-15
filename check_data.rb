@@ -2,7 +2,7 @@
 ## frozen_string_literal: true
 
 require 'yaml'
-require 'relaton_iho'
+require 'relaton/iho'
 
 #
 # Compare elements of source and destination
