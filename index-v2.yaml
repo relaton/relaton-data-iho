@@ -110,6 +110,12 @@
 - :id:
     :publisher: IHO
     :number: '100'
+    :type: S
+    :version: 5.2.1
+  :file: data/s-100_5-2-1.yaml
+- :id:
+    :publisher: IHO
+    :number: '100'
     :annex: A
     :type: S
     :version: 5.2.0
