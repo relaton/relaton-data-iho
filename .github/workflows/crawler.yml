@@ -4,9 +4,7 @@ name: Crawler
 
 on:
   push:
-    branches: [ master, main ]
-    tags: [ v* ]
-  pull_request:
+    branches: [ master, main, v2 ]
   schedule:
   - cron: '0 14 * * *'
   workflow_dispatch:
