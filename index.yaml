@@ -89,6 +89,8 @@
   :file: data/s-100_5-1-0.yaml
 - :id: S-100 5.2.0
   :file: data/s-100_5-2-0.yaml
+- :id: S-100 5.2.1
+  :file: data/s-100_5-2-1.yaml
 - :id: S-101 1.0.0
   :file: data/s-101_1-0-0.yaml
 - :id: S-101 1.1.0

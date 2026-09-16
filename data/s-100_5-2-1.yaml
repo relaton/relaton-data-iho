@@ -1,11 +1,12 @@
 ---
 title:
 - type: main
-  content: Bathymetric Surface Product Specification
+  content: IHO Universal Hydrographic Data Model
   language: en
 - type: main
-  content: Spécification de produit pour la surface bathymétrique
+  content: Modèle universel de données hydrographiques de l’OHI
   language: fr
+type: standard
 editorialgroup:
 - - committee:
       abbreviation: HSSC
@@ -13,14 +14,13 @@ editorialgroup:
       workgroup:
         abbreviation: S-100WG
         name: S-100 Working Group
-type: standard
 docid:
   type: IHO
-  id: S-102
+  id: S-100
   primary: true
-docnumber: 102
+docnumber: 100
 edition:
-  content: 3.0.0
+  content: 5.2.1
 docstatus:
   stage:
     value: in-force
@@ -29,22 +29,22 @@ language:
 - fr
 script: Latn
 version:
-  revision_date: '2024-12-27'
+  revision_date: '2025-12-21'
 date:
   type: published
-  from: '2024-12-27'
+  from: '2025-12-21'
 copyright:
 - owner:
     name: International Hydrographic Organization
     abbreviation: IHO
     url: www.iho.int
-  from: '2024'
+  from: '2025'
 link:
 - type: pdf
-  content: https://registry.iho.int/productspec/view.do?idx=215&product_ID=S-102
+  content: https://iho.int/uploads/user/pubs/standards/s-100/S-100%20Ed%205.2.1_FINAL.pdf
 place: Monaco
 validity:
-  begins: '2024-12-27'
+  begins: '2025-12-21'
 contributor:
 - organization:
     name: International Hydrographic Organization
