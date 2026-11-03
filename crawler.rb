@@ -21,12 +21,13 @@ FileUtils.rm Dir.glob('index-v3*')
 idx_v3 = Relaton::Index.find_or_create :IHO, file: "index-v3.yaml",
                                        pubid_class: ::Pubid::Iho::Identifier
 
-Dir['data/*.yaml'].each do |f|
+Dir['data/*.yaml'].first(3).each do |f|
   item = Relaton::Iho::Item.from_yaml File.read(f, encoding: "UTF-8")
   docid = item.docidentifier.find(&:primary)
   ed = item.edition&.content
 
   pubid = docid.pubid
+  warn "DEBUG #{f}: docid=#{docid.content.inspect} pubid_class=#{pubid&.class&.name.inspect} hash=#{pubid&.to_hash.inspect} is_a_Base=#{(pubid.is_a?(::Pubid::Iho::Identifiers::Base) rescue :NAMEERR).inspect}"
   # pubid 2.0.5 (the #440 component model) renamed `version` to `edition`;
   # the old setter raises NoMethodError and the rescue silently skipped
   # every edition-bearing row from index-v3 (relaton#440).
