@@ -15,8 +15,8 @@
   :file: data/b-4_2-19-0.yaml
 - :id: B-6 4.2.0
   :file: data/b-6_4-2-0.yaml
-- :id: B-7 1.0.0
-  :file: data/b-7.yaml
+- :id: B-7 2003
+  :file: data/b-7_2003.yaml
 - :id: B-8 1.1.1
   :file: data/b-8_1-1-1.yaml
 - :id: B-9 2.12.0
@@ -57,28 +57,28 @@
   :file: data/m-7_8-0-0.yaml
 - :id: M-7 9.0.0
   :file: data/m-7_9-0-0.yaml
-- :id: P-1/21 1.0.0
-  :file: data/p-1-21.yaml
-- :id: P-1/22 1.0.0
-  :file: data/p-1-22.yaml
-- :id: P-1/30 1.0.0
-  :file: data/p-1-30.yaml
-- :id: P-1 1.0.0
+- :id: P-1
   :file: data/p-1.yaml
-- :id: P-5 1.0.0
-  :file: data/p-5.yaml
-- :id: P-6 1.0.0
-  :file: data/p-6_1-0-0.yaml
-- :id: P-6-3 1.0.0
-  :file: data/p-6-3_1-0-0.yaml
-- :id: P-7 1.0.6
-  :file: data/p-7_1-0-6.yaml
-- :id: P-7 1.0.7
-  :file: data/p-7_1-0-7.yaml
-- :id: P-7 1.0.8
-  :file: data/p-7_1-0-8.yaml
-- :id: P-7 1.0.9
-  :file: data/p-7_1-0-9.yaml
+- :id: P-1 Vol. 21
+  :file: data/p-1_vol-21.yaml
+- :id: P-1 Vol. 22
+  :file: data/p-1_vol-22.yaml
+- :id: P-1 Vol. 30 (1)
+  :file: data/p-1_vol-30-1.yaml
+- :id: P-5 2020
+  :file: data/p-5_2020.yaml
+- :id: P-6 2017
+  :file: data/p-6_2017.yaml
+- :id: P-6 2023
+  :file: data/p-6_2023.yaml
+- :id: P-7 2018
+  :file: data/p-7_2018.yaml
+- :id: P-7 2019
+  :file: data/p-7_2019.yaml
+- :id: P-7 2023
+  :file: data/p-7_2023.yaml
+- :id: P-7 2024
+  :file: data/p-7_2024.yaml
 - :id: S-100 1.0.0
   :file: data/s-100_1-0-0.yaml
 - :id: S-100 2.0.0

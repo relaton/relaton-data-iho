@@ -33,26 +33,7 @@
     :publisher: IHO
     :number: '1'
     :type: P
-    :version: 1.0.0
   :file: data/p-1.yaml
-- :id:
-    :publisher: IHO
-    :number: 1/21
-    :type: P
-    :version: 1.0.0
-  :file: data/p-1-21.yaml
-- :id:
-    :publisher: IHO
-    :number: 1/22
-    :type: P
-    :version: 1.0.0
-  :file: data/p-1-22.yaml
-- :id:
-    :publisher: IHO
-    :number: 1/30
-    :type: P
-    :version: 1.0.0
-  :file: data/p-1-30.yaml
 - :id:
     :publisher: IHO
     :number: '10'
@@ -798,12 +779,6 @@
   :file: data/s-49_2-1-0.yaml
 - :id:
     :publisher: IHO
-    :number: '5'
-    :type: P
-    :version: 1.0.0
-  :file: data/p-5.yaml
-- :id:
-    :publisher: IHO
     :number: '51'
     :type: C
     :version: 6.0.0
@@ -881,18 +856,6 @@
     :type: B
     :version: 4.2.0
   :file: data/b-6_4-2-0.yaml
-- :id:
-    :publisher: IHO
-    :number: '6'
-    :type: P
-    :version: 1.0.0
-  :file: data/p-6_1-0-0.yaml
-- :id:
-    :publisher: IHO
-    :number: 6-3
-    :type: P
-    :version: 1.0.0
-  :file: data/p-6-3_1-0-0.yaml
 - :id:
     :publisher: IHO
     :number: '60'
@@ -1018,12 +981,6 @@
 - :id:
     :publisher: IHO
     :number: '7'
-    :type: B
-    :version: 1.0.0
-  :file: data/b-7.yaml
-- :id:
-    :publisher: IHO
-    :number: '7'
     :type: M
     :version: 3.0.0
   :file: data/m-7_3-0-0.yaml
@@ -1039,30 +996,6 @@
     :type: M
     :version: 9.0.0
   :file: data/m-7_9-0-0.yaml
-- :id:
-    :publisher: IHO
-    :number: '7'
-    :type: P
-    :version: 1.0.6
-  :file: data/p-7_1-0-6.yaml
-- :id:
-    :publisher: IHO
-    :number: '7'
-    :type: P
-    :version: 1.0.7
-  :file: data/p-7_1-0-7.yaml
-- :id:
-    :publisher: IHO
-    :number: '7'
-    :type: P
-    :version: 1.0.8
-  :file: data/p-7_1-0-8.yaml
-- :id:
-    :publisher: IHO
-    :number: '7'
-    :type: P
-    :version: 1.0.9
-  :file: data/p-7_1-0-9.yaml
 - :id:
     :publisher: IHO
     :number: '8'

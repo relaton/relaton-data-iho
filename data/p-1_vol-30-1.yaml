@@ -1,5 +1,5 @@
 ---
-id: P121
+id: P1Vol301
 type: standard
 schema_version: v1.4.1
 title:
@@ -7,16 +7,16 @@ title:
   content: International Hydrographic Review
   type: main
 source:
-- type: html
-  content: https://journals.lib.unb.ca/index.php/ihr/issue/view/2235
+- type: pdf
+  content: https://ihr.iho.int/wp-content/uploads/2024/05/IHR-30-1.pdf
 docidentifier:
-- content: P-1/21
+- content: P-1 Vol. 30 (1)
   type: IHO
   primary: true
 docnumber: '1'
 date:
 - type: published
-  from: '2019-05-01'
+  from: '2024-05-01'
 contributor:
 - role:
   - type: publisher
@@ -42,10 +42,8 @@ contributor:
       type: technical-committee
     abbreviation:
       content: IHO
-edition:
-  content: 1.0.0
 version:
-- revision_date: '2019-05-01'
+- revision_date: '2024-05-01'
 language:
 - en
 script:
@@ -54,7 +52,7 @@ status:
   stage:
     content: in-force
 copyright:
-- from: '2019'
+- from: '2024'
   owner:
   - organization:
       uri:
