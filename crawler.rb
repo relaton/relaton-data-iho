@@ -21,7 +21,7 @@ FileUtils.rm Dir.glob('index-v3*')
 idx_v3 = Relaton::Index.find_or_create :IHO, file: "index-v3.yaml",
                                        pubid_class: ::Pubid::Iho::Identifier
 
-Dir['data/*.yaml'].first(3).each do |f|
+Dir['data/*.yaml'].each do |f|
   item = Relaton::Iho::Item.from_yaml File.read(f, encoding: "UTF-8")
   docid = item.docidentifier.find(&:primary)
   ed = item.edition&.content
