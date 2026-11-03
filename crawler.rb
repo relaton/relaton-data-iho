@@ -27,7 +27,10 @@ Dir['data/*.yaml'].each do |f|
   ed = item.edition&.content
 
   pubid = docid.pubid
-  pubid.version = ed if ed && pubid
+  # pubid 2.0.5 (the #440 component model) renamed `version` to `edition`;
+  # the old setter raises NoMethodError and the rescue silently skipped
+  # every edition-bearing row from index-v3 (relaton#440).
+  pubid.edition = ed if ed && pubid
   idx_v3.add_or_update pubid, f
 rescue StandardError => e
   puts "Error processing #{f}: #{e.message}"
