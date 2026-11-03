@@ -1,22 +1,22 @@
 ---
-id: P63
+id: P1Vol21
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: 3rd SESSION OF THE IHO ASSEMBLY
+  content: International Hydrographic Review
   type: main
 source:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/periodical/P6A1_2023VOLUME2_ENG_opt.pdf
+- type: html
+  content: https://journals.lib.unb.ca/index.php/ihr/issue/view/2235
 docidentifier:
-- content: P-6-3
+- content: P-1 Vol. 21
   type: IHO
   primary: true
-docnumber: 6-3
+docnumber: '1'
 date:
 - type: published
-  from: '2023-05-05'
+  from: '2019-05-01'
 contributor:
 - role:
   - type: publisher
@@ -42,10 +42,8 @@ contributor:
       type: technical-committee
     abbreviation:
       content: IHO
-edition:
-  content: 1.0.0
 version:
-- revision_date: '2023-05-05'
+- revision_date: '2019-05-01'
 language:
 - en
 script:
@@ -54,7 +52,7 @@ status:
   stage:
     content: in-force
 copyright:
-- from: '2023'
+- from: '2019'
   owner:
   - organization:
       uri:
@@ -65,19 +63,24 @@ copyright:
         content: IHO
 series:
 - type: main
+  formattedref: IHO P-1
   title:
   - language: en
     script: Latn
-    content: Periodic Publications
+    content: International Hydrographic Review
     type: original
   place:
     formatted_place: Monaco
   organization: International Hydrographic Organization
-  number: P
+  abbreviation:
+    content: IHR
+  from: '1923-01-01'
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2023-05-05'
+  begins: '1923-01-01'
 ext:
   schema_version: v1.0.0
+  doctype:
+    content: standard
   flavor: iho

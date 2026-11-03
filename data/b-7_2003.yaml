@@ -1,5 +1,5 @@
 ---
-id: B7
+id: B72003
 type: standard
 schema_version: v1.4.1
 title:
@@ -13,7 +13,7 @@ source:
 - type: html
   content: https://iho.int/en/bathymetric-publications
 docidentifier:
-- content: B-7
+- content: B-7 2003
   type: IHO
   primary: true
 docnumber: '7'
@@ -76,8 +76,6 @@ contributor:
       type: technical-committee
     abbreviation:
       content: IHO
-edition:
-  content: 1.0.0
 version:
 - revision_date: '2003-01-01'
 language:

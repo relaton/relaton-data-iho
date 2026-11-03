@@ -27,23 +27,23 @@
 - :id:
     _type: pubid:iho:publication
     number: '1'
-    version: 1.0.0
   :file: data/p-1.yaml
 - :id:
     _type: pubid:iho:publication
-    number: 1/21
-    version: 1.0.0
-  :file: data/p-1-21.yaml
+    number: '1'
+    volume: '21'
+  :file: data/p-1_vol-21.yaml
 - :id:
     _type: pubid:iho:publication
-    number: 1/22
-    version: 1.0.0
-  :file: data/p-1-22.yaml
+    number: '1'
+    volume: '22'
+  :file: data/p-1_vol-22.yaml
 - :id:
     _type: pubid:iho:publication
-    number: 1/30
-    version: 1.0.0
-  :file: data/p-1-30.yaml
+    number: '1'
+    volume: '30'
+    issue: '1'
+  :file: data/p-1_vol-30-1.yaml
 - :id:
     _type: pubid:iho:bibliographic
     number: '10'
@@ -673,8 +673,8 @@
 - :id:
     _type: pubid:iho:publication
     number: '5'
-    version: 1.0.0
-  :file: data/p-5.yaml
+    year: '2020'
+  :file: data/p-5_2020.yaml
 - :id:
     _type: pubid:iho:circular-letter
     number: '51'
@@ -744,13 +744,13 @@
 - :id:
     _type: pubid:iho:publication
     number: '6'
-    version: 1.0.0
-  :file: data/p-6_1-0-0.yaml
+    year: '2017'
+  :file: data/p-6_2017.yaml
 - :id:
     _type: pubid:iho:publication
-    number: 6-3
-    version: 1.0.0
-  :file: data/p-6-3_1-0-0.yaml
+    number: '6'
+    year: '2023'
+  :file: data/p-6_2023.yaml
 - :id:
     _type: pubid:iho:standard
     number: '60'
@@ -857,8 +857,8 @@
 - :id:
     _type: pubid:iho:bibliographic
     number: '7'
-    version: 1.0.0
-  :file: data/b-7.yaml
+    year: '2003'
+  :file: data/b-7_2003.yaml
 - :id:
     _type: pubid:iho:miscellaneous
     number: '7'
@@ -877,23 +877,23 @@
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    version: 1.0.6
-  :file: data/p-7_1-0-6.yaml
+    year: '2018'
+  :file: data/p-7_2018.yaml
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    version: 1.0.7
-  :file: data/p-7_1-0-7.yaml
+    year: '2019'
+  :file: data/p-7_2019.yaml
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    version: 1.0.8
-  :file: data/p-7_1-0-8.yaml
+    year: '2023'
+  :file: data/p-7_2023.yaml
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    version: 1.0.9
-  :file: data/p-7_1-0-9.yaml
+    year: '2024'
+  :file: data/p-7_2024.yaml
 - :id:
     _type: pubid:iho:bibliographic
     number: '8'

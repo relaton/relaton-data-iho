@@ -1,22 +1,22 @@
 ---
-id: P6
+id: P72024
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: 1st SESSION OF THE IHO ASSEMBLY
+  content: IHO Annual Report - 2024 Part 1 & 2
   type: main
 source:
 - type: pdf
-  content: https://iho.int/uploads/user/pubs/periodical/P6A1_2017VOLUME2_ENG_opt.pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P7_24_ENG.pdf
 docidentifier:
-- content: P-6
+- content: P-7 2024
   type: IHO
   primary: true
-docnumber: '6'
+docnumber: '7'
 date:
 - type: published
-  from: '2017-04-24'
+  from: '2025-03-01'
 contributor:
 - role:
   - type: publisher
@@ -42,19 +42,19 @@ contributor:
       type: technical-committee
     abbreviation:
       content: IHO
-edition:
-  content: 1.0.0
 version:
-- revision_date: '2017-04-24'
+- revision_date: '2025-03-01'
 language:
 - en
+- fr
+- es
 script:
 - Latn
 status:
   stage:
     content: in-force
 copyright:
-- from: '2017'
+- from: '2025'
   owner:
   - organization:
       uri:
@@ -77,7 +77,9 @@ series:
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2017-04-24'
+  begins: '2025-03-01'
 ext:
   schema_version: v1.0.0
+  doctype:
+    content: standard
   flavor: iho

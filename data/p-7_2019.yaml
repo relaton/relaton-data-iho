@@ -1,22 +1,19 @@
 ---
-id: P7
+id: P72019
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: IHO Annual Report - 2018 Part 1 & 2
+  content: IHO Annual Report - 2019 Part 1 & 2
   type: main
-source:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/periodical/P7_2023_EN.pdf
 docidentifier:
-- content: P-7
+- content: P-7 2019
   type: IHO
   primary: true
 docnumber: '7'
 date:
 - type: published
-  from: '2024-04-01'
+  from: '2020-05-01'
 contributor:
 - role:
   - type: publisher
@@ -42,10 +39,8 @@ contributor:
       type: technical-committee
     abbreviation:
       content: IHO
-edition:
-  content: 1.0.8
 version:
-- revision_date: '2024-04-01'
+- revision_date: '2020-05-01'
 language:
 - en
 - fr
@@ -79,7 +74,7 @@ series:
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2024-04-01'
+  begins: '2020-05-01'
 ext:
   schema_version: v1.0.0
   doctype:

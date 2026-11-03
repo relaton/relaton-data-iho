@@ -1,19 +1,22 @@
 ---
-id: P7
+id: P1Vol22
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: IHO Annual Report - 2018 Part 1 & 2
+  content: International Hydrographic Review
   type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/ihreview_P1/IHR_Nov2019.pdf
 docidentifier:
-- content: P-7
+- content: P-1 Vol. 22
   type: IHO
   primary: true
-docnumber: '7'
+docnumber: '1'
 date:
 - type: published
-  from: '2020-05-01'
+  from: '2019-11-01'
 contributor:
 - role:
   - type: publisher
@@ -39,14 +42,10 @@ contributor:
       type: technical-committee
     abbreviation:
       content: IHO
-edition:
-  content: 1.0.7
 version:
-- revision_date: '2020-05-01'
+- revision_date: '2019-11-01'
 language:
 - en
-- fr
-- es
 script:
 - Latn
 status:
@@ -64,19 +63,22 @@ copyright:
         content: IHO
 series:
 - type: main
+  formattedref: IHO P-1
   title:
   - language: en
     script: Latn
-    content: Periodic Publications
+    content: International Hydrographic Review
     type: original
   place:
     formatted_place: Monaco
   organization: International Hydrographic Organization
-  number: P
+  abbreviation:
+    content: IHR
+  from: '1923-01-01'
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2020-05-01'
+  begins: '1923-01-01'
 ext:
   schema_version: v1.0.0
   doctype:
