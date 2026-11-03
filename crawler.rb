@@ -27,7 +27,6 @@ Dir['data/*.yaml'].first(3).each do |f|
   ed = item.edition&.content
 
   pubid = docid.pubid
-  warn "DEBUG #{f}: docid=#{docid.content.inspect} pubid_class=#{pubid&.class&.name.inspect} hash=#{pubid&.to_hash.inspect} is_a_Base=#{(pubid.is_a?(::Pubid::Iho::Identifiers::Base) rescue :NAMEERR).inspect}"
   # pubid 2.0.5 (the #440 component model) renamed `version` to `edition`;
   # the old setter raises NoMethodError and the rescue silently skipped
   # every edition-bearing row from index-v3 (relaton#440).
