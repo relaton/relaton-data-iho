@@ -9,7 +9,7 @@ title:
   type: main
 source:
 - type: pdf
-  content: http://registry.iho.int/beta/guidance/list.do
+  content: https://registry.iho.int/guidance/list.do
 docidentifier:
 - content: S-98 Annex A
   type: IHO
