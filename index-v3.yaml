@@ -676,7 +676,7 @@
     _type: pubid:iho:publication
     number: '5'
     volume: '2020'
-  :file: data/p-5_2020.yaml
+  :file: data/p-5_vol-2020.yaml
 - :id:
     _type: pubid:iho:standard
     number: '5'
@@ -749,12 +749,12 @@
     _type: pubid:iho:publication
     number: '6'
     volume: '2017'
-  :file: data/p-6_2017.yaml
+  :file: data/p-6_vol-2017.yaml
 - :id:
     _type: pubid:iho:publication
     number: '6'
     volume: '2023'
-  :file: data/p-6_2023.yaml
+  :file: data/p-6_vol-2023.yaml
 - :id:
     _type: pubid:iho:standard
     number: '60'
@@ -862,7 +862,7 @@
     _type: pubid:iho:bibliographic
     number: '7'
     volume: '2003'
-  :file: data/b-7_2003.yaml
+  :file: data/b-7_vol-2003.yaml
 - :id:
     _type: pubid:iho:miscellaneous
     number: '7'
@@ -881,23 +881,23 @@
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    volume: '2018'
-  :file: data/p-7_2018.yaml
+    edition: 1.0.6
+  :file: data/p-7_1-0-6.yaml
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    volume: '2019'
-  :file: data/p-7_2019.yaml
+    edition: 1.0.7
+  :file: data/p-7_1-0-7.yaml
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    volume: '2023'
-  :file: data/p-7_2023.yaml
+    edition: 1.0.8
+  :file: data/p-7_1-0-8.yaml
 - :id:
     _type: pubid:iho:publication
     number: '7'
-    volume: '2024'
-  :file: data/p-7_2024.yaml
+    edition: 1.0.9
+  :file: data/p-7_1-0-9.yaml
 - :id:
     _type: pubid:iho:bibliographic
     number: '8'

@@ -998,6 +998,30 @@
   :file: data/m-7_9-0-0.yaml
 - :id:
     :publisher: IHO
+    :number: '7'
+    :type: P
+    :version: 1.0.6
+  :file: data/p-7_1-0-6.yaml
+- :id:
+    :publisher: IHO
+    :number: '7'
+    :type: P
+    :version: 1.0.7
+  :file: data/p-7_1-0-7.yaml
+- :id:
+    :publisher: IHO
+    :number: '7'
+    :type: P
+    :version: 1.0.8
+  :file: data/p-7_1-0-8.yaml
+- :id:
+    :publisher: IHO
+    :number: '7'
+    :type: P
+    :version: 1.0.9
+  :file: data/p-7_1-0-9.yaml
+- :id:
+    :publisher: IHO
     :number: '8'
     :type: B
     :version: 1.1.1

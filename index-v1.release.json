@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "index": "index-v1",
+  "sha256": "61c726df35ac8f96e5839d33f688185ed37d0f1acd663b3422a856e0f4574694",
+  "bytes": 1563,
+  "count": 184,
+  "generated": "2026-11-08T11:50:23Z",
+  "source_revision": "f587b38766552813623b0e82a3f92935b5228cad",
+  "run_id": "42477437206",
+  "repository": "relaton/relaton-data-iho"
+}
