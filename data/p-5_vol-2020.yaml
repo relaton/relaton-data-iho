@@ -1,22 +1,28 @@
 ---
-id: P62023
+id: P5Vol2020
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: 3rd SESSION OF THE IHO ASSEMBLY
+  content: IHO Yearbook
+  type: main
+- language: fr
+  content: IHO Annuaire
+  type: main
+- language: es
+  content: IHO Anuario
   type: main
 source:
 - type: pdf
-  content: https://iho.int/uploads/user/pubs/periodical/P6A1_2023VOLUME2_ENG_opt.pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P5YEARBOOK_ANNUAIRE.pdf
 docidentifier:
-- content: P-6 2023
+- content: P-5 Vol. 2020
   type: IHO
   primary: true
-docnumber: '6'
+docnumber: '5'
 date:
 - type: published
-  from: '2023-05-05'
+  from: '2020-06-01'
 contributor:
 - role:
   - type: publisher
@@ -43,16 +49,18 @@ contributor:
     abbreviation:
       content: IHO
 version:
-- revision_date: '2023-05-05'
+- revision_date: '2024-07-01'
 language:
 - en
+- fr
+- es
 script:
 - Latn
 status:
   stage:
     content: in-force
 copyright:
-- from: '2023'
+- from: '2020'
   owner:
   - organization:
       uri:
@@ -75,7 +83,7 @@ series:
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2023-05-05'
+  begins: '2020-06-01'
 ext:
   schema_version: v1.0.0
   doctype:
