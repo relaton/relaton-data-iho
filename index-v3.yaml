@@ -97,170 +97,170 @@
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     annex: A
+    annex_edition: 5.2.0
   :file: data/s-100annexa_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '0'
+    part_edition: 5.2.0
   :file: data/s-100part0_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 10a
+    part_edition: 5.2.0
   :file: data/s-100part10a_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 10b
+    part_edition: 5.2.0
   :file: data/s-100part10b_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 10c
+    part_edition: 5.2.0
   :file: data/s-100part10c_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '11'
+    part_edition: 5.2.0
   :file: data/s-100part11_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '12'
+    part_edition: 5.2.0
   :file: data/s-100part12_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '13'
+    part_edition: 5.2.0
   :file: data/s-100part13_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '14'
+    part_edition: 5.2.0
   :file: data/s-100part14_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '15'
+    part_edition: 5.2.0
   :file: data/s-100part15_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '16'
+    part_edition: 5.2.0
   :file: data/s-100part16_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 16a
+    part_edition: 5.2.0
   :file: data/s-100part16a_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '17'
+    part_edition: 5.2.0
   :file: data/s-100part17_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '18'
+    part_edition: 5.2.0
   :file: data/s-100part18_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '1'
+    part_edition: 5.2.0
   :file: data/s-100part1_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '2'
+    part_edition: 5.2.0
   :file: data/s-100part2_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 2a
+    part_edition: 5.2.0
   :file: data/s-100part2a_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 2b
+    part_edition: 5.2.0
   :file: data/s-100part2b_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '3'
+    part_edition: 5.2.0
   :file: data/s-100part3_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 4a
+    part_edition: 5.2.0
   :file: data/s-100part4a_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 4b
+    part_edition: 5.2.0
   :file: data/s-100part4b_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 4c
+    part_edition: 5.2.0
   :file: data/s-100part4c_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '5'
+    part_edition: 5.2.0
   :file: data/s-100part5_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '6'
+    part_edition: 5.2.0
   :file: data/s-100part6_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '7'
+    part_edition: 5.2.0
   :file: data/s-100part7_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '8'
+    part_edition: 5.2.0
   :file: data/s-100part8_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: '9'
+    part_edition: 5.2.0
   :file: data/s-100part9_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '100'
-    edition: 5.2.0
     part: 9a
+    part_edition: 5.2.0
   :file: data/s-100part9a_5-2-0.yaml
 - :id:
     _type: pubid:iho:standard
@@ -375,33 +375,33 @@
 - :id:
     _type: pubid:iho:standard
     number: '122'
-    edition: 1.0.0
     appendix: A
+    appendix_edition: 1.0.0
   :file: data/s-122appendixa_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '122'
-    edition: 1.0.0
     appendix: B
+    appendix_edition: 1.0.0
   :file: data/s-122appendixb_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '122'
-    edition: 1.0.0
     appendix: C
+    appendix_edition: 1.0.0
   :file: data/s-122appendixc_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '122'
-    edition: 1.0.0
     appendix: D
     appendix_subnumber: '2'
+    appendix_edition: 1.0.0
   :file: data/s-122appendixd-2_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '122'
-    edition: 1.0.0
     appendix: E
+    appendix_edition: 1.0.0
   :file: data/s-122appendixe_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
@@ -411,33 +411,33 @@
 - :id:
     _type: pubid:iho:standard
     number: '123'
-    edition: 1.0.0
     appendix: A
+    appendix_edition: 1.0.0
   :file: data/s-123appendixa_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '123'
-    edition: 1.0.0
     appendix: B
+    appendix_edition: 1.0.0
   :file: data/s-123appendixb_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '123'
-    edition: 1.0.0
     appendix: C
+    appendix_edition: 1.0.0
   :file: data/s-123appendixc_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '123'
-    edition: 1.0.0
     appendix: D
     appendix_subnumber: '2'
+    appendix_edition: 1.0.0
   :file: data/s-123appendixd-2_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '123'
-    edition: 1.0.0
     appendix: E
+    appendix_edition: 1.0.0
   :file: data/s-123appendixe_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
@@ -617,20 +617,20 @@
 - :id:
     _type: pubid:iho:standard
     number: '4'
-    edition: 4.9.0
     part: A
+    part_edition: 4.9.0
   :file: data/s-4parta_4-9-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '4'
-    edition: 4.9.0
     part: B
+    part_edition: 4.9.0
   :file: data/s-4partb_4-9-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '4'
-    edition: 4.9.0
     part: C
+    part_edition: 4.9.0
   :file: data/s-4partc_4-9-0.yaml
 - :id:
     _type: pubid:iho:standard
@@ -680,14 +680,14 @@
 - :id:
     _type: pubid:iho:standard
     number: '5'
-    edition: 1.0.2
     part: A
+    part_edition: 1.0.2
   :file: data/s-5a_1-0-2.yaml
 - :id:
     _type: pubid:iho:standard
     number: '5'
-    edition: 1.0.1
     part: B
+    part_edition: 1.0.1
   :file: data/s-5b_1-0-1.yaml
 - :id:
     _type: pubid:iho:circular-letter
@@ -717,8 +717,8 @@
 - :id:
     _type: pubid:iho:standard
     number: '53'
-    edition: 1.0.0
     appendix: '1'
+    appendix_edition: 1.0.0
   :file: data/s-53annex1_1-0-0.yaml
 - :id:
     _type: pubid:iho:circular-letter
@@ -793,26 +793,26 @@
 - :id:
     _type: pubid:iho:standard
     number: '65'
-    edition: 1.0.0
     appendix: A
+    appendix_edition: 1.0.0
   :file: data/s-65annexa_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '65'
-    edition: 1.0.0
     appendix: B
+    appendix_edition: 1.0.0
   :file: data/s-65annexb_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '65'
-    edition: 1.1.0
     appendix: B
+    appendix_edition: 1.1.0
   :file: data/s-65annexb_1-1-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '65'
-    edition: 1.2.0
     appendix: B
+    appendix_edition: 1.2.0
   :file: data/s-65annexb_1-2-0.yaml
 - :id:
     _type: pubid:iho:standard
@@ -827,26 +827,26 @@
 - :id:
     _type: pubid:iho:standard
     number: '66'
-    edition: 2.0.0
     supplement: '1'
+    supplement_edition: 2.0.0
   :file: data/s-66suppl1_2-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '66'
-    edition: 2.0.0
     supplement: '2'
+    supplement_edition: 2.0.0
   :file: data/s-66suppl2_2-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '66'
-    edition: 2.0.0
     supplement: '3'
+    supplement_edition: 2.0.0
   :file: data/s-66suppl3_2-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '66'
-    edition: 2.0.0
     supplement: '4'
+    supplement_edition: 2.0.0
   :file: data/s-66suppl4_2-0-0.yaml
 - :id:
     _type: pubid:iho:standard
@@ -906,14 +906,14 @@
 - :id:
     _type: pubid:iho:standard
     number: '8'
-    edition: 1.0.1
     part: A
+    part_edition: 1.0.1
   :file: data/s-8a_1-0-1.yaml
 - :id:
     _type: pubid:iho:standard
     number: '8'
-    edition: 1.0.0
     part: B
+    part_edition: 1.0.0
   :file: data/s-8b_1-0-0.yaml
 - :id:
     _type: pubid:iho:bibliographic
@@ -933,44 +933,44 @@
 - :id:
     _type: pubid:iho:standard
     number: '98'
-    edition: 1.0.0
     annex: A
+    annex_edition: 1.0.0
   :file: data/s-98annexa_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '98'
-    edition: 1.0.0
     annex: B
+    annex_edition: 1.0.0
   :file: data/s-98annexb_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '98'
-    edition: 1.0.0
     annex: C
+    annex_edition: 1.0.0
   :file: data/s-98annexc_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '98'
-    edition: 1.0.0
     part: A
+    part_edition: 1.0.0
   :file: data/s-98parta_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '98'
-    edition: 1.0.0
     part: B
+    part_edition: 1.0.0
   :file: data/s-98partb_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '98'
-    edition: 1.0.0
     part: C
+    part_edition: 1.0.0
   :file: data/s-98partc_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '98'
-    edition: 1.0.0
     part: D
+    part_edition: 1.0.0
   :file: data/s-98partd_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
