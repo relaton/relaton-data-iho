@@ -1,22 +1,19 @@
 ---
-id: P62017
+id: P7
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: 1st SESSION OF THE IHO ASSEMBLY
+  content: IHO Annual Report - 2019 Part 1 & 2
   type: main
-source:
-- type: pdf
-  content: https://iho.int/uploads/user/pubs/periodical/P6A1_2017VOLUME2_ENG_opt.pdf
 docidentifier:
-- content: P-6 2017
+- content: P-7
   type: IHO
   primary: true
-docnumber: '6'
+docnumber: '7'
 date:
 - type: published
-  from: '2017-04-24'
+  from: '2020-05-01'
 contributor:
 - role:
   - type: publisher
@@ -42,17 +39,21 @@ contributor:
       type: technical-committee
     abbreviation:
       content: IHO
+edition:
+  content: 1.0.7
 version:
-- revision_date: '2017-04-24'
+- revision_date: '2020-05-01'
 language:
 - en
+- fr
+- es
 script:
 - Latn
 status:
   stage:
     content: in-force
 copyright:
-- from: '2017'
+- from: '2019'
   owner:
   - organization:
       uri:
@@ -75,7 +76,7 @@ series:
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2017-04-24'
+  begins: '2020-05-01'
 ext:
   schema_version: v1.0.0
   doctype:

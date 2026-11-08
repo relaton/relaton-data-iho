@@ -1,19 +1,22 @@
 ---
-id: P72019
+id: P6Vol2023
 type: standard
 schema_version: v1.4.1
 title:
 - language: en
-  content: IHO Annual Report - 2019 Part 1 & 2
+  content: 3rd SESSION OF THE IHO ASSEMBLY
   type: main
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/periodical/P6A1_2023VOLUME2_ENG_opt.pdf
 docidentifier:
-- content: P-7 2019
+- content: P-6 Vol. 2023
   type: IHO
   primary: true
-docnumber: '7'
+docnumber: '6'
 date:
 - type: published
-  from: '2020-05-01'
+  from: '2023-05-05'
 contributor:
 - role:
   - type: publisher
@@ -40,18 +43,16 @@ contributor:
     abbreviation:
       content: IHO
 version:
-- revision_date: '2020-05-01'
+- revision_date: '2023-05-05'
 language:
 - en
-- fr
-- es
 script:
 - Latn
 status:
   stage:
     content: in-force
 copyright:
-- from: '2019'
+- from: '2023'
   owner:
   - organization:
       uri:
@@ -74,7 +75,7 @@ series:
 place:
 - formatted_place: Monaco
 validity:
-  begins: '2020-05-01'
+  begins: '2023-05-05'
 ext:
   schema_version: v1.0.0
   doctype:
