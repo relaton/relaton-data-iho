@@ -21,6 +21,20 @@ FileUtils.rm Dir.glob('index-v3*')
 idx_v3 = Relaton::Index.find_or_create :IHO, file: "index-v3.yaml",
                                        pubid_class: ::Pubid::Iho::Identifier
 
+# The independently-publishable components whose records carry their own
+# edition (mirrors Pubid::Iho::Builder::COMPONENT_EDITIONS).
+COMPONENT_EDITION_SLOTS = {
+  part: :part_edition,
+  supplement: :supplement_edition,
+  annex: :annex_edition,
+  appendix: :appendix_edition,
+  volume: :volume_edition,
+}.freeze
+
+def crawler_component_edition_slot(pubid)
+  COMPONENT_EDITION_SLOTS.find { |component, _| pubid.public_send(component) }&.last
+end
+
 Dir['data/*.yaml'].each do |f|
   item = Relaton::Iho::Item.from_yaml File.read(f, encoding: "UTF-8")
   docid = item.docidentifier.find(&:primary)
@@ -30,7 +44,18 @@ Dir['data/*.yaml'].each do |f|
   # pubid 2.0.5 (the #440 component model) renamed `version` to `edition`;
   # the old setter raises NoMethodError and the rescue silently skipped
   # every edition-bearing row from index-v3 (relaton#440).
-  pubid.edition = ed if ed && pubid
+  #
+  # The edition slot follows the record's publication mode: a component
+  # record (S-100 Part 5, S-66 Suppl 1) is separately published, so its
+  # edition lands on the component's own edition attribute — the same
+  # slot parsing the printed form ("S-100 Part 5 5.2.0") produces, which
+  # is what consumer matching compares against (pubid#440 ruling: a
+  # component published separately carries its own edition). Only a
+  # component-less record takes the base edition.
+  if ed && pubid
+    slot = crawler_component_edition_slot(pubid)
+    slot ? pubid.public_send(:"#{slot}=", ed) : pubid.edition = ed
+  end
   idx_v3.add_or_update pubid, f
 rescue StandardError => e
   puts "Error processing #{f}: #{e.message}"
