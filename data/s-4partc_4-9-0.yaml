@@ -95,3 +95,52 @@ extent:
 - locality:
   - type: part
     reference_from: C
+relation:
+- type: partOf
+  bibitem:
+    docidentifier:
+    - content: S-4
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part C, Section 100
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part C, Section 200
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part C, Section 300
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part C, Section 400
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part C, Section 500
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0

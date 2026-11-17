@@ -1,0 +1,79 @@
+# S-4 sections per part, read from the Records of Updates of S-4 Edition
+# 4.10.0 (March 2026, English) and Edition 4.9.0 (March 2021). Spanish titles
+# are from the Spanish translation of Edition 4.9.0 (August 2022).
+#
+# states: edition => changed (the section has an entry for this edition in
+# its Record of Updates) and in_force (when the section's current content came
+# into force, given as the month of the edition that last changed it; left out
+# when that change predates 4.9.0).
+A:
+  '100':
+    en: SECTION 100 - GENERAL
+    es: SECCIÓN 100 - GENERALIDADES
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '200':
+    en: SECTION 200 - SCHEMES OF INTERNATIONAL CHARTS
+    es: SECCIÓN 200 - ESQUEMAS DE LA CARTAS INTERNACIONALES
+    states: {4.9.0: {changed: true, in_force: '2021-03-01'}, 4.10.0: {changed: true, in_force: '2026-03-01'}}
+  '300':
+    en: SECTION 300 - SPECIFICATIONS FOR INTERNATIONAL CHARTS
+    es: SECCIÓN 300 - ESPECIFICACIONES PARA CARTAS INTERNACIONALES
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '400':
+    en: SECTION 400 - MAINTENANCE OF INTERNATIONAL CHARTS
+    es: SECCIÓN 400 - MANTENIMIENTO DE CARTAS INTERNACIONALES
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '500':
+    en: SECTION 500 - EXCHANGE OF REPRODUCTION MATERIAL
+    es: SECCIÓN 500 - INTERCAMBIO DE MATERIAL DE REPRODUCCIÓN
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '600':
+    en: SECTION 600 - FINANCIAL ASPECTS
+    es: SECCIÓN 600 - ASPECTOS ECONÓMICOS
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+B:
+  '100':
+    en: SECTION 100 - GENERAL
+    es: SECCIÓN 100 - GENERALIDADES
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: true, in_force: '2026-03-01'}}
+  '200':
+    en: SECTION 200 - CHART FRAMEWORK (FORMAT, POSITIONS, COMPASS ROSES, SOURCE DIAGRAMS)
+    es: SECCIÓN 200 - ESTRUCTURA DE LA CARTA (FORMATO, POSICIONES, ROSAS MAGNÉTICAS, DIAGRAMAS DE FUENTES)
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: true, in_force: '2026-03-01'}}
+  '300':
+    en: SECTION 300 - TOPOGRAPHY
+    es: SECCIÓN 300 - TOPOGRAFÍA
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: true, in_force: '2026-03-01'}}
+  '400':
+    en: SECTION 400 - HYDROGRAPHY AND AIDS TO NAVIGATION
+    es: SECCIÓN 400 - HIDROGRAFÍA Y AYUDAS A LA NAVEGACIÓN
+    states: {4.9.0: {changed: true, in_force: '2021-03-01'}, 4.10.0: {changed: true, in_force: '2026-03-01'}}
+  '500':
+    en: 'SECTION 500 - TEXT: LANGUAGE, NUMBERS, ABBREVIATIONS, NAMES, STYLES AND FONTS'
+    es: SECCIÓN 500 - NOMBRES GEOGRÁFICOS - LETRAS - NÚMEROS
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '600':
+    en: SECTION 600 - CHART MAINTENANCE
+    es: SECCIÓN 600 - MANTENIMIENTO DE CARTAS
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+C:
+  '100':
+    en: SECTION 100 - GENERAL
+    es: SECCIÓN 100 - GENERALIDADES
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '200':
+    en: SECTION 200 - FORMAT
+    es: SECCIÓN 200 - FORMATO
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '300':
+    en: SECTION 300 - TOPOGRAPHY
+    es: SECCIÓN 300 - TOPOGRAFÍA
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
+  '400':
+    en: SECTION 400 - HYDROGRAPHY AND AIDS TO NAVIGATION
+    es: SECCIÓN 400 - HIDROGRAFÍA Y AYUDAS A LA NAVEGACIÓN
+    states: {4.9.0: {changed: true, in_force: '2021-03-01'}, 4.10.0: {changed: true, in_force: '2026-03-01'}}
+  '500':
+    en: SECTION 500 - GEOGRAPHIC NAMES
+    es: SECCIÓN 500 - NOMBRES GEOGRÁFICOS
+    states: {4.9.0: {changed: false}, 4.10.0: {changed: false}}
