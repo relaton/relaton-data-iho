@@ -31,7 +31,13 @@ COMPONENT_EDITION_SLOTS = {
   volume: :volume_edition,
 }.freeze
 
+# An S-4 section or spec citation (pubid#691: "S-4 Part B, Section 400" ≡
+# "IHO S-4 B-400") rides its publication's edition — the dated face is
+# "IHO S-4 4.10.0 B-400" — so it takes the base edition even though it
+# names a part (relaton-data-iho#55).
 def crawler_component_edition_slot(pubid)
+  return if pubid.respond_to?(:spec) && pubid.spec
+
   COMPONENT_EDITION_SLOTS.find { |component, _| pubid.public_send(component) }&.last
 end
 

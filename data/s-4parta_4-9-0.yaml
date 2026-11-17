@@ -94,3 +94,60 @@ extent:
 - locality:
   - type: part
     reference_from: A
+relation:
+- type: partOf
+  bibitem:
+    docidentifier:
+    - content: S-4
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A, Section 100
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A, Section 200
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A, Section 300
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A, Section 400
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A, Section 500
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A, Section 600
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0

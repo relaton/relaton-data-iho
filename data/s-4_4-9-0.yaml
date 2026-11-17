@@ -95,3 +95,52 @@ ext:
   doctype:
     content: standard
   flavor: iho
+relation:
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part B
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part C
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: S-4
+      type: IHO
+      primary: true
+    edition:
+      content: 4.8.0
+  locality_stack:
+  - locality:
+    - type: part
+      reference_from: A
+    - type: section
+      reference_from: '200'
+  - locality:
+    - type: part
+      reference_from: B
+    - type: section
+      reference_from: '400'
+  - locality:
+    - type: part
+      reference_from: C
+    - type: section
+      reference_from: '400'

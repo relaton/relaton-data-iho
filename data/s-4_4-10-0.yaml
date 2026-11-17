@@ -1,0 +1,162 @@
+---
+id: S4
+type: standard
+schema_version: v1.4.1
+title:
+- language: en
+  content: Regulations for International (INT) Charts and Chart Specifications of
+    the IHO
+  type: main
+- language: fr
+  content: Règlement pour les cartes internationales (INT) et spécifications pour
+    les cartes marines, de l'OHI
+  type: main
+- language: es
+  content: Reglamento de la OHI para cartas internacionales y especificaciones cartográficas
+    de la OHI
+  type: main
+docidentifier:
+- content: S-4
+  type: IHO
+  primary: true
+docnumber: '4'
+date:
+- type: published
+  from: '2026-03-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    uri:
+    - content: www.iho.int
+    name:
+    - content: International Hydrographic Organization
+    abbreviation:
+      content: IHO
+- role:
+  - type: author
+    description:
+    - content: committee
+  organization:
+    name:
+    - content: International Hydrographic Organization
+    subdivision:
+    - name:
+      - content: Hydrographic Services and Standards Committee
+      identifier:
+      - content: HSSC
+      type: technical-committee
+    abbreviation:
+      content: IHO
+edition:
+  content: 4.10.0
+version:
+- revision_date: '2026-03-01'
+language:
+- en
+script:
+- Latn
+status:
+  stage:
+    content: in-force
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      uri:
+      - content: www.iho.int
+      name:
+      - content: International Hydrographic Organization
+      abbreviation:
+        content: IHO
+series:
+- type: main
+  title:
+  - language: en
+    script: Latn
+    content: Standards and Specifications
+    type: original
+  - language: fr
+    script: Latn
+    content: Normes et Spécifications
+    type: original
+  place:
+    formatted_place: Monaco
+  organization: International Hydrographic Organization
+  number: S
+place:
+- formatted_place: Monaco
+validity:
+  begins: '2026-03-01'
+ext:
+  schema_version: v1.0.0
+  doctype:
+    content: standard
+  flavor: iho
+source:
+- type: pdf
+  content: https://iho.int/uploads/user/pubs/standards/s-4/S-4%20Ed%204.10.0_FINAL.pdf
+relation:
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part A
+      type: IHO
+      primary: true
+    edition:
+      content: 4.10.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part B
+      type: IHO
+      primary: true
+    edition:
+      content: 4.10.0
+- type: hasPart
+  bibitem:
+    docidentifier:
+    - content: S-4 Part C
+      type: IHO
+      primary: true
+    edition:
+      content: 4.10.0
+- type: updates
+  bibitem:
+    docidentifier:
+    - content: S-4
+      type: IHO
+      primary: true
+    edition:
+      content: 4.9.0
+  locality_stack:
+  - locality:
+    - type: part
+      reference_from: A
+    - type: section
+      reference_from: '200'
+  - locality:
+    - type: part
+      reference_from: B
+    - type: section
+      reference_from: '100'
+  - locality:
+    - type: part
+      reference_from: B
+    - type: section
+      reference_from: '200'
+  - locality:
+    - type: part
+      reference_from: B
+    - type: section
+      reference_from: '300'
+  - locality:
+    - type: part
+      reference_from: B
+    - type: section
+      reference_from: '400'
+  - locality:
+    - type: part
+      reference_from: C
+    - type: section
+      reference_from: '400'
