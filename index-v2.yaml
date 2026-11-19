@@ -700,6 +700,12 @@
     :publisher: IHO
     :number: '4'
     :type: S
+    :version: 4.10.0
+  :file: data/s-4_4-10-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '4'
+    :type: S
     :version: 4.8.0
   :file: data/s-4_4-8-0.yaml
 - :id:
@@ -713,6 +719,13 @@
     :number: '4'
     :part: A
     :type: S
+    :version: 4.10.0
+  :file: data/s-4parta_4-10-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '4'
+    :part: A
+    :type: S
     :version: 4.9.0
   :file: data/s-4parta_4-9-0.yaml
 - :id:
@@ -720,8 +733,22 @@
     :number: '4'
     :part: B
     :type: S
+    :version: 4.10.0
+  :file: data/s-4partb_4-10-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '4'
+    :part: B
+    :type: S
     :version: 4.9.0
   :file: data/s-4partb_4-9-0.yaml
+- :id:
+    :publisher: IHO
+    :number: '4'
+    :part: C
+    :type: S
+    :version: 4.10.0
+  :file: data/s-4partc_4-10-0.yaml
 - :id:
     :publisher: IHO
     :number: '4'

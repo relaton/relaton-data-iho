@@ -607,6 +607,11 @@
 - :id:
     _type: pubid:iho:standard
     number: '4'
+    edition: 4.10.0
+  :file: data/s-4_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
     edition: 4.8.0
   :file: data/s-4_4-8-0.yaml
 - :id:
@@ -617,15 +622,271 @@
 - :id:
     _type: pubid:iho:standard
     number: '4'
+    edition: 4.10.0
+    part: A
+    spec: '100'
+  :file: data/s-4parta-section100_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: A
+    spec: '100'
+  :file: data/s-4parta-section100_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: A
+    spec: '200'
+  :file: data/s-4parta-section200_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: A
+    spec: '200'
+  :file: data/s-4parta-section200_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: A
+    spec: '300'
+  :file: data/s-4parta-section300_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: A
+    spec: '300'
+  :file: data/s-4parta-section300_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: A
+    spec: '400'
+  :file: data/s-4parta-section400_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: A
+    spec: '400'
+  :file: data/s-4parta-section400_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: A
+    spec: '500'
+  :file: data/s-4parta-section500_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: A
+    spec: '500'
+  :file: data/s-4parta-section500_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: A
+    spec: '600'
+  :file: data/s-4parta-section600_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: A
+    spec: '600'
+  :file: data/s-4parta-section600_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    part: A
+    part_edition: 4.10.0
+  :file: data/s-4parta_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
     part: A
     part_edition: 4.9.0
   :file: data/s-4parta_4-9-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '4'
+    edition: 4.10.0
+    part: B
+    spec: '100'
+  :file: data/s-4partb-section100_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: B
+    spec: '100'
+  :file: data/s-4partb-section100_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: B
+    spec: '200'
+  :file: data/s-4partb-section200_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: B
+    spec: '200'
+  :file: data/s-4partb-section200_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: B
+    spec: '300'
+  :file: data/s-4partb-section300_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: B
+    spec: '300'
+  :file: data/s-4partb-section300_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: B
+    spec: '400'
+  :file: data/s-4partb-section400_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: B
+    spec: '400'
+  :file: data/s-4partb-section400_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: B
+    spec: '500'
+  :file: data/s-4partb-section500_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: B
+    spec: '500'
+  :file: data/s-4partb-section500_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: B
+    spec: '600'
+  :file: data/s-4partb-section600_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: B
+    spec: '600'
+  :file: data/s-4partb-section600_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    part: B
+    part_edition: 4.10.0
+  :file: data/s-4partb_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
     part: B
     part_edition: 4.9.0
   :file: data/s-4partb_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: C
+    spec: '100'
+  :file: data/s-4partc-section100_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: C
+    spec: '100'
+  :file: data/s-4partc-section100_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: C
+    spec: '200'
+  :file: data/s-4partc-section200_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: C
+    spec: '200'
+  :file: data/s-4partc-section200_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: C
+    spec: '300'
+  :file: data/s-4partc-section300_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: C
+    spec: '300'
+  :file: data/s-4partc-section300_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: C
+    spec: '400'
+  :file: data/s-4partc-section400_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: C
+    spec: '400'
+  :file: data/s-4partc-section400_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.10.0
+    part: C
+    spec: '500'
+  :file: data/s-4partc-section500_4-10-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    edition: 4.9.0
+    part: C
+    spec: '500'
+  :file: data/s-4partc-section500_4-9-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '4'
+    part: C
+    part_edition: 4.10.0
+  :file: data/s-4partc_4-10-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '4'
