@@ -502,25 +502,25 @@
 - :id:
     _type: pubid:iho:standard
     number: '158'
-    checks_for: '100'
+    product: '100'
     edition: 1.0.0
   :file: data/s-158-100_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '158'
-    checks_for: '101'
+    product: '101'
     edition: 1.0.0
   :file: data/s-158-101_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '158'
-    checks_for: '130'
+    product: '130'
     edition: 1.0.0
   :file: data/s-158-130_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
     number: '158'
-    checks_for: '98'
+    product: '98'
     edition: 1.0.0
   :file: data/s-158-98_1-0-0.yaml
 - :id:
