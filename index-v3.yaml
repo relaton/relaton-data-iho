@@ -502,28 +502,32 @@
 - :id:
     _type: pubid:iho:standard
     number: '158'
-    edition: 1.0.0
-  :file: data/s-158_1-0-0.yaml
-- :id:
-    _type: pubid:iho:standard
-    number: 158:100
+    checks_for: '100'
     edition: 1.0.0
   :file: data/s-158-100_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
-    number: 158:101
+    number: '158'
+    checks_for: '101'
     edition: 1.0.0
   :file: data/s-158-101_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
-    number: 158:130
+    number: '158'
+    checks_for: '130'
     edition: 1.0.0
   :file: data/s-158-130_1-0-0.yaml
 - :id:
     _type: pubid:iho:standard
-    number: 158:98
+    number: '158'
+    checks_for: '98'
     edition: 1.0.0
   :file: data/s-158-98_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '158'
+    edition: 1.0.0
+  :file: data/s-158_1-0-0.yaml
 - :id:
     _type: pubid:iho:circular-letter
     number: '16'
