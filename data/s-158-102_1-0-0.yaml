@@ -37,11 +37,6 @@ contributor:
       identifier:
       - content: HSSC
         type: technical-committee
-    - name:
-      - content: Transfer Standard Maintenance and Application Development Working Group
-      identifier:
-      - content: TSMAD
-        type: working-group
     abbreviation:
       content: IHO
 edition:
@@ -87,5 +82,5 @@ validity:
 ext:
   schema_version: v1.0.0
   doctype:
-    content: specification
+    content: standard
   flavor: iho
