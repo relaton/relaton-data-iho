@@ -1,9 +1,9 @@
 {
   "repository": "relaton/relaton-data-iho",
   "workflow": "Crawler",
-  "run_id": "45717512569",
+  "run_id": "45729755819",
   "run_attempt": "1",
-  "source_revision": "ca6600ffd1ded5bb877859da225282143d64fc81",
+  "source_revision": "667fbf18ff2b9d6bf9e476f2d6c4d81692d430c6",
   "crawler": "bundle exec ruby crawler.rb",
-  "crawled_at": "2026-11-25T22:58:04Z"
+  "crawled_at": "2026-11-26T00:35:26Z"
 }
