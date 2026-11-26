@@ -1,6 +1,6 @@
 ---
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '1'
     edition: 1.0.0
   :file: data/b-1_1-0-0.yaml
@@ -45,7 +45,7 @@
     issue: '1'
   :file: data/p-1_vol-30-1.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '10'
     edition: 5.0.0
   :file: data/b-10_5-0-0.yaml
@@ -323,7 +323,7 @@
     edition: 2.0.0
   :file: data/s-104_2-0-0.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '11'
     edition: 1.0.0
   :file: data/b-11_1-0-0.yaml
@@ -348,12 +348,12 @@
     edition: 2.0.0
   :file: data/s-111_2-0-0.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '12'
     edition: 2.0.3
   :file: data/b-12_2-0-3.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '12'
     edition: 3.0.0
   :file: data/b-12_3-0-0.yaml
@@ -480,12 +480,12 @@
     edition: 2.0.0
   :file: data/s-129_2-0-0.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '13'
     edition: 1.0.0
   :file: data/b-13_1-0-0.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '13'
     edition: 1.0.0
   :file: data/c-13_1-0-0.yaml
@@ -514,6 +514,12 @@
 - :id:
     _type: pubid:iho:standard
     number: '158'
+    product: '102'
+    edition: 1.0.0
+  :file: data/s-158-102_1-0-0.yaml
+- :id:
+    _type: pubid:iho:standard
+    number: '158'
     product: '130'
     edition: 1.0.0
   :file: data/s-158-130_1-0-0.yaml
@@ -529,7 +535,7 @@
     edition: 1.0.0
   :file: data/s-158_1-0-0.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '16'
     edition: 1.0.0
   :file: data/c-16_1-0-0.yaml
@@ -539,12 +545,12 @@
     edition: 1.0.0
   :file: data/s-164_1-0-0.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '17'
     edition: 2.0.0
   :file: data/c-17_2-0-0.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '17'
     edition: 3.0.0
   :file: data/c-17_3-0-0.yaml
@@ -599,12 +605,12 @@
     edition: 1.0.0
   :file: data/s-32_1-0-0.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '33'
     edition: 1.0.0
   :file: data/c-33_3-0-0.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '4'
     edition: 2.19.0
   :file: data/b-4_2-19-0.yaml
@@ -923,7 +929,7 @@
     edition: 6.2.0
   :file: data/s-44_6-2-0.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '47'
     edition: 7.0.0
   :file: data/c-47_7-0-0.yaml
@@ -955,7 +961,7 @@
     part_edition: 1.0.1
   :file: data/s-5b_1-0-1.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '51'
     edition: 6.0.0
   :file: data/c-51_6-0-0.yaml
@@ -986,7 +992,7 @@
     appendix_edition: 1.0.0
   :file: data/s-53annex1_1-0-0.yaml
 - :id:
-    _type: pubid:iho:circular-letter
+    _type: pubid:iho:capacity_building
     number: '55'
     edition: 6.0.0
   :file: data/c-55_1-0-0.yaml
@@ -1006,7 +1012,7 @@
     edition: 7.0.0
   :file: data/s-58_7-0-0.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '6'
     edition: 4.2.0
   :file: data/b-6_4-2-0.yaml
@@ -1124,7 +1130,7 @@
     edition: 1.1.0
   :file: data/s-68_1-1-0.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '7'
     volume: '2003'
   :file: data/b-7_vol-2003.yaml
@@ -1164,7 +1170,7 @@
     edition: 1.0.9
   :file: data/p-7_1-0-9.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '8'
     edition: 1.1.1
   :file: data/b-8_1-1-1.yaml
@@ -1181,7 +1187,7 @@
     part_edition: 1.0.0
   :file: data/s-8b_1-0-0.yaml
 - :id:
-    _type: pubid:iho:bibliographic
+    _type: pubid:iho:bathymetric
     number: '9'
     edition: 2.12.0
   :file: data/b-9-2-12-0.yaml
